@@ -1,0 +1,501 @@
+kyc_reference_id,customer_reference,pan_or_tax_id,document_status,risk_flag,source_of_funds,last_review_date,aml_score
+KYC_7001,CUST_1001,GOaMv6991I,Missing,High Cash Activity,Investment,29-04-2024,0.39
+KYC_7002,CUST_1002,fBzeG9122S,Expired,Offshore Entity Link,Cash Deposits,26-03-2026,0.69
+KYC_7003,CUSTOMER_1003,JJzxf5383M,Verified,Politically Exposed Person,Business Income,2024-07-02,0.49
+KYC_7004,CUST-A-1004,GGPhk7478D,Under Review,Incomplete KYC,Salary,2025-01-18,0.17
+KYC_7005,CUST-A-1005,pOcGB3142p,Missing,Offshore Entity Link,Inheritance,06-07-2025,0.76
+KYC_7006,CUSTOMER_1006,IWiWu3231z,Expired,Sanctions Watchlist Match,Salary,01-01-2025,0.28
+KYC_7007,CUST-A-1007,RewYu6571b,Under Review,Politically Exposed Person,Cash Deposits,05/14/2026,0.16
+KYC_7008,CUST_1008,OlaqQ3920J,Under Review,Politically Exposed Person,Investment,11/19/2024,0.86
+KYC_7009,CUST-A-1009,SDDqj9665s,Verified,No Risk Flag,Unknown,10-12-2024,0.4
+KYC_7010,CUST_1010,lbWQC1803U,Missing,No Risk Flag,Unknown,07/20/2025,0.51
+KYC_7011,CUST-A-1011,sWkIW2000B,Expired,No Risk Flag,Business Income,2024-07-29,0.27
+KYC_7012,CUSTOMER_1012,plSSe7406b,Under Review,Sanctions Watchlist Match,Investment,02/09/2025,0.43
+KYC_7013,CUSTOMER_1013,annrW3033c,Under Review,Sanctions Watchlist Match,,22-09-2025,0.14
+KYC_7014,CUST_1014,mdisF3491b,Not Available,Sanctions Watchlist Match,Cash Deposits,03/08/2024,0.1
+KYC_7015,CUST-A-1015,SZGDd5797E,Missing,No Risk Flag,Business Income,15-12-2024,0.1
+KYC_7016,CUST-A-1016,sNgcr4489Q,Missing,Politically Exposed Person,Unknown,02/20/2025,0.73
+KYC_7017,CUST_1017,VDKTF5179B,Under Review,Politically Exposed Person,Business Income,2025-05-28,0.61
+KYC_7018,CUST-A-1018,CQrwI9665Y,Expired,Incomplete KYC,Cash Deposits,08/23/2024,0.92
+KYC_7019,CUST-A-1019,OIGps3833r,Under Review,Politically Exposed Person,Salary,06/30/2024,0.6
+KYC_7020,CUST_1020,uTcNc5081L,Expired,Unusual Beneficiary Pattern,Unknown,05/13/2025,0.92
+KYC_7021,CUSTOMER_1021,OCDVN5076V,Verified,High Cash Activity,Business Income,07/20/2025,0.27
+KYC_7022,CUST-A-1022,nHmnB8862s,Under Review,Unusual Beneficiary Pattern,Business Income,11/21/2025,0.16
+KYC_7023,CUSTOMER_1023,TvjFe3259W,Missing,High Cash Activity,Unknown,11/16/2025,0.3
+KYC_7024,CUST_1024,thVDo2166X,Verified,High Cash Activity,Salary,01/01/2026,0.8
+KYC_7025,CUST-A-1025,mDQZW0602H,Under Review,Politically Exposed Person,Salary,03/21/2025,0.41
+KYC_7026,CUST-A-1026,vLBGS7926z,Under Review,Politically Exposed Person,Cash Deposits,08/06/2024,0.41
+KYC_7027,CUST_1027,EtFIV8608o,Not Available,Unusual Beneficiary Pattern,Cash Deposits,03/04/2026,0.29
+KYC_7028,CUSTOMER_1028,FeMIX0390c,Not Available,High Cash Activity,Salary,26-12-2024,0.66
+KYC_7029,CUSTOMER_1029,FyZGG4116U,Expired,Politically Exposed Person,Investment,10/30/2024,0.57
+KYC_7030,CUST_1030,tZuzV9053E,Expired,High Cash Activity,Salary,15-03-2026,0.79
+KYC_7031,CUST_1031,hvAuS4282g,Verified,Unusual Beneficiary Pattern,Unknown,2025-05-20,0.75
+KYC_7032,CUST_1032,ADfAp1569L,Expired,High Cash Activity,Investment,2023-11-07,0.18
+KYC_7033,CUSTOMER_1033,fqjRz2051q,Under Review,Sanctions Watchlist Match,Investment,12-03-2024,0.11
+KYC_7034,CUST_1034,iVzEo0153E,Verified,Offshore Entity Link,Investment,2026-04-16,0.5
+KYC_7035,CUSTOMER_1035,Yvyir3885u,Missing,Unusual Beneficiary Pattern,,05/21/2024,0.08
+KYC_7036,CUSTOMER_1036,qjgxD9291L,Missing,Incomplete KYC,Salary,24-07-2024,0.48
+KYC_7037,CUSTOMER_1037,CXAlU5941Y,Missing,Incomplete KYC,Salary,11/24/2024,0.57
+KYC_7038,CUSTOMER_1038,PcQRg8555a,Under Review,No Risk Flag,Cash Deposits,03/08/2026,0.16
+KYC_7039,CUSTOMER_1039,VXjKF2946Q,Under Review,Politically Exposed Person,Investment,01/21/2024,0.71
+KYC_7040,CUSTOMER_1040,ZgUEf3348o,Verified,Sanctions Watchlist Match,Investment,12-07-2025,0.25
+KYC_7041,CUST_1041,VSrlA0043b,Missing,Politically Exposed Person,Unknown,2024-09-13,0.81
+KYC_7042,CUST_1042,sHlkd8759y,Missing,High Cash Activity,Business Income,11/11/2023,0.78
+KYC_7043,CUST_1043,nDvxO5632J,Verified,Incomplete KYC,Inheritance,2023-12-31,0.85
+KYC_7044,CUST_1044,eAooN1580X,Expired,Sanctions Watchlist Match,Investment,2026-05-10,0.87
+KYC_7045,CUST_1045,mJuKr5276T,Verified,Incomplete KYC,Investment,2026-04-01,0.9
+KYC_7046,CUSTOMER_1046,JfSjq5948S,Missing,Politically Exposed Person,Unknown,31-03-2025,0.39
+KYC_7047,CUST_1047,FjyEK0596c,Verified,Offshore Entity Link,Business Income,18-12-2024,0.49
+KYC_7048,CUSTOMER_1048,iDxhv7175E,Verified,Offshore Entity Link,Inheritance,2026-02-27,0.79
+KYC_7049,CUST-A-1049,KMHzC1309V,Verified,Politically Exposed Person,Salary,2023-09-10,0.19
+KYC_7050,CUST-A-1050,GrVRS0067v,Verified,Unusual Beneficiary Pattern,Inheritance,12-08-2024,0.48
+KYC_7051,CUST_1051,lJEwe2363Q,Expired,High Cash Activity,Salary,2025-07-06,0.52
+KYC_7052,CUSTOMER_1052,GePKm2146l,Verified,Incomplete KYC,Unknown,2026-01-04,0.44
+KYC_7053,CUST_1053,dBlOB3914p,Missing,Offshore Entity Link,Business Income,03/07/2025,0.66
+KYC_7054,CUST_1054,xVUCM0586L,Verified,Incomplete KYC,Unknown,07-02-2024,0.68
+KYC_7055,CUSTOMER_1055,nIUki1365J,Verified,High Cash Activity,Unknown,06/20/2024,0.75
+KYC_7056,CUSTOMER_1056,AGoTl9347I,Under Review,No Risk Flag,Salary,2026-01-09,0.09
+KYC_7057,CUSTOMER_1057,tZSzk3436C,Under Review,Offshore Entity Link,Investment,2025-04-04,0.79
+KYC_7058,CUSTOMER_1058,FOhLA9367G,Expired,Incomplete KYC,Unknown,10/11/2024,0.58
+KYC_7059,CUST-A-1059,KYdQE1799o,Missing,Politically Exposed Person,Inheritance,2026-03-22,0.29
+KYC_7060,CUST_1060,fwzFK0468w,Missing,Offshore Entity Link,Unknown,09/04/2024,0.65
+KYC_7061,CUST-A-1061,AOyNT4457X,Missing,High Cash Activity,Investment,12/18/2025,0.24
+KYC_7062,CUST_1062,QwzKp8940O,Under Review,No Risk Flag,Salary,11/30/2023,0.64
+KYC_7063,CUSTOMER_1063,UsDCO4048A,Verified,Offshore Entity Link,Inheritance,07-11-2025,0.37
+KYC_7064,CUSTOMER_1064,qpSlO8534v,Verified,Sanctions Watchlist Match,Inheritance,04/11/2026,0.18
+KYC_7065,CUST_1065,fLWGg9215S,Verified,Incomplete KYC,Inheritance,03/31/2024,0.4
+KYC_7066,CUST-A-1066,jhnCR4225p,Missing,High Cash Activity,Unknown,11/02/2025,0.27
+KYC_7067,CUST_1067,XMqTO7479l,Missing,High Cash Activity,Cash Deposits,01/25/2025,0.61
+KYC_7068,CUST_1068,msMSV3761f,Under Review,Unusual Beneficiary Pattern,Business Income,2025-08-11,0.7
+KYC_7069,CUSTOMER_1069,sdTDK3315J,Missing,No Risk Flag,Cash Deposits,05/24/2024,0.95
+KYC_7070,CUST_1070,lwaQQ3497W,Expired,Unusual Beneficiary Pattern,Business Income,14-09-2025,0.39
+KYC_7071,CUST-A-1071,yXinE0485I,Missing,Sanctions Watchlist Match,Salary,2024-02-18,0.61
+KYC_7072,CUSTOMER_1072,xoBnJ9209G,Under Review,Offshore Entity Link,Business Income,01/02/2024,0.38
+KYC_7073,CUST-A-1073,vOdkC8396v,Under Review,High Cash Activity,Salary,09/14/2025,0.55
+KYC_7074,CUST_1074,cJFnv6487Z,Missing,High Cash Activity,Cash Deposits,01/02/2026,0.31
+KYC_7075,CUSTOMER_1075,BoPnO1431E,Under Review,Offshore Entity Link,Investment,20-07-2025,0.08
+KYC_7076,CUST_1076,fqodH6462z,Expired,Politically Exposed Person,Investment,08-05-2024,0.78
+KYC_7077,CUSTOMER_1077,maYMd5433d,Expired,High Cash Activity,Cash Deposits,28-11-2025,0.54
+KYC_7078,CUSTOMER_1078,nYLTB0305Y,Expired,High Cash Activity,Investment,07-04-2024,0.78
+KYC_7079,CUST-A-1079,AQznD9902e,Verified,No Risk Flag,Business Income,19-09-2024,0.93
+KYC_7080,CUST-A-1080,ftVGc6900J,Expired,Sanctions Watchlist Match,Cash Deposits,09-11-2023,0.66
+KYC_7081,CUST_1081,RFRjS7001g,Verified,Incomplete KYC,Inheritance,2024-01-15,0.68
+KYC_7082,CUST-A-1082,BGvdh6055D,Under Review,Politically Exposed Person,Business Income,2025-03-16,0.6
+KYC_7083,CUST-A-1083,ydNwg2456x,Missing,No Risk Flag,Investment,31-03-2024,0.78
+KYC_7084,CUST_1084,wJpif3092S,Under Review,Politically Exposed Person,Inheritance,11-07-2024,0.82
+KYC_7085,CUST_1085,hMqke8676o,Expired,Offshore Entity Link,Cash Deposits,01/27/2026,0.06
+KYC_7086,CUSTOMER_1086,pPCKJ2904k,Expired,No Risk Flag,Unknown,05/22/2024,0.75
+KYC_7087,CUST-A-1087,VHqdb0703e,Under Review,Incomplete KYC,Cash Deposits,11/04/2023,0.42
+KYC_7088,CUST-A-1088,fgMps1118C,Under Review,Politically Exposed Person,Business Income,03/02/2024,0.56
+KYC_7089,CUSTOMER_1089,Jifum9124M,Missing,Sanctions Watchlist Match,Inheritance,2025-12-26,0.62
+KYC_7090,CUSTOMER_1090,KCkfR5887w,Verified,No Risk Flag,Cash Deposits,02/01/2025,0.86
+KYC_7091,CUST_1091,KKANT7229E,Under Review,Politically Exposed Person,Unknown,12/15/2024,0.21
+KYC_7092,CUST_1092,xokdu8153u,Missing,Incomplete KYC,Inheritance,2025-01-27,0.43
+KYC_7093,CUSTOMER_1093,Qqoth1519w,Under Review,No Risk Flag,Salary,2026-04-04,0.37
+KYC_7094,CUST_1094,VITQX4637g,Missing,Offshore Entity Link,Business Income,12/14/2024,0.73
+KYC_7095,CUST_1095,RaSwO7637A,Not Available,Sanctions Watchlist Match,Business Income,2025-01-18,0.66
+KYC_7096,CUST_1096,JAAnz7509o,Under Review,Unusual Beneficiary Pattern,Investment,12/19/2024,0.72
+KYC_7097,CUST_1097,ARPnL1095O,Under Review,Offshore Entity Link,Investment,22-02-2026,0.36
+KYC_7098,CUSTOMER_1098,HtWZh1583l,Not Available,Unusual Beneficiary Pattern,Salary,18-09-2025,0.76
+KYC_7099,CUST_1099,hahpR7430X,Missing,Incomplete KYC,Cash Deposits,2024-06-18,0.14
+KYC_7100,CUSTOMER_1100,bBwZq5151f,Not Available,Unusual Beneficiary Pattern,Business Income,08-03-2026,0.22
+KYC_7101,CUST-A-1101,JwjWG9122C,Missing,Incomplete KYC,Investment,2024-04-07,0.94
+KYC_7102,CUST_1102,pHqNl5446w,Expired,Sanctions Watchlist Match,Investment,12/17/2023,0.4
+KYC_7103,CUSTOMER_1103,httgU8781A,Verified,Politically Exposed Person,Inheritance,11/14/2025,0.26
+KYC_7104,CUST-A-1104,HxmDU5839F,Missing,High Cash Activity,Cash Deposits,2026-01-07,0.88
+KYC_7105,CUST_1105,MdVmm3474R,Missing,No Risk Flag,Cash Deposits,18-04-2026,0.37
+KYC_7106,CUST_1106,avXoj2770U,Missing,Sanctions Watchlist Match,Investment,2024-09-02,0.59
+KYC_7107,CUST_1107,daPGG0819H,Missing,Unusual Beneficiary Pattern,Business Income,06-09-2024,0.68
+KYC_7108,CUSTOMER_1108,gGjot6995Y,Missing,Offshore Entity Link,Business Income,2024-07-07,0.11
+KYC_7109,CUST-A-1109,ZUYuz3390I,Missing,Politically Exposed Person,Business Income,2024-10-05,0.47
+KYC_7110,CUSTOMER_1110,UDfHs2522E,Under Review,High Cash Activity,Unknown,13-09-2024,0.3
+KYC_7111,CUST_1111,HDpuS4836A,Under Review,Sanctions Watchlist Match,Inheritance,27-12-2023,0.47
+KYC_7112,CUST_1112,NhgDL4893j,Missing,Offshore Entity Link,Inheritance,07/22/2025,0.87
+KYC_7113,CUST_1113,etJXf6789a,Verified,Unusual Beneficiary Pattern,Investment,10/13/2024,0.48
+KYC_7114,CUST_1114,rhKaz1550q,Expired,High Cash Activity,Salary,03/23/2025,0.3
+KYC_7115,CUST-A-1115,PtucI9770y,Under Review,Politically Exposed Person,Investment,2024-04-06,0.46
+KYC_7116,CUSTOMER_1116,LqbUS5069V,Verified,Politically Exposed Person,Unknown,18-09-2025,0.39
+KYC_7117,CUST-A-1117,mbAAd5400p,Expired,Offshore Entity Link,Unknown,09/10/2023,0.32
+KYC_7118,CUSTOMER_1118,LgKvh8129t,Under Review,No Risk Flag,Cash Deposits,12/12/2023,0.18
+KYC_7119,CUSTOMER_1119,gGbjb8573k,Expired,Politically Exposed Person,Cash Deposits,2026-02-17,0.84
+KYC_7120,CUST_1120,teaup0000X,Under Review,High Cash Activity,Salary,05-03-2024,0.1
+KYC_7121,CUSTOMER_1121,nRXAK4414B,Under Review,Politically Exposed Person,Investment,05/23/2025,0.09
+KYC_7122,CUSTOMER_1122,lHbHB8064F,Expired,Politically Exposed Person,Salary,06/22/2024,0.3
+KYC_7123,CUST_1123,AFbNs3220Z,Missing,Sanctions Watchlist Match,Salary,2023-09-16,0.16
+KYC_7124,CUST_1124,kcVNL2438J,Expired,Incomplete KYC,Salary,30-10-2025,0.12
+KYC_7125,CUST_1125,SCPNZ3998L,Missing,Politically Exposed Person,Salary,03/29/2026,0.34
+KYC_7126,CUSTOMER_1126,FUqTv4534N,Expired,Offshore Entity Link,Inheritance,09-11-2023,0.72
+KYC_7127,CUST-A-1127,ksvgx4150X,Expired,Offshore Entity Link,Inheritance,08/24/2024,0.74
+KYC_7128,CUSTOMER_1128,GfhaF4421n,Missing,Sanctions Watchlist Match,Investment,2024-12-06,0.54
+KYC_7129,CUST-A-1129,APFGp9893k,Expired,Incomplete KYC,Business Income,2025-12-14,0.84
+KYC_7130,CUST_1130,UXbMt1250G,Verified,Incomplete KYC,Unknown,2025-06-19,0.36
+KYC_7131,CUST-A-1131,iHOXb3036x,Verified,Sanctions Watchlist Match,Unknown,03/25/2026,0.18
+KYC_7132,CUST-A-1132,Xpgzz5919P,Under Review,Politically Exposed Person,Cash Deposits,08/13/2024,0.65
+KYC_7133,CUST-A-1133,EaNoU1211t,Missing,Offshore Entity Link,Inheritance,11/23/2025,0.25
+KYC_7134,CUST-A-1134,CoFtP8575q,Missing,Unusual Beneficiary Pattern,Salary,01-03-2024,0.6
+KYC_7135,CUSTOMER_1135,rhItC9216G,Missing,Incomplete KYC,Business Income,14-03-2026,0.76
+KYC_7136,CUST_1136,BGSDa3724S,Expired,High Cash Activity,Cash Deposits,06/22/2025,0.49
+KYC_7137,CUSTOMER_1137,XTBKs5414r,Verified,Unusual Beneficiary Pattern,Inheritance,07-02-2026,0.88
+KYC_7138,CUSTOMER_1138,JJTYT6007P,Expired,High Cash Activity,,16-04-2024,0.17
+KYC_7139,CUSTOMER_1139,OEjyu8161S,Expired,No Risk Flag,Salary,2025-05-27,0.17
+KYC_7140,CUST_1140,rPLFt1630R,Verified,High Cash Activity,Cash Deposits,06/24/2024,0.18
+KYC_7141,CUST_1141,QkTjY6360j,Verified,Offshore Entity Link,Unknown,2026-02-28,0.12
+KYC_7142,CUSTOMER_1142,aoaNB3861f,Verified,Politically Exposed Person,Cash Deposits,11/17/2024,0.2
+KYC_7143,CUST-A-1143,itxXg0476u,Missing,Offshore Entity Link,Business Income,25-02-2024,0.6
+KYC_7144,CUST_1144,gYgEd7234q,Expired,No Risk Flag,Business Income,2024-08-19,0.08
+KYC_7145,CUSTOMER_1145,BSZev5798X,Verified,Offshore Entity Link,Unknown,16-11-2024,0.65
+KYC_7146,CUSTOMER_1146,uKsYY0100l,Missing,Unusual Beneficiary Pattern,Cash Deposits,2025-09-22,0.78
+KYC_7147,CUST_1147,BNCkO1737Z,Under Review,Offshore Entity Link,Investment,2025-07-11,0.79
+KYC_7148,CUST_1148,HOWnK5429L,Verified,No Risk Flag,Cash Deposits,22-02-2024,0.75
+KYC_7149,CUSTOMER_1149,lwsvt4769P,Missing,Unusual Beneficiary Pattern,Business Income,05/21/2025,0.35
+KYC_7150,CUSTOMER_1150,kDSeX5691k,Verified,Offshore Entity Link,Unknown,2025-10-03,0.89
+KYC_7151,CUSTOMER_1151,CKJZT2291x,Missing,High Cash Activity,Salary,03/24/2025,0.49
+KYC_7152,CUSTOMER_1152,XmGmE3582R,Under Review,Incomplete KYC,Salary,2025-11-21,0.73
+KYC_7153,CUSTOMER_1153,QVJjN6816e,Not Available,Unusual Beneficiary Pattern,Business Income,27-06-2025,0.69
+KYC_7154,CUST_1154,oTnkO4736r,Expired,Offshore Entity Link,Salary,04/24/2025,0.6
+KYC_7155,CUST_1155,XLOdc2259x,Verified,Unusual Beneficiary Pattern,Unknown,04/08/2024,0.31
+KYC_7156,CUST_1156,rmuMV5587j,Missing,Politically Exposed Person,Business Income,08/17/2024,0.61
+KYC_7157,CUSTOMER_1157,XrrqC1765e,Missing,Politically Exposed Person,Investment,08/10/2025,0.7
+KYC_7158,CUST-A-1158,eVTAV1754F,Expired,No Risk Flag,Cash Deposits,28-04-2024,0.71
+KYC_7159,CUSTOMER_1159,mZnyX3192R,Under Review,Sanctions Watchlist Match,Cash Deposits,06/14/2024,0.55
+KYC_7160,CUST-A-1160,PJpxA9955r,Under Review,Sanctions Watchlist Match,Unknown,29-05-2024,0.91
+KYC_7161,CUSTOMER_1161,UWIcB3418V,Verified,High Cash Activity,Salary,11-10-2025,0.1
+KYC_7162,CUST_1162,KbXpP5344x,Expired,Incomplete KYC,Investment,28-07-2024,0.54
+KYC_7163,CUST-A-1163,qjIzO3452s,Under Review,Unusual Beneficiary Pattern,Inheritance,10/02/2023,0.39
+KYC_7164,CUST_1164,Rhyng2646y,Verified,Offshore Entity Link,Business Income,10/21/2024,0.38
+KYC_7165,CUST-A-1165,GcRZl1969u,Verified,Offshore Entity Link,Salary,08-07-2025,0.72
+KYC_7166,CUST_1166,ZdcsS1212O,Missing,Politically Exposed Person,Inheritance,03/29/2026,0.36
+KYC_7167,CUST_1167,qIJVb7238I,Expired,Politically Exposed Person,Business Income,12/13/2023,0.76
+KYC_7168,CUST-A-1168,UidNo6732I,Verified,High Cash Activity,Investment,2023-11-16,0.19
+KYC_7169,CUSTOMER_1169,yhpyO8922M,Expired,Politically Exposed Person,Unknown,2025-12-01,0.56
+KYC_7170,CUST-A-1170,akihx0577z,Under Review,High Cash Activity,Investment,2025-12-13,0.11
+KYC_7171,CUSTOMER_1171,cuuLY0468e,Expired,Unusual Beneficiary Pattern,Unknown,01/16/2025,0.14
+KYC_7172,CUST_1172,ceFsT7270B,Expired,High Cash Activity,Inheritance,01/21/2026,0.24
+KYC_7173,CUST_1173,Kztto5334p,Missing,Incomplete KYC,Inheritance,06/13/2024,0.46
+KYC_7174,CUST-A-1174,NmCfJ1472o,Verified,Unusual Beneficiary Pattern,Cash Deposits,2023-09-24,0.45
+KYC_7175,CUSTOMER_1175,PUbhg2245Q,Under Review,Unusual Beneficiary Pattern,Business Income,11-11-2023,0.06
+KYC_7176,CUSTOMER_1176,rBXkz9008x,Expired,Sanctions Watchlist Match,Unknown,07/23/2024,0.81
+KYC_7177,CUSTOMER_1177,QciLW6351R,Verified,Politically Exposed Person,Inheritance,27-06-2025,0.67
+KYC_7178,CUST-A-1178,hDioN8827x,Under Review,Sanctions Watchlist Match,Inheritance,28-02-2025,0.68
+KYC_7179,CUST_1179,vwxeD4645H,Verified,Incomplete KYC,,06/18/2024,0.49
+KYC_7180,CUST_1180,QQEAT4274U,Missing,Incomplete KYC,,02-10-2023,0.79
+KYC_7181,CUSTOMER_1181,LRyRJ3723B,Under Review,Politically Exposed Person,Salary,01-07-2025,0.7
+KYC_7182,CUSTOMER_1182,OnZJN6520D,Under Review,Sanctions Watchlist Match,Investment,05/24/2025,0.64
+KYC_7183,CUST_1183,judca1319X,Missing,High Cash Activity,Investment,07-08-2024,0.89
+KYC_7184,CUST_1184,LrSBh8768e,Verified,Incomplete KYC,Salary,2025-07-27,0.83
+KYC_7185,CUST_1185,KUGVy8252I,Expired,No Risk Flag,Investment,02/23/2024,0.16
+KYC_7186,CUST-A-1186,oBHrH9248X,Under Review,Politically Exposed Person,Cash Deposits,30-09-2024,0.33
+KYC_7187,CUST_1187,FFKDJ8852d,Expired,Offshore Entity Link,Unknown,11/09/2025,0.45
+KYC_7188,CUSTOMER_1188,VskGo8518i,Expired,No Risk Flag,Business Income,08/17/2024,0.27
+KYC_7189,CUST_1189,QQzRZ8888C,Verified,No Risk Flag,Inheritance,03/25/2024,0.45
+KYC_7190,CUST_1190,jDxjF3259C,Verified,Unusual Beneficiary Pattern,Cash Deposits,19-10-2024,0.17
+KYC_7191,CUSTOMER_1191,jAGUH8437w,Verified,No Risk Flag,Inheritance,04/23/2024,0.81
+KYC_7192,CUSTOMER_1192,sjXMZ8943u,Under Review,Sanctions Watchlist Match,Salary,2025-10-23,0.12
+KYC_7193,CUST-A-1193,uXDzE9651v,Under Review,Unusual Beneficiary Pattern,Cash Deposits,10-02-2024,0.37
+KYC_7194,CUST-A-1194,OvzEW0650O,Under Review,Sanctions Watchlist Match,Business Income,21-08-2024,0.91
+KYC_7195,CUST-A-1195,VsbIM6083n,Verified,Sanctions Watchlist Match,Cash Deposits,01/15/2026,0.07
+KYC_7196,CUST-A-1196,NfGXV5716r,Under Review,Incomplete KYC,,2025-03-16,0.81
+KYC_7197,CUST_1197,oFYMa9964q,Under Review,Offshore Entity Link,Salary,11/02/2023,0.14
+KYC_7198,CUST_1198,erFPj8402I,Missing,Incomplete KYC,Unknown,2024-08-20,0.64
+KYC_7199,CUSTOMER_1199,wfUbf9034i,Missing,Unusual Beneficiary Pattern,Inheritance,10/03/2024,0.17
+KYC_7200,CUSTOMER_1200,lgqMp7352f,Expired,Offshore Entity Link,Business Income,03/05/2025,0.38
+KYC_7201,CUST-A-1201,LYZHH1514e,Under Review,Unusual Beneficiary Pattern,Inheritance,2026-02-25,0.7
+KYC_7202,CUST-A-1202,amuxL5437g,Verified,High Cash Activity,Cash Deposits,13-11-2023,0.57
+KYC_7203,CUSTOMER_1203,JtLCZ8258N,Expired,No Risk Flag,,15-01-2024,0.06
+KYC_7204,CUST-A-1204,xWxYC5986L,Expired,Sanctions Watchlist Match,Unknown,2024-09-30,0.28
+KYC_7205,CUST-A-1205,Ehshr8873o,Expired,Incomplete KYC,Business Income,2023-09-27,0.39
+KYC_7206,CUST_1206,TFSht1287I,Verified,High Cash Activity,Business Income,17-08-2025,0.29
+KYC_7207,CUST_1207,ERChP3616A,Not Available,Offshore Entity Link,Unknown,2026-01-04,0.48
+KYC_7208,CUSTOMER_1208,fWUkp8391x,Verified,Sanctions Watchlist Match,Salary,2024-05-10,0.13
+KYC_7209,CUST_1209,PcNfK8565J,Expired,Sanctions Watchlist Match,Business Income,2025-08-08,0.19
+KYC_7210,CUST-A-1210,XKGSU8600p,Under Review,High Cash Activity,Inheritance,07/11/2025,0.55
+KYC_7211,CUST-A-1211,FMkrJ1705m,Expired,Offshore Entity Link,Business Income,01-09-2024,0.48
+KYC_7212,CUST_1212,GEsFp0910o,Under Review,Incomplete KYC,Business Income,02/15/2025,0.34
+KYC_7213,CUST-A-1213,LaJwJ2422e,Missing,Sanctions Watchlist Match,Business Income,14-08-2024,0.79
+KYC_7214,CUST_1214,DjrBn0255e,Verified,Sanctions Watchlist Match,Business Income,02/09/2025,0.11
+KYC_7215,CUST-A-1215,aMIjR3394l,Verified,Sanctions Watchlist Match,Cash Deposits,11/02/2025,0.23
+KYC_7216,CUST-A-1216,yyEMA3570Y,Under Review,Politically Exposed Person,Cash Deposits,2026-01-26,0.25
+KYC_7217,CUSTOMER_1217,sIPhb1015j,Verified,Politically Exposed Person,Unknown,2026-03-24,0.55
+KYC_7218,CUSTOMER_1218,iFLfs6236F,Under Review,High Cash Activity,Inheritance,2025-12-23,0.33
+KYC_7219,CUST-A-1219,ULOpS2961Y,Missing,High Cash Activity,Cash Deposits,2023-11-28,0.79
+KYC_7220,CUSTOMER_1220,AauGC9987u,Expired,Unusual Beneficiary Pattern,Cash Deposits,03/21/2026,0.83
+KYC_7221,CUST-A-1221,VxXIy8618J,Under Review,Politically Exposed Person,Salary,08-04-2024,0.78
+KYC_7222,CUSTOMER_1222,QVVSE5330G,Expired,Incomplete KYC,,05/27/2024,0.26
+KYC_7223,CUST_1223,AWvwN3127N,Missing,Offshore Entity Link,Investment,09-09-2023,0.24
+KYC_7224,CUSTOMER_1224,bEpxj5457B,Verified,Sanctions Watchlist Match,Salary,2023-09-12,0.15
+KYC_7225,CUSTOMER_1225,AIkLG3255f,Missing,High Cash Activity,Inheritance,11/12/2024,0.56
+KYC_7226,CUSTOMER_1226,BOVYm9284D,Under Review,No Risk Flag,Investment,11-01-2025,0.63
+KYC_7227,CUST-A-1227,oDkXS8952s,Expired,Incomplete KYC,Salary,12/11/2023,0.07
+KYC_7228,CUSTOMER_1228,CWHvZ5996o,Verified,Incomplete KYC,Salary,2025-09-27,0.14
+KYC_7229,CUST-A-1229,VXnpf8059d,Under Review,Incomplete KYC,Cash Deposits,08-01-2026,0.15
+KYC_7230,CUST_1230,MYkfx0067K,Missing,Politically Exposed Person,Business Income,16-03-2024,0.53
+KYC_7231,CUSTOMER_1231,btykj0816J,Verified,Incomplete KYC,Investment,09/18/2025,0.73
+KYC_7232,CUSTOMER_1232,EuKeX0747M,Missing,Offshore Entity Link,Investment,2026-01-27,0.5
+KYC_7233,CUST-A-1233,eUlgB7371j,Under Review,Offshore Entity Link,Cash Deposits,06/04/2024,0.35
+KYC_7234,CUSTOMER_1234,PuJvC3207I,Under Review,Sanctions Watchlist Match,Cash Deposits,03-06-2024,0.28
+KYC_7235,CUSTOMER_1235,kcvcl7565Q,Verified,Unusual Beneficiary Pattern,Unknown,12/05/2024,0.45
+KYC_7236,CUSTOMER_1236,JMFjD3392W,Missing,Politically Exposed Person,Inheritance,24-10-2024,0.88
+KYC_7237,CUST-A-1237,HUIQC9904w,Expired,Incomplete KYC,Business Income,2025-06-14,0.15
+KYC_7238,CUST_1238,QBapa1082u,Expired,High Cash Activity,Salary,06/22/2025,0.41
+KYC_7239,CUSTOMER_1239,pBVbT6511O,Expired,Unusual Beneficiary Pattern,Cash Deposits,06/01/2025,0.13
+KYC_7240,CUST_1240,loeye2484t,Missing,Sanctions Watchlist Match,Business Income,09/03/2023,0.85
+KYC_7241,CUST-A-1241,xkXrc6997V,Expired,Politically Exposed Person,Unknown,04/02/2026,0.75
+KYC_7242,CUSTOMER_1242,pUTCC0713t,Verified,Sanctions Watchlist Match,Salary,2024-12-24,0.37
+KYC_7243,CUST_1243,OZlXn8369a,Expired,Unusual Beneficiary Pattern,Cash Deposits,12/13/2024,0.91
+KYC_7244,CUST-A-1244,lyKYk7169d,Missing,High Cash Activity,Investment,05/14/2025,0.55
+KYC_7245,CUST_1245,EZbRU3276Z,Verified,Offshore Entity Link,Salary,2024-07-06,0.91
+KYC_7246,CUST-A-1246,oGqdL4275D,Expired,Unusual Beneficiary Pattern,Investment,15-08-2024,0.27
+KYC_7247,CUST-A-1247,YsCyj4437k,Expired,Offshore Entity Link,Business Income,10/02/2023,0.3
+KYC_7248,CUST_1248,tzuHE3507h,Missing,Unusual Beneficiary Pattern,Investment,26-07-2025,0.33
+KYC_7249,CUSTOMER_1249,rbiNW6609A,Under Review,No Risk Flag,Investment,2024-12-02,0.86
+KYC_7250,CUST_1250,zoghM6438Q,Verified,High Cash Activity,Investment,02-08-2024,0.87
+KYC_7251,CUSTOMER_1251,TtMVv7733z,Under Review,Sanctions Watchlist Match,Cash Deposits,01/14/2026,0.45
+KYC_7252,CUST-A-1252,GPceR2507U,Under Review,Offshore Entity Link,Cash Deposits,05/17/2024,0.52
+KYC_7253,CUST-A-1253,pcBpe1649g,Expired,Sanctions Watchlist Match,Business Income,2026-04-15,0.55
+KYC_7254,CUSTOMER_1254,OXoSk4375q,Verified,Incomplete KYC,Inheritance,25-10-2025,0.7
+KYC_7255,CUST-A-1255,VEMVG7207T,Verified,Incomplete KYC,Salary,06/26/2024,0.65
+KYC_7256,CUST_1256,NsajH8506T,Under Review,Politically Exposed Person,Inheritance,2023-11-23,0.11
+KYC_7257,CUSTOMER_1257,KTImX2357u,Under Review,Offshore Entity Link,Cash Deposits,15-05-2026,0.44
+KYC_7258,CUST_1258,jFiUo8215F,Under Review,Sanctions Watchlist Match,Cash Deposits,21-01-2024,0.81
+KYC_7259,CUST-A-1259,tJwXe3746x,Under Review,Incomplete KYC,Cash Deposits,2023-11-12,0.64
+KYC_7260,CUST-A-1260,lJNVZ4933D,Missing,Sanctions Watchlist Match,Investment,2024-03-26,0.94
+KYC_7261,CUSTOMER_1261,UYuIi4906h,Under Review,Incomplete KYC,Cash Deposits,03/17/2025,0.8
+KYC_7262,CUST-A-1262,BybUY7607s,Verified,No Risk Flag,Business Income,2026-03-23,0.74
+KYC_7263,CUSTOMER_1263,CUrHc9648z,Verified,Sanctions Watchlist Match,Unknown,2024-07-28,0.31
+KYC_7264,CUST-A-1264,ahRhe5734I,Verified,Unusual Beneficiary Pattern,Inheritance,2024-03-25,0.42
+KYC_7265,CUST-A-1265,CgZWV7476S,Missing,Sanctions Watchlist Match,Business Income,2023-09-28,0.46
+KYC_7266,CUST-A-1266,SNNVO6861V,Under Review,High Cash Activity,Salary,2025-04-21,0.72
+KYC_7267,CUST_1267,UJTIF5083w,Under Review,High Cash Activity,Investment,04-12-2024,0.65
+KYC_7268,CUST_1268,DVAsB6007M,Missing,High Cash Activity,Unknown,10/17/2024,0.73
+KYC_7269,CUST-A-1269,FsLBB5572G,Under Review,Incomplete KYC,Salary,03/03/2025,0.52
+KYC_7270,CUST_1270,njPfM8069y,Expired,Politically Exposed Person,Business Income,26-04-2024,0.71
+KYC_7271,CUSTOMER_1271,IJEdo5103S,Expired,Offshore Entity Link,Salary,2025-01-05,0.68
+KYC_7272,CUST_1272,kLYlO4463t,Verified,Incomplete KYC,Cash Deposits,19-11-2024,0.08
+KYC_7273,CUST_1273,WiDDn8483q,Verified,Offshore Entity Link,Unknown,2024-03-05,0.5
+KYC_7274,CUST-A-1274,MlxCU2202p,Expired,Unusual Beneficiary Pattern,Inheritance,2026-01-19,0.51
+KYC_7275,CUST-A-1275,daQtC2576c,Expired,No Risk Flag,Inheritance,11/27/2023,0.72
+KYC_7276,CUST_1276,CBsap6017D,Missing,Offshore Entity Link,Inheritance,2024-03-25,0.07
+KYC_7277,CUST-A-1277,cvmJy0698u,Expired,Unusual Beneficiary Pattern,Business Income,12-02-2025,0.31
+KYC_7278,CUSTOMER_1278,ZTGji6269K,Under Review,Offshore Entity Link,Salary,2025-06-05,0.09
+KYC_7279,CUSTOMER_1279,rjHlJ1744s,Missing,Unusual Beneficiary Pattern,Inheritance,2024-06-17,0.8
+KYC_7280,CUSTOMER_1280,gGzUZ4332d,Verified,No Risk Flag,Unknown,01/29/2024,0.29
+KYC_7281,CUSTOMER_1281,fYubD2247J,Verified,Sanctions Watchlist Match,Salary,05/11/2024,0.55
+KYC_7282,CUST_1282,VSEgY4316E,Verified,No Risk Flag,Inheritance,09/06/2025,0.43
+KYC_7283,CUSTOMER_1283,aAhPo5678h,Missing,No Risk Flag,Salary,02/25/2024,0.21
+KYC_7284,CUST_1284,EWzlM6064y,Under Review,Incomplete KYC,Inheritance,2024-03-26,0.61
+KYC_7285,CUST-A-1285,aeyzB4924k,Expired,No Risk Flag,Salary,2023-10-04,0.54
+KYC_7286,CUSTOMER_1286,fGVWX4190k,Under Review,Politically Exposed Person,Cash Deposits,10/28/2024,0.51
+KYC_7287,CUSTOMER_1287,javIJ0213d,Verified,High Cash Activity,Salary,2023-11-02,0.83
+KYC_7288,CUST_1288,BBWgo9413n,Missing,Sanctions Watchlist Match,Investment,04/17/2026,0.92
+KYC_7289,CUST_1289,jppMq0106f,Verified,Politically Exposed Person,,2024-05-07,0.35
+KYC_7290,CUST-A-1290,WzueI8303H,Verified,High Cash Activity,Unknown,24-01-2026,0.32
+KYC_7291,CUST-A-1291,EqitG6387C,Under Review,High Cash Activity,Cash Deposits,2024-09-26,0.07
+KYC_7292,CUSTOMER_1292,wQdXw4849e,Under Review,Politically Exposed Person,Business Income,2025-09-23,0.45
+KYC_7293,CUST_1293,SrCvb9676g,Under Review,Sanctions Watchlist Match,Business Income,15-01-2026,0.39
+KYC_7294,CUST_1294,ftfaU9147U,Verified,Offshore Entity Link,Unknown,2025-11-13,0.82
+KYC_7295,CUST_1295,dqkJp9959L,Under Review,Offshore Entity Link,Salary,20-08-2025,0.63
+KYC_7296,CUST-A-1296,ZRxcu5819p,Verified,High Cash Activity,Inheritance,2025-07-18,0.2
+KYC_7297,CUST_1297,yYeyF0625R,Expired,Unusual Beneficiary Pattern,,12/13/2025,0.85
+KYC_7298,CUST-A-1298,WKhyk0071N,Under Review,Unusual Beneficiary Pattern,Business Income,09/05/2024,0.66
+KYC_7299,CUST-A-1299,EVGge8221n,Missing,High Cash Activity,Inheritance,12/08/2023,0.35
+KYC_7300,CUST_1300,kgrsV4786N,Verified,High Cash Activity,Unknown,2026-05-08,0.74
+KYC_7301,CUST_1301,hdabL1980S,Under Review,Incomplete KYC,Unknown,29-06-2025,0.35
+KYC_7302,CUST-A-1302,rnneE9478I,Under Review,Politically Exposed Person,Business Income,07-10-2023,0.85
+KYC_7303,CUSTOMER_1303,beHmp8766c,Under Review,Offshore Entity Link,Cash Deposits,2026-04-24,0.67
+KYC_7304,CUST_1304,iezlc3981N,Expired,High Cash Activity,Investment,2024-10-24,0.88
+KYC_7305,CUST-A-1305,vsOrK0159q,Verified,Politically Exposed Person,Cash Deposits,2024-07-21,0.38
+KYC_7306,CUST_1306,bYzSh9646C,Verified,Incomplete KYC,Business Income,2025-08-18,0.64
+KYC_7307,CUSTOMER_1307,wdIkG5348S,Verified,Offshore Entity Link,Business Income,02/16/2024,0.23
+KYC_7308,CUSTOMER_1308,NpYVT5013X,Expired,High Cash Activity,Investment,2023-11-23,0.67
+KYC_7309,CUSTOMER_1309,FaPls4174F,Under Review,High Cash Activity,Business Income,08-02-2025,0.88
+KYC_7310,CUST-A-1310,dOSOF4091t,Expired,Politically Exposed Person,Investment,29-09-2024,0.45
+KYC_7311,CUST_1311,NWwLk6086R,Missing,Politically Exposed Person,Cash Deposits,2024-10-09,0.52
+KYC_7312,CUSTOMER_1312,AyJPM8436I,Under Review,Unusual Beneficiary Pattern,Business Income,2025-07-08,0.6
+KYC_7313,CUSTOMER_1313,eJSVI1952M,Under Review,Offshore Entity Link,Cash Deposits,2025-03-13,0.51
+KYC_7314,CUST_1314,FDaSA2369a,Verified,No Risk Flag,Salary,2024-11-18,0.84
+KYC_7315,CUST_1315,AqpHE1691z,Expired,Politically Exposed Person,Salary,18-10-2025,0.07
+KYC_7316,CUST_1316,TxXBm2860s,Verified,Offshore Entity Link,Investment,2023-12-09,0.37
+KYC_7317,CUST_1317,zMOwa1962T,Expired,Politically Exposed Person,Salary,03/08/2024,0.55
+KYC_7318,CUST-A-1318,jujCj7175d,Missing,High Cash Activity,Investment,14-04-2024,0.73
+KYC_7319,CUST_1319,oJSYu3871z,Under Review,Unusual Beneficiary Pattern,Investment,2026-02-15,0.64
+KYC_7320,CUST-A-1320,Tvuzp9781r,Verified,Sanctions Watchlist Match,Inheritance,2025-06-17,0.61
+KYC_7321,CUST_1321,UGmzb3931D,Under Review,Offshore Entity Link,Business Income,2025-12-06,0.06
+KYC_7322,CUSTOMER_1322,heVEn1072r,Expired,Sanctions Watchlist Match,Inheritance,2025-09-13,0.6
+KYC_7323,CUST_1323,LsGpe6187e,Under Review,Politically Exposed Person,Inheritance,07/22/2024,0.57
+KYC_7324,CUST_1324,oyyIV8095R,Under Review,Unusual Beneficiary Pattern,Cash Deposits,2025-08-08,0.13
+KYC_7325,CUST_1325,gtssp3113X,Missing,Unusual Beneficiary Pattern,Salary,2025-12-11,0.58
+KYC_7326,CUSTOMER_1326,zdRoP9105S,Expired,High Cash Activity,,09/13/2023,0.9
+KYC_7327,CUSTOMER_1327,umXZr7622z,Missing,High Cash Activity,Salary,13-01-2025,0.33
+KYC_7328,CUSTOMER_1328,RudMu4823W,Expired,Sanctions Watchlist Match,Inheritance,09/02/2023,0.63
+KYC_7329,CUSTOMER_1329,mpBfy5846V,Under Review,High Cash Activity,Cash Deposits,2025-01-27,0.51
+KYC_7330,CUST_1330,RYbgD4924r,Expired,Unusual Beneficiary Pattern,Business Income,03/17/2026,0.35
+KYC_7331,CUST-A-1331,HTkYv4594M,Missing,High Cash Activity,Unknown,08-09-2023,0.63
+KYC_7332,CUST-A-1332,KCIZH2091x,Expired,Incomplete KYC,Business Income,2024-09-27,0.52
+KYC_7333,CUST-A-1333,qJAXc3844H,Expired,Politically Exposed Person,Inheritance,24-07-2025,0.64
+KYC_7334,CUST-A-1334,jLvmN3833X,Missing,No Risk Flag,Unknown,10/17/2024,0.72
+KYC_7335,CUSTOMER_1335,CJZYi8691Q,Missing,Unusual Beneficiary Pattern,Salary,2025-06-14,0.73
+KYC_7336,CUST_1336,sAGHN3733T,Expired,Sanctions Watchlist Match,Salary,06/28/2024,0.79
+KYC_7337,CUST_1337,vNoBZ7861X,Missing,Incomplete KYC,Unknown,01-01-2026,0.38
+KYC_7338,CUST-A-1338,smyJO4598B,Verified,Incomplete KYC,Investment,25-06-2024,0.63
+KYC_7339,CUST_1339,VGZyh8728X,Verified,Offshore Entity Link,Inheritance,2024-11-24,0.06
+KYC_7340,CUST-A-1340,ZUjEU9244Q,Under Review,Incomplete KYC,Inheritance,2023-10-22,0.88
+KYC_7341,CUST_1341,EYWod4234q,Missing,High Cash Activity,Unknown,12/03/2023,0.22
+KYC_7342,CUSTOMER_1342,BaKYF2366h,Expired,Incomplete KYC,Salary,30-03-2026,0.46
+KYC_7343,CUSTOMER_1343,TFRUZ0713a,Missing,Unusual Beneficiary Pattern,Unknown,2023-11-05,0.76
+KYC_7344,CUST_1344,cxCOa0657t,Expired,Offshore Entity Link,Cash Deposits,2025-01-13,0.4
+KYC_7345,CUST-A-1345,qwROR3757q,Expired,Unusual Beneficiary Pattern,Inheritance,12-05-2025,0.11
+KYC_7346,CUSTOMER_1346,RfnXH4513G,Missing,High Cash Activity,Salary,28-02-2025,0.64
+KYC_7347,CUSTOMER_1347,mYlKc3374E,Verified,High Cash Activity,Inheritance,09/09/2023,0.4
+KYC_7348,CUSTOMER_1348,OlDYJ8006z,Expired,Unusual Beneficiary Pattern,Inheritance,05/29/2025,0.72
+KYC_7349,CUST-A-1349,BbNEe6397I,Missing,Incomplete KYC,Business Income,2025-03-18,0.4
+KYC_7350,CUST-A-1350,jIlRd2153m,Verified,High Cash Activity,Business Income,30-07-2024,0.14
+KYC_7351,CUSTOMER_1351,ysZEa0597k,Verified,Sanctions Watchlist Match,,07-08-2024,0.06
+KYC_7352,CUST-A-1352,URHFI1406Y,Expired,Sanctions Watchlist Match,Salary,04/30/2024,0.72
+KYC_7353,CUSTOMER_1353,SjhLw8961l,Expired,High Cash Activity,Investment,12-10-2023,0.24
+KYC_7354,CUST_1354,OxUrt1159C,Under Review,Sanctions Watchlist Match,Inheritance,05-08-2024,0.68
+KYC_7355,CUST_1355,QrmLy0025m,Expired,Offshore Entity Link,Investment,02/03/2025,0.44
+KYC_7356,CUST-A-1356,lFtxD5244M,Expired,Sanctions Watchlist Match,Cash Deposits,09/30/2025,0.88
+KYC_7357,CUST_1357,Gmvsz5004U,Missing,Offshore Entity Link,Inheritance,05/08/2025,0.36
+KYC_7358,CUST_1358,uWVko2865k,Expired,Politically Exposed Person,Inheritance,2023-09-06,0.05
+KYC_7359,CUSTOMER_1359,dcXys3282G,Expired,Offshore Entity Link,Cash Deposits,2025-01-16,0.06
+KYC_7360,CUSTOMER_1360,HSkaH8816D,Expired,Politically Exposed Person,Business Income,20-06-2024,0.83
+KYC_7361,CUST_1361,JqbbX1790U,Missing,Offshore Entity Link,Unknown,06-08-2025,0.35
+KYC_7362,CUST-A-1362,Pqhlz8021C,Expired,No Risk Flag,Business Income,09/23/2025,0.16
+KYC_7363,CUST_1363,OjjUq0625m,Expired,Politically Exposed Person,Unknown,2024-11-06,0.77
+KYC_7364,CUSTOMER_1364,tewaL5451C,Under Review,High Cash Activity,Cash Deposits,02/26/2026,0.5
+KYC_7365,CUSTOMER_1365,VRjph1293g,Verified,Unusual Beneficiary Pattern,Unknown,2023-11-22,0.27
+KYC_7366,CUSTOMER_1366,EtIel2214H,Under Review,Offshore Entity Link,,09-01-2025,0.12
+KYC_7367,CUST_1367,FxRNn5969F,Under Review,Sanctions Watchlist Match,Unknown,20-11-2024,0.25
+KYC_7368,CUST-A-1368,PsOGe2606N,Missing,Politically Exposed Person,Inheritance,20-02-2026,0.53
+KYC_7369,CUST_1369,OACzV2431L,Verified,Politically Exposed Person,Inheritance,12-04-2025,0.63
+KYC_7370,CUST-A-1370,nxXAj6500y,Expired,Offshore Entity Link,Unknown,2024-09-24,0.35
+KYC_7371,CUST_1371,GyZxK5928B,Missing,Unusual Beneficiary Pattern,Investment,2026-04-24,0.2
+KYC_7372,CUST_1372,uTSvt9123Q,Expired,Offshore Entity Link,Investment,2025-04-26,0.59
+KYC_7373,CUST-A-1373,otApu7335E,Missing,Unusual Beneficiary Pattern,Inheritance,04/11/2026,0.34
+KYC_7374,CUST-A-1374,wTYub7527o,Verified,Unusual Beneficiary Pattern,Inheritance,2024-08-05,0.21
+KYC_7375,CUST_1375,PPFuB3858M,Under Review,Unusual Beneficiary Pattern,Investment,02/24/2026,0.58
+KYC_7376,CUSTOMER_1376,qsVGQ9270L,Missing,Politically Exposed Person,Salary,17-10-2025,0.51
+KYC_7377,CUST-A-1377,efXPt3987j,Missing,Incomplete KYC,Inheritance,03/21/2026,0.44
+KYC_7378,CUST_1378,SvHxX1223w,Expired,Politically Exposed Person,Inheritance,07-09-2023,0.55
+KYC_7379,CUST-A-1379,MyVMX1355B,Under Review,High Cash Activity,Unknown,2025-07-28,0.19
+KYC_7380,CUST_1380,ahVve8044b,Under Review,Incomplete KYC,Salary,03/07/2024,0.77
+KYC_7381,CUSTOMER_1381,Qilpn8703A,Under Review,Incomplete KYC,Cash Deposits,2024-03-24,0.75
+KYC_7382,CUSTOMER_1382,alAbt4322q,Expired,Incomplete KYC,Cash Deposits,04-09-2023,0.36
+KYC_7383,CUSTOMER_1383,hyPek3885b,Missing,Politically Exposed Person,Investment,22-06-2025,0.46
+KYC_7384,CUST-A-1384,WCWzT8883y,Missing,Politically Exposed Person,Unknown,12/17/2023,0.83
+KYC_7385,CUST-A-1385,wOpyz8916C,Missing,High Cash Activity,Investment,31-08-2025,0.26
+KYC_7386,CUSTOMER_1386,phDRl1766Y,Verified,Unusual Beneficiary Pattern,Cash Deposits,2024-09-14,0.41
+KYC_7387,CUST_1387,bftfk8994a,Expired,Offshore Entity Link,Inheritance,2025-06-27,0.14
+KYC_7388,CUST_1388,PQzEE9966d,Under Review,High Cash Activity,Inheritance,12/06/2025,0.07
+KYC_7389,CUSTOMER_1389,IOeQK6174S,Expired,Politically Exposed Person,Investment,2026-01-29,0.78
+KYC_7390,CUST-A-1390,EnTWB0844L,Missing,Sanctions Watchlist Match,Investment,2025-08-05,0.12
+KYC_7391,CUST-A-1391,grCTQ9477U,Expired,No Risk Flag,Inheritance,16-06-2024,0.87
+KYC_7392,CUST-A-1392,pjefM2843N,Missing,No Risk Flag,Business Income,2024-12-20,0.93
+KYC_7393,CUST-A-1393,CxdBw9048F,Missing,High Cash Activity,Unknown,2024-07-13,0.18
+KYC_7394,CUSTOMER_1394,eVDpt5432M,Expired,High Cash Activity,Investment,31-12-2023,0.28
+KYC_7395,CUST-A-1395,cdnBt6857e,Under Review,Incomplete KYC,Inheritance,02/14/2026,0.87
+KYC_7396,CUST_1396,WcPZm1195W,Verified,Politically Exposed Person,Unknown,21-04-2026,0.51
+KYC_7397,CUST-A-1397,oSPkn1144L,Under Review,High Cash Activity,Cash Deposits,02-05-2026,0.44
+KYC_7398,CUST_1398,UXPIz1060k,Verified,No Risk Flag,Cash Deposits,2025-02-21,0.71
+KYC_7399,CUSTOMER_1399,CVYdx3400F,Missing,High Cash Activity,Salary,2024-10-05,0.53
+KYC_7400,CUST_1400,RbPuj1675G,Verified,Politically Exposed Person,Inheritance,02/22/2025,0.7
+KYC_7401,CUST-A-1401,hxdnJ5073T,Missing,Offshore Entity Link,Unknown,2025-08-29,0.79
+KYC_7402,CUSTOMER_1402,rffnq1425g,Under Review,Incomplete KYC,Investment,26-02-2024,0.41
+KYC_7403,CUSTOMER_1403,PCuqR6141Q,Under Review,Unusual Beneficiary Pattern,Inheritance,2025-11-28,0.49
+KYC_7404,CUSTOMER_1404,RoEkf5969t,Expired,Politically Exposed Person,Salary,01-03-2024,0.62
+KYC_7405,CUST-A-1405,HTAKG4741y,Expired,High Cash Activity,Inheritance,03/12/2026,0.74
+KYC_7406,CUST-A-1406,frGrv5055q,Expired,High Cash Activity,Business Income,02/05/2026,0.45
+KYC_7407,CUST_1407,nejno8769F,Missing,Offshore Entity Link,Investment,01/30/2025,0.94
+KYC_7408,CUST_1408,nOvtb5221d,Verified,Sanctions Watchlist Match,Cash Deposits,2026-04-15,0.05
+KYC_7409,CUST_1409,jGtWG9212D,Missing,Sanctions Watchlist Match,Investment,16-12-2025,0.32
+KYC_7410,CUSTOMER_1410,ylYTs7040q,Verified,Sanctions Watchlist Match,Salary,11/12/2024,0.94
+KYC_7411,CUSTOMER_1411,FtoBP1400O,Under Review,High Cash Activity,Salary,2025-06-05,0.82
+KYC_7412,CUST_1412,PIuSH6046n,Missing,No Risk Flag,,2024-11-22,0.62
+KYC_7413,CUST-A-1413,YIOXq1818B,Under Review,Offshore Entity Link,Salary,25-04-2025,0.39
+KYC_7414,CUST_1414,EkChr5314M,Under Review,Sanctions Watchlist Match,Cash Deposits,2024-03-20,0.88
+KYC_7415,CUST_1415,MBGHg9410K,Under Review,Incomplete KYC,Unknown,09/09/2025,0.2
+KYC_7416,CUSTOMER_1416,dFNJs4273S,Verified,Incomplete KYC,Business Income,2024-04-26,0.57
+KYC_7417,CUST_1417,akIzi1069k,Under Review,Unusual Beneficiary Pattern,Business Income,2023-09-20,0.37
+KYC_7418,CUST-A-1418,VSree3384z,Verified,Sanctions Watchlist Match,Salary,2026-01-17,0.62
+KYC_7419,CUST_1419,HLSMb3278H,Missing,Sanctions Watchlist Match,Unknown,2024-03-01,0.24
+KYC_7420,CUSTOMER_1420,TBtkt3564W,Verified,No Risk Flag,Unknown,30-08-2025,0.7
+KYC_7421,CUST-A-1421,ltlyI2775m,Missing,Incomplete KYC,,06-03-2024,0.18
+KYC_7422,CUSTOMER_1422,tHLQc1347L,Verified,Sanctions Watchlist Match,Cash Deposits,06-04-2026,0.22
+KYC_7423,CUST_1423,EIDAe4591i,Under Review,Unusual Beneficiary Pattern,Business Income,14-02-2024,0.78
+KYC_7424,CUST_1424,fFWod1367h,Under Review,Politically Exposed Person,Inheritance,01/12/2024,0.09
+KYC_7425,CUSTOMER_1425,tUEMn1262y,Verified,Offshore Entity Link,Salary,15-02-2026,0.41
+KYC_7426,CUST_1426,yaUMi4404V,Verified,Sanctions Watchlist Match,,2026-01-23,0.5
+KYC_7427,CUST-A-1427,xuAkJ9407I,Verified,Sanctions Watchlist Match,Business Income,2024-07-08,0.15
+KYC_7428,CUST_1428,vqNfS1377F,Not Available,Unusual Beneficiary Pattern,Business Income,11-02-2024,0.09
+KYC_7429,CUST-A-1429,mcCFZ7069M,Under Review,Unusual Beneficiary Pattern,,2025-07-17,0.54
+KYC_7430,CUSTOMER_1430,LZxaw6199u,Missing,Unusual Beneficiary Pattern,Business Income,15-05-2026,0.64
+KYC_7431,CUST_1431,GWIQu0159E,Expired,Incomplete KYC,Unknown,2026-05-15,0.35
+KYC_7432,CUSTOMER_1432,bifrQ3643u,Expired,Politically Exposed Person,Cash Deposits,2025-08-11,0.89
+KYC_7433,CUSTOMER_1433,NYWXc9050a,Missing,Offshore Entity Link,,11/10/2024,0.78
+KYC_7434,CUSTOMER_1434,CeHDO3964l,Under Review,Offshore Entity Link,Salary,14-04-2026,0.91
+KYC_7435,CUST_1435,pmJic0077w,Expired,Unusual Beneficiary Pattern,Investment,18-03-2025,0.51
+KYC_7436,CUST-A-1436,NkNhV4024t,Under Review,No Risk Flag,Business Income,20-10-2025,0.51
+KYC_7437,CUSTOMER_1437,rgaTr3999M,Verified,Politically Exposed Person,Investment,03/23/2026,0.66
+KYC_7438,CUSTOMER_1438,HgaJu6671U,Verified,No Risk Flag,Salary,09/22/2023,0.71
+KYC_7439,CUST_1439,afnZX8219m,Expired,Offshore Entity Link,Inheritance,11/15/2023,0.59
+KYC_7440,CUSTOMER_1440,ZiLYI6684m,Under Review,No Risk Flag,Salary,17-05-2025,0.72
+KYC_7441,CUST_1441,JZPPh3195y,Under Review,Offshore Entity Link,Business Income,2024-02-25,0.6
+KYC_7442,CUST_1442,rdQQH8395P,Expired,Offshore Entity Link,Investment,03/14/2026,0.52
+KYC_7443,CUST_1443,EDZqN0795w,Verified,No Risk Flag,Investment,11/01/2023,0.22
+KYC_7444,CUST_1444,dbVOO4074G,Missing,Incomplete KYC,Business Income,29-09-2025,0.68
+KYC_7445,CUSTOMER_1445,ABDat7139G,Under Review,High Cash Activity,Salary,24-06-2024,0.92
+KYC_7446,CUSTOMER_1446,jcauQ2998Y,Verified,Incomplete KYC,Cash Deposits,2023-10-09,0.68
+KYC_7447,CUST-A-1447,OCHPC6030o,Under Review,No Risk Flag,Inheritance,18-05-2025,0.78
+KYC_7448,CUSTOMER_1448,eXEve6405Z,Verified,Incomplete KYC,Investment,2024-12-02,0.5
+KYC_7449,CUST_1449,erSCp7455v,Under Review,Politically Exposed Person,Business Income,12/08/2024,0.12
+KYC_7450,CUST-A-1450,EsthF7841o,Under Review,High Cash Activity,Unknown,10/19/2023,0.76
+KYC_7451,CUST-A-1451,Xrows4671n,Expired,No Risk Flag,Cash Deposits,20-12-2023,0.77
+KYC_7452,CUST-A-1452,TbEKh5201z,Verified,High Cash Activity,Investment,11-12-2025,0.85
+KYC_7453,CUST_1453,AojfO1004V,Verified,Unusual Beneficiary Pattern,Salary,2024-02-04,0.59
+KYC_7454,CUST_1454,sEDoR7380a,Under Review,Incomplete KYC,Cash Deposits,16-02-2024,0.59
+KYC_7455,CUST_1455,wmOUd5189P,Under Review,Incomplete KYC,Unknown,2026-04-13,0.35
+KYC_7456,CUSTOMER_1456,oAVQN4500g,Verified,Offshore Entity Link,Investment,2024-01-26,0.35
+KYC_7457,CUSTOMER_1457,QVemv8158O,Expired,Sanctions Watchlist Match,Business Income,11/20/2023,0.56
+KYC_7458,CUSTOMER_1458,pKosP6839O,Expired,Incomplete KYC,Unknown,12-07-2025,0.34
+KYC_7459,CUST-A-1459,QLqcV0992G,Expired,Offshore Entity Link,Inheritance,08/07/2024,0.35
+KYC_7460,CUST-A-1460,daCRO9836N,Not Available,Offshore Entity Link,Cash Deposits,2024-08-13,0.68
+KYC_7461,CUSTOMER_1461,AKcAt2065g,Under Review,Politically Exposed Person,Cash Deposits,2023-09-28,0.57
+KYC_7462,CUST-A-1462,YVIBb2761K,Under Review,Sanctions Watchlist Match,Salary,2025-10-29,0.62
+KYC_7463,CUST_1463,ZAnOi1059Q,Missing,High Cash Activity,Unknown,2024-08-30,0.08
+KYC_7464,CUST_1464,acrKq1023l,Under Review,High Cash Activity,Inheritance,2025-05-28,0.58
+KYC_7465,CUST-A-1465,DlvsF3053p,Under Review,High Cash Activity,Cash Deposits,2024-02-05,0.72
+KYC_7466,CUSTOMER_1466,TgoZH5395w,Expired,No Risk Flag,Business Income,09/25/2025,0.46
+KYC_7467,CUST_1467,MdiTv9818q,Missing,Incomplete KYC,Business Income,2024-02-07,0.59
+KYC_7468,CUSTOMER_1468,RCcun3727s,Expired,Politically Exposed Person,Investment,2026-04-12,0.77
+KYC_7469,CUSTOMER_1469,RZMyO8892j,Verified,Unusual Beneficiary Pattern,Unknown,03/01/2026,0.39
+KYC_7470,CUST-A-1470,XNSIh6002j,Under Review,Politically Exposed Person,Salary,26-11-2024,0.95
+KYC_7471,CUST_1471,OsOnY1561r,Verified,Sanctions Watchlist Match,Inheritance,06/11/2025,0.53
+KYC_7472,CUST_1472,lXlCe7607R,Expired,No Risk Flag,Cash Deposits,10-08-2025,0.78
+KYC_7473,CUSTOMER_1473,aYVeE9154J,Missing,Politically Exposed Person,Unknown,30-09-2025,0.62
+KYC_7474,CUSTOMER_1474,RPlHA6092e,Expired,Offshore Entity Link,Cash Deposits,2024-11-02,0.08
+KYC_7475,CUST_1475,EBEWZ1812R,Expired,Politically Exposed Person,Salary,17-03-2026,0.52
+KYC_7476,CUST-A-1476,TQOoX2372Q,Missing,Sanctions Watchlist Match,Cash Deposits,2026-01-15,0.88
+KYC_7477,CUST_1477,fVefm9539i,Under Review,High Cash Activity,Inheritance,05/12/2026,0.64
+KYC_7478,CUST-A-1478,nXFOY6613s,Expired,No Risk Flag,Inheritance,04/22/2024,0.75
+KYC_7479,CUST_1479,EtkyJ2283H,Under Review,Offshore Entity Link,Unknown,08/12/2024,0.1
+KYC_7480,CUST_1480,ARvJS4186O,Expired,No Risk Flag,Investment,2025-08-10,0.84
+KYC_7481,CUST-A-1481,kdLvL2036d,Under Review,Politically Exposed Person,Inheritance,09/09/2024,0.59
+KYC_7482,CUST-A-1482,GzutP0161T,Under Review,Offshore Entity Link,Business Income,01/31/2024,0.6
+KYC_7483,CUST-A-1483,JruAN4923I,Verified,Politically Exposed Person,,17-04-2025,0.54
+KYC_7484,CUSTOMER_1484,tXUgq1491y,Expired,Sanctions Watchlist Match,Inheritance,11-12-2024,0.27
+KYC_7485,CUSTOMER_1485,oZbPH6227m,Missing,Offshore Entity Link,Unknown,27-11-2024,0.43
+KYC_7486,CUST-A-1486,LKRRI4516p,Under Review,Incomplete KYC,Salary,27-08-2025,0.48
+KYC_7487,CUST-A-1487,rORku8687O,Under Review,Incomplete KYC,Business Income,2023-12-21,0.54
+KYC_7488,CUSTOMER_1488,dntte9706M,Missing,High Cash Activity,Salary,14-10-2025,0.35
+KYC_7489,CUST-A-1489,XzYrg9752p,Verified,Politically Exposed Person,Investment,2025-10-15,0.89
+KYC_7490,CUST-A-1490,hFItl5762N,Missing,Offshore Entity Link,Inheritance,18-10-2023,0.88
+KYC_7491,CUSTOMER_1491,wzNUh6804H,Under Review,Incomplete KYC,Salary,2025-06-23,0.22
+KYC_7492,CUSTOMER_1492,wFBVO6921r,Missing,Unusual Beneficiary Pattern,Investment,02/26/2026,0.21
+KYC_7493,CUSTOMER_1493,pJGSf6357j,Missing,Sanctions Watchlist Match,Inheritance,01-02-2025,0.69
+KYC_7494,CUST_1494,lRybb9061V,Verified,High Cash Activity,,02/12/2025,0.31
+KYC_7495,CUST_1495,Dnenk4992L,Expired,High Cash Activity,Business Income,2024-05-28,0.27
+KYC_7496,CUST-A-1496,uSjKM2744Y,Under Review,Incomplete KYC,Cash Deposits,01/21/2024,0.9
+KYC_7497,CUST_1497,bDPLo7977S,Under Review,Unusual Beneficiary Pattern,Cash Deposits,2025-07-12,0.46
+KYC_7498,CUST_1498,wjRbx2596m,Under Review,Unusual Beneficiary Pattern,Cash Deposits,03/02/2025,0.55
+KYC_7499,CUSTOMER_1499,ewXMw3894z,Expired,Unusual Beneficiary Pattern,Investment,09-05-2026,0.1
+KYC_7500,CUST-A-1500,FVEcB0997q,Verified,High Cash Activity,Unknown,03/01/2025,0.89

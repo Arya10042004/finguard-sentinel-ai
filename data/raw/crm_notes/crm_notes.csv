@@ -1,0 +1,401 @@
+crm_note_id,customer_reference,relationship_manager,interaction_channel,note_text,interaction_date,sentiment
+CRM_3001,CUST_1240,Donna Mccullough,Video Call,Customer refused to provide updated business ownership documents.,07-17-2025,Negative
+CRM_3002,CUST_1426,Peggy Parker,Video Call,Client mentioned offshore vendor relationship during call.,2025-09-07,Negative
+CRM_3003,CUST_1479,Michael Wheeler,Email,Customer refused to provide updated business ownership documents.,11-03-2025,Negative
+CRM_3004,ACC_5117,Samantha Smith,Phone,No suspicious activity observed during routine interaction.,01-04-2026,Positive
+CRM_3005,ACC_5435,Suzanne Wilson,Email,No suspicious activity observed during routine interaction.,2025-08-11,Concern
+CRM_3006,CUSTOMER-1240,Andrea Pruitt,Phone,Customer asked about increasing transaction limits.,12-29-2025,Negative
+CRM_3007,ACC_5247,Jason Thompson,Chat,Relationship manager marked customer as premium corporate client.,01-01-2026,Concern
+CRM_3008,CUST_1144,Christopher Cochran,Email,Client mentioned offshore vendor relationship during call.,28/10/2025,Neutral
+CRM_3009,CUSTOMER-1452,Lori Davis,Phone,Customer was unable to explain source of recent large deposit.,01-14-2026,Negative
+CRM_3010,CUST_1309,Jason Stanton,Video Call,Customer refused to provide updated business ownership documents.,2025-08-11,Neutral
+CRM_3011,ACC_5066,Donald Ward,Video Call,Dormant customer account suddenly became active.,18/11/2025,Concern
+CRM_3012,ACC_5340,Timothy Cooke,Phone,Customer claims payments are for consulting services.,08-14-2025,Concern
+CRM_3013,CUST_1167,Amber Cortez,Chat,Customer claims payments are for consulting services.,02-27-2026,Negative
+CRM_3014,CUSTOMER-1207,Carla Bowman,Video Call,Customer refused to provide updated business ownership documents.,10-03-2025,Concern
+CRM_3015,CUSTOMER-1392,Elizabeth White,Video Call,Customer requested urgent international transfer without clear invoice.,05-23-2026,Neutral
+CRM_3016,ACC_5267,Jimmy Kirk,Chat,No suspicious activity observed during routine interaction.,11/07/2025,Neutral
+CRM_3017,CUST_1182,Victoria Payne,Chat,Multiple beneficiaries added within short time period.,29/11/2025,Positive
+CRM_3018,CUST_1359,Brandon Moore,Chat,Customer requested urgent international transfer without clear invoice.,05-08-2026,Neutral
+CRM_3019,CUST_1408,Keith Rivas,Email,Relationship manager marked customer as premium corporate client.,09-21-2025,Positive
+CRM_3020,CUSTOMER-1219,Michael Little,Email,Dormant customer account suddenly became active.,10-10-2025,Negative
+CRM_3021,CUST_1469,Michelle Wallace,Chat,Client mentioned offshore vendor relationship during call.,10-13-2025,Concern
+CRM_3022,CUSTOMER-1144,Monica Vasquez,Branch Visit,Customer requested urgent international transfer without clear invoice.,2026-01-27,Negative
+CRM_3023,ACC_5273,Richard Thornton,Video Call,Customer claims payments are for consulting services.,2026-01-23,Neutral
+CRM_3024,CUST_1094,Stephen Moore,Video Call,Customer was unable to explain source of recent large deposit.,08-07-2025,Concern
+CRM_3025,ACC_5072,Jordan Hamilton,Branch Visit,Customer was unable to explain source of recent large deposit.,04-30-2026,Negative
+CRM_3026,ACC_5326,Angela Ingram,Phone,Customer requested urgent international transfer without clear invoice.,2026-02-01,Neutral
+CRM_3027,CUST_1219,Nancy Gibson,Phone,Customer was unable to explain source of recent large deposit.,23/01/2026,Positive
+CRM_3028,CUSTOMER-1200,Krystal Bean,Email,No suspicious activity observed during routine interaction.,2025-06-23,Positive
+CRM_3029,CUST_1369,Samuel Reeves,Phone,Customer claims payments are for consulting services.,04-05-2026,Neutral
+CRM_3030,CUST_1317,Joseph Nichols,Branch Visit,No suspicious activity observed during routine interaction.,09-23-2025,Negative
+CRM_3031,ACC_5313,Devon Moore,Video Call,Customer refused to provide updated business ownership documents.,25/02/2026,Neutral
+CRM_3032,ACC_5098,Stephanie Morris,Chat,Customer asked about increasing transaction limits.,2025-08-18,Concern
+CRM_3033,CUSTOMER-1362,Katherine Valdez,Video Call,Customer refused to provide updated business ownership documents.,2026-04-26,Neutral
+CRM_3034,CUST_1301,Angelica Miller,Branch Visit,Relationship manager marked customer as premium corporate client.,12/02/2026,Concern
+CRM_3035,CUST_1450,James Shepherd,Video Call,Client mentioned offshore vendor relationship during call.,06-20-2025,Concern
+CRM_3036,CUST_1240,Robert Ross,Video Call,Customer asked about increasing transaction limits.,04-15-2026,Negative
+CRM_3037,CUST_1251,Jennifer Nguyen,Phone,Customer was unable to explain source of recent large deposit.,03-31-2026,Positive
+CRM_3038,CUSTOMER-1469,Nicolas Hansen,Chat,Customer requested urgent international transfer without clear invoice.,2025-09-25,Negative
+CRM_3039,ACC_5382,Kendra Medina,Chat,Customer was unable to explain source of recent large deposit.,2026-03-29,Negative
+CRM_3040,CUSTOMER-1255,Adam Webb,Video Call,Customer requested urgent international transfer without clear invoice.,2026-03-30,Negative
+CRM_3041,ACC_5231,Casey Ward,Video Call,Customer asked about increasing transaction limits.,18/09/2025,Concern
+CRM_3042,ACC_5047,Tanya Cruz,Video Call,Customer refused to provide updated business ownership documents.,08-11-2025,Negative
+CRM_3043,ACC_5013,Edwin Hernandez,Phone,Dormant customer account suddenly became active.,2025-12-01,Positive
+CRM_3044,CUSTOMER-1274,Jill Williams,Chat,Customer requested urgent international transfer without clear invoice.,07-06-2025,Neutral
+CRM_3045,CUST_1247,Jessica Nelson,Chat,Multiple beneficiaries added within short time period.,23/04/2026,Positive
+CRM_3046,CUST_1126,Jordan Good,Video Call,Client mentioned offshore vendor relationship during call.,2026-04-24,Negative
+CRM_3047,CUST_1430,Christopher Gonzalez,Chat,Client mentioned offshore vendor relationship during call.,2025-07-23,Neutral
+CRM_3048,ACC_5434,Linda Stewart,Chat,Customer claims payments are for consulting services.,26/08/2025,Concern
+CRM_3049,CUST_1362,Brittany Roach,Chat,Multiple beneficiaries added within short time period.,18/08/2025,Neutral
+CRM_3050,ACC_5246,Amy Mcdowell,Chat,Customer asked about increasing transaction limits.,13/10/2025,Concern
+CRM_3051,CUST_1118,Melissa Frost,Video Call,Dormant customer account suddenly became active.,2025-11-26,Negative
+CRM_3052,CUSTOMER-1499,Brett Cook,Email,Client mentioned offshore vendor relationship during call.,01-09-2026,Negative
+CRM_3053,CUSTOMER-1433,Brandy Jackson,Chat,Customer claims payments are for consulting services.,09/03/2026,Neutral
+CRM_3054,CUST_1274,David Lewis,Branch Visit,Customer claims payments are for consulting services.,09-21-2025,Concern
+CRM_3055,CUST_1187,Daniel Warren,Video Call,Customer requested urgent international transfer without clear invoice.,2025-09-04,Neutral
+CRM_3056,ACC_5059,Kyle King,Phone,Customer requested urgent international transfer without clear invoice.,05/01/2026,Negative
+CRM_3057,CUSTOMER-1371,Susan Frazier,Branch Visit,Customer requested urgent international transfer without clear invoice.,2025-09-27,Neutral
+CRM_3058,ACC_5331,Emily Martin,Email,No suspicious activity observed during routine interaction.,2025-07-20,Negative
+CRM_3059,ACC_5373,Michael King,Video Call,Customer requested urgent international transfer without clear invoice.,19/05/2026,Negative
+CRM_3060,CUST_1449,Bobby Carrillo,Chat,Customer was unable to explain source of recent large deposit.,15/03/2026,Positive
+CRM_3061,ACC_5344,James Pittman,Phone,Customer was unable to explain source of recent large deposit.,2025-12-17,Concern
+CRM_3062,CUST_1166,Scott Valdez,Chat,Dormant customer account suddenly became active.,2026-03-13,Concern
+CRM_3063,CUST_1442,Courtney Bell,Branch Visit,Customer refused to provide updated business ownership documents.,10-31-2025,Concern
+CRM_3064,CUST_1474,Christopher Hicks,Chat,Customer refused to provide updated business ownership documents.,05/01/2026,Neutral
+CRM_3065,CUST_1477,Wesley Walker,Video Call,Customer was unable to explain source of recent large deposit.,06-08-2025,Negative
+CRM_3066,CUSTOMER-1489,Rebecca Faulkner,Video Call,Multiple beneficiaries added within short time period.,08-25-2025,Negative
+CRM_3067,ACC_5390,Jenna Roth,Email,Relationship manager marked customer as premium corporate client.,23/07/2025,Neutral
+CRM_3068,CUSTOMER-1193,Robert Williams,Chat,Customer refused to provide updated business ownership documents.,16/04/2026,Positive
+CRM_3069,ACC_5062,John Watson,Chat,Customer asked about increasing transaction limits.,2026-03-16,Positive
+CRM_3070,ACC_5111,Mr. Andre Allen,Chat,Client mentioned offshore vendor relationship during call.,06-28-2025,Concern
+CRM_3071,ACC_5156,Tony Brown,Phone,Customer refused to provide updated business ownership documents.,14/04/2026,Negative
+CRM_3072,CUSTOMER-1180,Meredith Bennett,Video Call,Customer claims payments are for consulting services.,22/12/2025,Positive
+CRM_3073,CUSTOMER-1087,Charles Marshall,Video Call,No suspicious activity observed during routine interaction.,09/07/2025,Concern
+CRM_3074,CUSTOMER-1029,Matthew Compton,Email,Customer requested urgent international transfer without clear invoice.,09-17-2025,Positive
+CRM_3075,CUST_1332,Lindsey James,Video Call,Customer asked about increasing transaction limits.,15/03/2026,Concern
+CRM_3076,ACC_5183,Kimberly Brown,Email,Customer was unable to explain source of recent large deposit.,08/02/2026,Neutral
+CRM_3077,ACC_5046,Corey Curtis,Email,Customer was unable to explain source of recent large deposit.,10-16-2025,Concern
+CRM_3078,ACC_5337,Kayla Watson,Phone,Customer claims payments are for consulting services.,31/08/2025,Positive
+CRM_3079,CUSTOMER-1200,Audrey Fitzpatrick,Phone,Customer was unable to explain source of recent large deposit.,2026-04-21,Negative
+CRM_3080,ACC_5291,Jackie Bowen,Phone,Dormant customer account suddenly became active.,08-06-2025,Positive
+CRM_3081,CUSTOMER-1301,Meredith Gould,Branch Visit,Multiple beneficiaries added within short time period.,13/05/2026,Positive
+CRM_3082,ACC_5344,Matthew Vincent,Phone,Relationship manager marked customer as premium corporate client.,23/01/2026,Positive
+CRM_3083,CUST_1162,Lisa Reed,Branch Visit,Customer claims payments are for consulting services.,07-21-2025,Positive
+CRM_3084,CUST_1056,Erica Pruitt,Video Call,Dormant customer account suddenly became active.,18/03/2026,Positive
+CRM_3085,ACC_5107,Jacob Decker,Phone,Relationship manager marked customer as premium corporate client.,18/11/2025,Neutral
+CRM_3086,ACC_5490,Dr. Diane Harris,Video Call,Dormant customer account suddenly became active.,2025-11-15,Neutral
+CRM_3087,ACC_5264,Virginia Williams,Branch Visit,Customer requested urgent international transfer without clear invoice.,2026-01-22,Concern
+CRM_3088,CUSTOMER-1026,Heather Payne,Phone,Customer refused to provide updated business ownership documents.,21/10/2025,Negative
+CRM_3089,ACC_5451,David Chandler,Phone,No suspicious activity observed during routine interaction.,2026-03-15,Negative
+CRM_3090,CUSTOMER-1143,Jennifer Gibson MD,Phone,Multiple beneficiaries added within short time period.,2026-02-06,Concern
+CRM_3091,CUST_1332,Sarah Hanna,Video Call,No suspicious activity observed during routine interaction.,02-23-2026,Positive
+CRM_3092,ACC_5130,Shirley Wright,Chat,Customer asked about increasing transaction limits.,07-06-2025,Neutral
+CRM_3093,CUSTOMER-1359,Miguel Thompson,Email,Multiple beneficiaries added within short time period.,2026-05-06,Concern
+CRM_3094,CUST_1078,Jesse Nixon,Branch Visit,Multiple beneficiaries added within short time period.,2025-09-09,Neutral
+CRM_3095,ACC_5266,Keith Riley,Video Call,Customer requested urgent international transfer without clear invoice.,03-20-2026,Positive
+CRM_3096,ACC_5168,Gary Saunders,Chat,No suspicious activity observed during routine interaction.,02-09-2026,Neutral
+CRM_3097,CUSTOMER-1114,Jeffrey Byrd,Phone,Multiple beneficiaries added within short time period.,05/11/2025,Neutral
+CRM_3098,CUSTOMER-1027,Ronald Bender,Email,Dormant customer account suddenly became active.,20/02/2026,Negative
+CRM_3099,CUST_1033,Mark Green,Email,Client mentioned offshore vendor relationship during call.,2025-07-06,Concern
+CRM_3100,CUSTOMER-1076,Christopher Thomas,Chat,Customer asked about increasing transaction limits.,13/02/2026,Positive
+CRM_3101,ACC_5252,Robin Grimes,Branch Visit,Client mentioned offshore vendor relationship during call.,04-19-2026,Negative
+CRM_3102,ACC_5025,Ronald Bryan,Branch Visit,Dormant customer account suddenly became active.,16/10/2025,Neutral
+CRM_3103,CUSTOMER-1185,Angela Ware,Chat,Relationship manager marked customer as premium corporate client.,04-06-2026,Negative
+CRM_3104,ACC_5444,William Taylor,Branch Visit,Customer asked about increasing transaction limits.,2026-03-31,Negative
+CRM_3105,ACC_5139,Jennifer Warren,Chat,Dormant customer account suddenly became active.,12-08-2025,Neutral
+CRM_3106,CUST_1300,Patricia Miller,Phone,Customer was unable to explain source of recent large deposit.,11-22-2025,Negative
+CRM_3107,CUST_1374,Thomas Garner,Branch Visit,Customer asked about increasing transaction limits.,2025-06-05,Neutral
+CRM_3108,CUSTOMER-1500,Jacob Morgan,Phone,Multiple beneficiaries added within short time period.,06-17-2025,Neutral
+CRM_3109,ACC_5423,Beth Jones,Chat,Customer claims payments are for consulting services.,07-27-2025,Positive
+CRM_3110,CUST_1301,Brandy James,Chat,Relationship manager marked customer as premium corporate client.,18/12/2025,Neutral
+CRM_3111,ACC_5372,Corey Collins,Branch Visit,Customer asked about increasing transaction limits.,2026-03-16,Negative
+CRM_3112,CUSTOMER-1209,Breanna Gilmore,Chat,Customer refused to provide updated business ownership documents.,04-05-2026,Concern
+CRM_3113,CUSTOMER-1320,Suzanne Shannon,Phone,Customer requested urgent international transfer without clear invoice.,2025-12-31,Concern
+CRM_3114,CUSTOMER-1497,Richard Garrett,Phone,No suspicious activity observed during routine interaction.,2025-11-10,Negative
+CRM_3115,CUST_1137,Dana Cordova,Chat,Multiple beneficiaries added within short time period.,05/02/2026,Neutral
+CRM_3116,CUSTOMER-1249,Joe Finley,Video Call,Dormant customer account suddenly became active.,21/08/2025,Positive
+CRM_3117,CUST_1382,Denise Mckenzie,Branch Visit,Customer asked about increasing transaction limits.,2025-06-21,Positive
+CRM_3118,ACC_5463,Laura Briggs,Chat,Customer refused to provide updated business ownership documents.,05-04-2026,Neutral
+CRM_3119,ACC_5195,Kimberly Johnson MD,Branch Visit,Customer claims payments are for consulting services.,10-04-2025,Concern
+CRM_3120,CUSTOMER-1153,Stephen Burton,Chat,Customer asked about increasing transaction limits.,2025-07-06,Concern
+CRM_3121,CUST_1197,Jennifer Garza,Branch Visit,Client mentioned offshore vendor relationship during call.,2025-12-19,Neutral
+CRM_3122,CUSTOMER-1073,Elizabeth Miller,Phone,Customer refused to provide updated business ownership documents.,20/08/2025,Negative
+CRM_3123,CUST_1496,James Dominguez,Branch Visit,Relationship manager marked customer as premium corporate client.,28/02/2026,Negative
+CRM_3124,ACC_5086,Hector Smith,Chat,Customer asked about increasing transaction limits.,04-15-2026,Concern
+CRM_3125,CUST_1224,David Santos,Chat,Client mentioned offshore vendor relationship during call.,03/08/2025,Positive
+CRM_3126,ACC_5353,Eugene Ramirez,Video Call,Customer asked about increasing transaction limits.,09-05-2025,Negative
+CRM_3127,CUST_1129,Jack Dunn,Chat,Multiple beneficiaries added within short time period.,2025-06-04,Positive
+CRM_3128,CUSTOMER-1169,Robin Moore,Chat,Client mentioned offshore vendor relationship during call.,22/12/2025,Concern
+CRM_3129,ACC_5338,Cindy Lyons,Chat,Client mentioned offshore vendor relationship during call.,14/03/2026,Concern
+CRM_3130,CUSTOMER-1428,Walter Thompson,Branch Visit,Customer refused to provide updated business ownership documents.,02-25-2026,Positive
+CRM_3131,CUSTOMER-1446,William Collier,Phone,Client mentioned offshore vendor relationship during call.,2026-02-23,Concern
+CRM_3132,ACC_5224,Dawn Meyer,Branch Visit,Dormant customer account suddenly became active.,11/05/2026,Neutral
+CRM_3133,CUSTOMER-1136,Mr. Joseph Robinson Jr.,Branch Visit,Multiple beneficiaries added within short time period.,27/10/2025,Negative
+CRM_3134,ACC_5378,William Martinez,Email,No suspicious activity observed during routine interaction.,2025-08-23,Neutral
+CRM_3135,ACC_5492,Susan Rodriguez,Email,Client mentioned offshore vendor relationship during call.,2026-01-07,Concern
+CRM_3136,ACC_5074,Patrick Nguyen,Video Call,Multiple beneficiaries added within short time period.,25/12/2025,Positive
+CRM_3137,ACC_5121,Leslie Huerta,Branch Visit,Customer requested urgent international transfer without clear invoice.,11/08/2025,Positive
+CRM_3138,CUSTOMER-1422,Amy Travis,Branch Visit,Relationship manager marked customer as premium corporate client.,2026-02-28,Positive
+CRM_3139,ACC_5224,Ashley Hall,Video Call,Client mentioned offshore vendor relationship during call.,2025-10-02,Neutral
+CRM_3140,CUSTOMER-1120,Thomas Moreno,Chat,Customer requested urgent international transfer without clear invoice.,04-21-2026,Positive
+CRM_3141,CUST_1426,Todd Gomez,Email,Multiple beneficiaries added within short time period.,06-13-2025,Concern
+CRM_3142,CUST_1143,Sherri Irwin,Chat,Dormant customer account suddenly became active.,07-16-2025,Concern
+CRM_3143,CUSTOMER-1044,Michael Weber,Email,Customer claims payments are for consulting services.,05-20-2026,Positive
+CRM_3144,ACC_5413,Derek Walsh,Chat,No suspicious activity observed during routine interaction.,12-27-2025,Concern
+CRM_3145,CUST_1484,Anthony Kennedy,Branch Visit,Customer claims payments are for consulting services.,04/10/2025,Concern
+CRM_3146,ACC_5346,Dr. Donald Taylor,Video Call,Customer was unable to explain source of recent large deposit.,12-01-2025,Neutral
+CRM_3147,ACC_5119,Matthew Garcia,Chat,No suspicious activity observed during routine interaction.,07/04/2026,Neutral
+CRM_3148,ACC_5221,Larry Kelley DDS,Email,Client mentioned offshore vendor relationship during call.,01-15-2026,Neutral
+CRM_3149,ACC_5079,Joseph Arnold,Email,Dormant customer account suddenly became active.,2025-09-17,Neutral
+CRM_3150,CUSTOMER-1016,Alexa Griffith,Branch Visit,Client mentioned offshore vendor relationship during call.,19/09/2025,Negative
+CRM_3151,CUST_1353,Benjamin Ross,Email,Customer was unable to explain source of recent large deposit.,2025-08-06,Positive
+CRM_3152,ACC_5031,Joseph Baker,Phone,Customer claims payments are for consulting services.,2026-05-19,Neutral
+CRM_3153,CUST_1232,Sarah Shepard,Video Call,Customer asked about increasing transaction limits.,03-28-2026,Concern
+CRM_3154,CUSTOMER-1085,Allen Ross,Video Call,Customer refused to provide updated business ownership documents.,19/02/2026,Concern
+CRM_3155,ACC_5307,Bonnie Crane,Branch Visit,Customer was unable to explain source of recent large deposit.,11/12/2025,Negative
+CRM_3156,ACC_5099,Michelle Parker,Video Call,Relationship manager marked customer as premium corporate client.,04/10/2025,Negative
+CRM_3157,ACC_5337,Kevin Young Jr.,Chat,Multiple beneficiaries added within short time period.,21/11/2025,Neutral
+CRM_3158,CUST_1115,Crystal Wilson,Branch Visit,Client mentioned offshore vendor relationship during call.,2026-02-13,Neutral
+CRM_3159,ACC_5030,Daniel Wilson,Phone,Client mentioned offshore vendor relationship during call.,2026-04-15,Neutral
+CRM_3160,CUSTOMER-1400,Robert Hood,Phone,Customer refused to provide updated business ownership documents.,2026-02-07,Positive
+CRM_3161,CUSTOMER-1190,Travis Dixon,Video Call,Customer was unable to explain source of recent large deposit.,05-17-2026,Concern
+CRM_3162,ACC_5306,Elizabeth Stanley,Video Call,Customer refused to provide updated business ownership documents.,2025-08-15,Concern
+CRM_3163,ACC_5106,Andrea Figueroa,Chat,Customer requested urgent international transfer without clear invoice.,03-05-2026,Positive
+CRM_3164,ACC_5121,Yvonne Murphy,Email,Customer was unable to explain source of recent large deposit.,06/07/2025,Neutral
+CRM_3165,CUSTOMER-1437,Lauren Jones,Phone,Relationship manager marked customer as premium corporate client.,04-01-2026,Concern
+CRM_3166,CUSTOMER-1050,Justin Allen,Email,Customer asked about increasing transaction limits.,10/12/2025,Neutral
+CRM_3167,CUSTOMER-1488,Timothy Hernandez,Phone,Client mentioned offshore vendor relationship during call.,08-21-2025,Neutral
+CRM_3168,CUSTOMER-1223,James Anderson,Video Call,Client mentioned offshore vendor relationship during call.,11/12/2025,Negative
+CRM_3169,CUSTOMER-1124,Jennifer Smith,Branch Visit,Customer requested urgent international transfer without clear invoice.,26/10/2025,Negative
+CRM_3170,ACC_5463,Rodney Murray,Video Call,Dormant customer account suddenly became active.,06-09-2025,Positive
+CRM_3171,CUST_1331,Veronica Newman,Email,Client mentioned offshore vendor relationship during call.,2025-12-20,Negative
+CRM_3172,CUSTOMER-1179,Anna Foster,Email,Relationship manager marked customer as premium corporate client.,08/02/2026,Negative
+CRM_3173,ACC_5194,David Alexander,Chat,Multiple beneficiaries added within short time period.,2025-06-11,Positive
+CRM_3174,CUSTOMER-1495,John Hutchinson,Email,No suspicious activity observed during routine interaction.,09/04/2026,Negative
+CRM_3175,ACC_5279,Charles Guerra,Email,Client mentioned offshore vendor relationship during call.,01/06/2025,Positive
+CRM_3176,ACC_5298,Destiny Rush,Chat,Customer was unable to explain source of recent large deposit.,30/10/2025,Neutral
+CRM_3177,ACC_5204,Mr. Eric Moore,Branch Visit,Dormant customer account suddenly became active.,09-28-2025,Positive
+CRM_3178,CUSTOMER-1357,Kevin Ward,Email,Customer asked about increasing transaction limits.,09-27-2025,Neutral
+CRM_3179,ACC_5090,Andrew Russell,Video Call,Multiple beneficiaries added within short time period.,23/09/2025,Positive
+CRM_3180,CUSTOMER-1044,Mariah Nunez,Email,Client mentioned offshore vendor relationship during call.,05-11-2026,Positive
+CRM_3181,ACC_5311,Tracy Allen,Email,Customer refused to provide updated business ownership documents.,07-06-2025,Negative
+CRM_3182,ACC_5500,Daniel Abbott,Phone,Customer refused to provide updated business ownership documents.,03-07-2026,Positive
+CRM_3183,CUST_1213,Robert Jefferson,Chat,Customer refused to provide updated business ownership documents.,21/11/2025,Negative
+CRM_3184,ACC_5105,Thomas King,Branch Visit,Customer claims payments are for consulting services.,2026-01-15,Positive
+CRM_3185,CUSTOMER-1186,Jennifer Washington,Phone,Customer asked about increasing transaction limits.,01-22-2026,Negative
+CRM_3186,ACC_5168,Kenneth Rivera,Branch Visit,Client mentioned offshore vendor relationship during call.,23/01/2026,Concern
+CRM_3187,ACC_5104,Melissa Whitehead,Chat,Client mentioned offshore vendor relationship during call.,14/09/2025,Positive
+CRM_3188,CUSTOMER-1431,Gregg Cervantes,Chat,Dormant customer account suddenly became active.,03/01/2026,Negative
+CRM_3189,CUSTOMER-1215,Noah Martinez,Chat,Relationship manager marked customer as premium corporate client.,03/02/2026,Positive
+CRM_3190,CUST_1198,Reginald Mcintosh,Email,Dormant customer account suddenly became active.,02-12-2026,Neutral
+CRM_3191,CUSTOMER-1076,Abigail Matthews,Phone,Multiple beneficiaries added within short time period.,11-13-2025,Negative
+CRM_3192,CUSTOMER-1178,Linda Nelson,Chat,Dormant customer account suddenly became active.,09-03-2025,Negative
+CRM_3193,CUSTOMER-1180,Dr. Timothy Harrison,Chat,Customer requested urgent international transfer without clear invoice.,09-08-2025,Positive
+CRM_3194,ACC_5057,Juan Hensley,Video Call,Customer was unable to explain source of recent large deposit.,03-28-2026,Concern
+CRM_3195,CUST_1043,Kimberly Torres,Video Call,Multiple beneficiaries added within short time period.,2026-02-02,Positive
+CRM_3196,CUST_1467,Jessica Thompson,Chat,No suspicious activity observed during routine interaction.,2026-02-07,Concern
+CRM_3197,CUST_1228,Peter Vargas,Phone,Client mentioned offshore vendor relationship during call.,2026-04-30,Concern
+CRM_3198,ACC_5489,John Bailey,Email,Customer requested urgent international transfer without clear invoice.,2025-12-28,Concern
+CRM_3199,ACC_5171,Jane Jones,Video Call,No suspicious activity observed during routine interaction.,09-15-2025,Negative
+CRM_3200,ACC_5333,Daniel Russell,Branch Visit,Client mentioned offshore vendor relationship during call.,2026-02-14,Neutral
+CRM_3201,ACC_5443,Jessica Baker,Chat,Customer refused to provide updated business ownership documents.,06/01/2026,Concern
+CRM_3202,ACC_5236,Dakota Murray,Chat,Customer claims payments are for consulting services.,12-10-2025,Neutral
+CRM_3203,CUST_1437,Donald Reed,Video Call,Dormant customer account suddenly became active.,22/11/2025,Neutral
+CRM_3204,ACC_5022,Christopher Reyes,Video Call,Dormant customer account suddenly became active.,16/11/2025,Neutral
+CRM_3205,CUST_1064,Kimberly Franklin,Phone,Customer refused to provide updated business ownership documents.,01-19-2026,Concern
+CRM_3206,CUSTOMER-1318,Brooke Smith,Branch Visit,Dormant customer account suddenly became active.,05-15-2026,Neutral
+CRM_3207,CUST_1363,Diane Galloway,Video Call,Customer requested urgent international transfer without clear invoice.,02/03/2026,Negative
+CRM_3208,CUST_1468,Kevin Hampton,Video Call,Customer requested urgent international transfer without clear invoice.,08-26-2025,Positive
+CRM_3209,CUSTOMER-1122,Mason Beck,Chat,Customer requested urgent international transfer without clear invoice.,27/11/2025,Neutral
+CRM_3210,CUSTOMER-1043,Matthew Mcguire,Email,Customer claims payments are for consulting services.,10/12/2025,Concern
+CRM_3211,CUSTOMER-1365,Michael Gentry,Phone,Customer was unable to explain source of recent large deposit.,2025-12-13,Neutral
+CRM_3212,CUST_1351,Tiffany Davis,Chat,Relationship manager marked customer as premium corporate client.,04-20-2026,Neutral
+CRM_3213,ACC_5371,Jeffery Underwood,Video Call,Dormant customer account suddenly became active.,12/12/2025,Negative
+CRM_3214,ACC_5184,Amber Long,Video Call,Customer claims payments are for consulting services.,30/01/2026,Concern
+CRM_3215,CUSTOMER-1020,Kristin Christensen,Branch Visit,No suspicious activity observed during routine interaction.,02-24-2026,Positive
+CRM_3216,CUSTOMER-1266,Lisa Davidson,Chat,Customer refused to provide updated business ownership documents.,06-04-2025,Positive
+CRM_3217,CUST_1446,Brian Cole,Branch Visit,Customer refused to provide updated business ownership documents.,2025-06-08,Positive
+CRM_3218,CUST_1159,Jeremy Horton,Branch Visit,Multiple beneficiaries added within short time period.,15/05/2026,Neutral
+CRM_3219,ACC_5376,Matthew Hernandez,Branch Visit,Multiple beneficiaries added within short time period.,08-14-2025,Concern
+CRM_3220,CUST_1089,Richard Cooper,Video Call,Customer claims payments are for consulting services.,06/11/2025,Neutral
+CRM_3221,CUST_1194,Edward Graham,Chat,Customer refused to provide updated business ownership documents.,2026-02-11,Negative
+CRM_3222,CUSTOMER-1422,Deborah Clark,Phone,Customer requested urgent international transfer without clear invoice.,02/10/2025,Concern
+CRM_3223,ACC_5082,Amanda Moreno,Chat,Customer refused to provide updated business ownership documents.,17/04/2026,Negative
+CRM_3224,CUSTOMER-1140,Cynthia Morris,Email,Multiple beneficiaries added within short time period.,27/04/2026,Positive
+CRM_3225,ACC_5337,Danielle Peterson,Email,Dormant customer account suddenly became active.,11-02-2025,Neutral
+CRM_3226,ACC_5387,Jasmin Frazier,Phone,No suspicious activity observed during routine interaction.,11-18-2025,Neutral
+CRM_3227,ACC_5341,Christopher Mcdaniel,Phone,Client mentioned offshore vendor relationship during call.,04-04-2026,Positive
+CRM_3228,CUSTOMER-1103,Bradley Reid,Chat,Client mentioned offshore vendor relationship during call.,03-14-2026,Concern
+CRM_3229,ACC_5284,Angel Freeman,Branch Visit,Relationship manager marked customer as premium corporate client.,06-14-2025,Neutral
+CRM_3230,CUSTOMER-1471,Colin Walls,Video Call,Multiple beneficiaries added within short time period.,26/05/2026,Concern
+CRM_3231,CUST_1368,Sarah Griffin,Email,Dormant customer account suddenly became active.,2025-11-02,Positive
+CRM_3232,CUST_1472,Linda Aguirre,Phone,Customer claims payments are for consulting services.,22/02/2026,Neutral
+CRM_3233,CUSTOMER-1181,Charles Dominguez,Branch Visit,Client mentioned offshore vendor relationship during call.,09-26-2025,Negative
+CRM_3234,CUSTOMER-1244,Julia Underwood,Chat,Customer was unable to explain source of recent large deposit.,10-21-2025,Positive
+CRM_3235,CUSTOMER-1476,Erin Miller,Branch Visit,Multiple beneficiaries added within short time period.,2026-03-17,Negative
+CRM_3236,CUST_1241,James Strong,Branch Visit,Dormant customer account suddenly became active.,12-06-2025,Negative
+CRM_3237,ACC_5364,Gary Orr,Phone,Multiple beneficiaries added within short time period.,02-13-2026,Neutral
+CRM_3238,CUSTOMER-1214,Kevin Goodman,Chat,Dormant customer account suddenly became active.,12/12/2025,Negative
+CRM_3239,CUST_1191,Heather Gomez,Video Call,Dormant customer account suddenly became active.,2026-03-04,Concern
+CRM_3240,ACC_5027,Casey Rush,Video Call,Dormant customer account suddenly became active.,19/09/2025,Neutral
+CRM_3241,ACC_5371,Stephanie Fuller,Phone,Customer asked about increasing transaction limits.,2025-06-18,Concern
+CRM_3242,ACC_5139,Nancy Gonzalez,Branch Visit,Customer asked about increasing transaction limits.,01-04-2026,Negative
+CRM_3243,CUST_1088,Albert Eaton,Email,Client mentioned offshore vendor relationship during call.,20/04/2026,Concern
+CRM_3244,CUST_1127,Heather Matthews,Chat,Customer requested urgent international transfer without clear invoice.,2025-06-01,Concern
+CRM_3245,ACC_5196,Raymond Wells,Chat,Relationship manager marked customer as premium corporate client.,09/06/2025,Positive
+CRM_3246,CUSTOMER-1485,Robert Gibson,Video Call,Client mentioned offshore vendor relationship during call.,2025-12-17,Negative
+CRM_3247,ACC_5167,Melissa Thomas,Branch Visit,No suspicious activity observed during routine interaction.,24/04/2026,Negative
+CRM_3248,CUSTOMER-1250,Kevin Turner,Phone,Customer asked about increasing transaction limits.,18/09/2025,Neutral
+CRM_3249,CUSTOMER-1129,Joseph Lewis,Phone,Dormant customer account suddenly became active.,26/04/2026,Positive
+CRM_3250,CUST_1136,Kevin Small,Email,Customer refused to provide updated business ownership documents.,2025-07-10,Concern
+CRM_3251,ACC_5256,Maurice Washington,Chat,Client mentioned offshore vendor relationship during call.,2025-07-21,Concern
+CRM_3252,CUST_1467,David Scott,Branch Visit,Relationship manager marked customer as premium corporate client.,2025-06-10,Negative
+CRM_3253,ACC_5135,Tina Hinton PhD,Chat,Client mentioned offshore vendor relationship during call.,01-19-2026,Negative
+CRM_3254,CUST_1028,Whitney Garcia,Email,Dormant customer account suddenly became active.,05/01/2026,Negative
+CRM_3255,CUST_1131,Peter Perry,Chat,Customer requested urgent international transfer without clear invoice.,26/10/2025,Concern
+CRM_3256,CUST_1349,Jamie Perez,Chat,Multiple beneficiaries added within short time period.,08-02-2025,Neutral
+CRM_3257,ACC_5110,Casey Jones,Email,Client mentioned offshore vendor relationship during call.,2026-02-06,Concern
+CRM_3258,CUSTOMER-1034,Zachary Robbins,Chat,Customer claims payments are for consulting services.,03-16-2026,Concern
+CRM_3259,CUST_1315,Dustin Lee,Video Call,Relationship manager marked customer as premium corporate client.,01-23-2026,Negative
+CRM_3260,CUST_1234,Michael Mendoza,Video Call,Customer refused to provide updated business ownership documents.,16/09/2025,Neutral
+CRM_3261,CUST_1239,Sean Barnett,Branch Visit,Customer refused to provide updated business ownership documents.,03-17-2026,Positive
+CRM_3262,CUST_1381,Chris Blair,Email,Client mentioned offshore vendor relationship during call.,11-26-2025,Positive
+CRM_3263,ACC_5486,Mike Craig,Email,No suspicious activity observed during routine interaction.,22/04/2026,Neutral
+CRM_3264,CUST_1401,Timothy Bailey,Video Call,Multiple beneficiaries added within short time period.,09-12-2025,Positive
+CRM_3265,CUST_1435,Danielle Holt,Branch Visit,Client mentioned offshore vendor relationship during call.,01-30-2026,Negative
+CRM_3266,ACC_5217,Jerry Tran,Phone,Customer claims payments are for consulting services.,09/06/2025,Concern
+CRM_3267,ACC_5112,Dr. Debra Schmidt,Chat,Multiple beneficiaries added within short time period.,21/05/2026,Positive
+CRM_3268,CUSTOMER-1450,Bruce King,Branch Visit,Customer claims payments are for consulting services.,2026-02-09,Neutral
+CRM_3269,ACC_5001,Henry Collins,Chat,Relationship manager marked customer as premium corporate client.,17/04/2026,Concern
+CRM_3270,CUSTOMER-1446,Charles Thomas,Phone,Customer refused to provide updated business ownership documents.,11-12-2025,Concern
+CRM_3271,ACC_5045,Mr. Michael Smith MD,Email,Dormant customer account suddenly became active.,19/01/2026,Neutral
+CRM_3272,ACC_5055,David Johnston,Email,Customer asked about increasing transaction limits.,30/10/2025,Negative
+CRM_3273,CUST_1036,Ryan Willis,Phone,Customer requested urgent international transfer without clear invoice.,25/01/2026,Neutral
+CRM_3274,ACC_5448,Kimberly Williams,Video Call,Customer refused to provide updated business ownership documents.,2026-01-18,Neutral
+CRM_3275,ACC_5236,Jennifer Malone,Chat,Customer requested urgent international transfer without clear invoice.,2025-10-19,Negative
+CRM_3276,ACC_5500,Jonathan Carter,Video Call,Customer claims payments are for consulting services.,12-20-2025,Positive
+CRM_3277,CUST_1314,Ryan Meadows,Email,Customer claims payments are for consulting services.,12/09/2025,Neutral
+CRM_3278,CUSTOMER-1202,Carla Sellers,Branch Visit,Customer asked about increasing transaction limits.,05-03-2026,Negative
+CRM_3279,CUST_1263,Michelle Sanchez,Branch Visit,Customer claims payments are for consulting services.,2025-09-23,Concern
+CRM_3280,ACC_5378,Ronald Howard,Email,Multiple beneficiaries added within short time period.,2025-10-24,Concern
+CRM_3281,CUSTOMER-1486,Kevin Meza,Phone,Customer requested urgent international transfer without clear invoice.,11/11/2025,Concern
+CRM_3282,CUSTOMER-1269,Elizabeth Ferguson,Branch Visit,Customer was unable to explain source of recent large deposit.,19/08/2025,Concern
+CRM_3283,ACC_5243,Kathleen Thomas,Email,Relationship manager marked customer as premium corporate client.,10-26-2025,Positive
+CRM_3284,ACC_5028,Eric Trevino,Chat,Customer requested urgent international transfer without clear invoice.,2025-07-04,Concern
+CRM_3285,ACC_5175,Bruce Williams,Phone,Customer asked about increasing transaction limits.,05-16-2026,Positive
+CRM_3286,CUST_1150,Mark Walters,Chat,Multiple beneficiaries added within short time period.,08/07/2025,Concern
+CRM_3287,CUSTOMER-1012,Janet Gutierrez,Chat,Dormant customer account suddenly became active.,28/07/2025,Negative
+CRM_3288,CUST_1183,William Andrade,Phone,Client mentioned offshore vendor relationship during call.,04-02-2026,Neutral
+CRM_3289,ACC_5422,Cathy Davis,Phone,Customer claims payments are for consulting services.,02-07-2026,Positive
+CRM_3290,ACC_5072,Shawn Klein,Chat,Relationship manager marked customer as premium corporate client.,2026-03-15,Negative
+CRM_3291,CUSTOMER-1347,David Hester,Email,Dormant customer account suddenly became active.,2025-06-19,Positive
+CRM_3292,CUSTOMER-1338,Natasha Rodriguez,Branch Visit,Dormant customer account suddenly became active.,14/12/2025,Concern
+CRM_3293,CUST_1224,Michael Little,Video Call,Client mentioned offshore vendor relationship during call.,25/02/2026,Concern
+CRM_3294,CUST_1051,Cameron Shaffer,Chat,Customer claims payments are for consulting services.,2025-12-19,Concern
+CRM_3295,CUST_1323,James Jackson,Email,Customer claims payments are for consulting services.,2025-11-18,Neutral
+CRM_3296,CUSTOMER-1418,Catherine Christensen,Video Call,Customer was unable to explain source of recent large deposit.,29/06/2025,Concern
+CRM_3297,ACC_5076,John Allen,Email,Multiple beneficiaries added within short time period.,22/12/2025,Positive
+CRM_3298,CUST_1205,Jessica Sullivan,Video Call,Customer refused to provide updated business ownership documents.,11/07/2025,Concern
+CRM_3299,ACC_5370,Kristina Hunter,Chat,Customer claims payments are for consulting services.,22/07/2025,Positive
+CRM_3300,CUST_1153,Crystal Downs,Branch Visit,Relationship manager marked customer as premium corporate client.,01/11/2025,Negative
+CRM_3301,CUST_1236,Daniel Kennedy,Email,Client mentioned offshore vendor relationship during call.,2025-09-24,Neutral
+CRM_3302,CUSTOMER-1393,Ashley Garcia,Branch Visit,Client mentioned offshore vendor relationship during call.,11-25-2025,Neutral
+CRM_3303,CUSTOMER-1487,Daniel Dean,Chat,No suspicious activity observed during routine interaction.,2026-03-22,Positive
+CRM_3304,ACC_5345,Heather Christian,Branch Visit,Relationship manager marked customer as premium corporate client.,01/08/2025,Neutral
+CRM_3305,CUST_1124,Noah Padilla,Video Call,Client mentioned offshore vendor relationship during call.,02-09-2026,Concern
+CRM_3306,ACC_5482,Anthony Mayer,Branch Visit,Customer was unable to explain source of recent large deposit.,04/03/2026,Positive
+CRM_3307,ACC_5302,Karla Wood,Chat,Customer was unable to explain source of recent large deposit.,2025-06-16,Positive
+CRM_3308,CUSTOMER-1096,Alexandra Spencer,Phone,Multiple beneficiaries added within short time period.,2025-12-04,Negative
+CRM_3309,CUSTOMER-1227,Amy Park,Email,Multiple beneficiaries added within short time period.,06-21-2025,Concern
+CRM_3310,ACC_5204,Zachary Underwood,Branch Visit,Client mentioned offshore vendor relationship during call.,2025-11-15,Concern
+CRM_3311,CUSTOMER-1065,Stanley Johnson,Email,Relationship manager marked customer as premium corporate client.,08-12-2025,Negative
+CRM_3312,CUST_1466,Heather Wilson,Phone,Multiple beneficiaries added within short time period.,06-22-2025,Concern
+CRM_3313,ACC_5458,Nicholas Jones,Branch Visit,Customer asked about increasing transaction limits.,08/11/2025,Concern
+CRM_3314,CUST_1350,Ronnie Downs,Phone,Multiple beneficiaries added within short time period.,06/11/2025,Negative
+CRM_3315,CUSTOMER-1156,Wendy Carroll,Branch Visit,Customer requested urgent international transfer without clear invoice.,03-07-2026,Neutral
+CRM_3316,CUSTOMER-1141,Colton Garcia,Email,No suspicious activity observed during routine interaction.,2025-09-09,Neutral
+CRM_3317,CUST_1433,Mary Green,Phone,Customer was unable to explain source of recent large deposit.,10-09-2025,Concern
+CRM_3318,ACC_5039,Casey Mitchell,Video Call,Customer refused to provide updated business ownership documents.,2026-03-01,Concern
+CRM_3319,ACC_5300,Melanie Kelly,Branch Visit,Customer asked about increasing transaction limits.,17/05/2026,Concern
+CRM_3320,CUST_1005,Joshua Schneider,Branch Visit,Customer asked about increasing transaction limits.,06/10/2025,Negative
+CRM_3321,ACC_5257,Sharon King,Email,Relationship manager marked customer as premium corporate client.,11/09/2025,Concern
+CRM_3322,ACC_5020,Anthony Owens,Chat,Client mentioned offshore vendor relationship during call.,10/08/2025,Neutral
+CRM_3323,CUST_1473,Mr. Sean Perkins,Branch Visit,Relationship manager marked customer as premium corporate client.,11-17-2025,Negative
+CRM_3324,CUST_1466,Emily Robertson,Phone,Customer refused to provide updated business ownership documents.,2025-08-19,Neutral
+CRM_3325,CUSTOMER-1167,Gregory Perry,Email,Customer was unable to explain source of recent large deposit.,2026-02-26,Negative
+CRM_3326,ACC_5223,Eric Garcia,Video Call,Client mentioned offshore vendor relationship during call.,2026-03-22,Concern
+CRM_3327,CUST_1294,Seth Barrett,Phone,Customer was unable to explain source of recent large deposit.,2026-03-22,Neutral
+CRM_3328,CUSTOMER-1076,Patricia Ward,Video Call,Client mentioned offshore vendor relationship during call.,2026-05-14,Positive
+CRM_3329,CUST_1402,Jennifer Meyer,Video Call,Multiple beneficiaries added within short time period.,06/03/2026,Neutral
+CRM_3330,CUSTOMER-1175,Brandon Hernandez,Chat,Relationship manager marked customer as premium corporate client.,04-22-2026,Negative
+CRM_3331,CUSTOMER-1159,James Hahn,Email,Relationship manager marked customer as premium corporate client.,2025-09-08,Negative
+CRM_3332,CUST_1244,Timothy Henderson,Chat,Multiple beneficiaries added within short time period.,2025-11-09,Negative
+CRM_3333,ACC_5187,Michael Garcia,Phone,Relationship manager marked customer as premium corporate client.,2025-10-09,Positive
+CRM_3334,CUST_1038,Patricia Anderson,Branch Visit,Client mentioned offshore vendor relationship during call.,2026-04-26,Negative
+CRM_3335,CUSTOMER-1381,Yolanda Blair,Email,Customer refused to provide updated business ownership documents.,2026-05-12,Concern
+CRM_3336,CUST_1193,Karen Davis,Email,Customer asked about increasing transaction limits.,2026-02-10,Negative
+CRM_3337,CUST_1428,Johnathan Diaz,Email,Customer asked about increasing transaction limits.,24/02/2026,Concern
+CRM_3338,CUSTOMER-1293,Alexandria Kelly,Phone,Customer claims payments are for consulting services.,2025-05-30,Negative
+CRM_3339,CUSTOMER-1302,Jonathan Solomon,Video Call,Multiple beneficiaries added within short time period.,26/05/2026,Neutral
+CRM_3340,CUSTOMER-1353,Felicia Robbins,Branch Visit,Client mentioned offshore vendor relationship during call.,06-25-2025,Negative
+CRM_3341,CUST_1356,Tamara Grant,Branch Visit,Dormant customer account suddenly became active.,2026-05-24,Concern
+CRM_3342,CUST_1136,Angela Baker,Email,Multiple beneficiaries added within short time period.,2025-07-07,Positive
+CRM_3343,CUST_1458,Sharon Dixon,Branch Visit,Customer was unable to explain source of recent large deposit.,16/04/2026,Neutral
+CRM_3344,ACC_5057,Kimberly Green,Chat,No suspicious activity observed during routine interaction.,01-12-2026,Neutral
+CRM_3345,CUSTOMER-1353,Ryan Mccarthy,Email,Dormant customer account suddenly became active.,03-11-2026,Positive
+CRM_3346,CUST_1103,Stephanie Butler,Video Call,Dormant customer account suddenly became active.,2025-06-09,Positive
+CRM_3347,ACC_5158,Linda Ramos,Branch Visit,No suspicious activity observed during routine interaction.,2025-07-13,Positive
+CRM_3348,ACC_5373,Caroline Ramirez,Phone,No suspicious activity observed during routine interaction.,08-28-2025,Positive
+CRM_3349,CUSTOMER-1440,Angela Alexander,Chat,Customer was unable to explain source of recent large deposit.,02-21-2026,Negative
+CRM_3350,CUSTOMER-1475,Kevin Simmons,Chat,Relationship manager marked customer as premium corporate client.,10/05/2026,Neutral
+CRM_3351,CUST_1452,Katie Foster,Video Call,Customer requested urgent international transfer without clear invoice.,2026-02-02,Concern
+CRM_3352,ACC_5058,Vincent Golden,Chat,Customer refused to provide updated business ownership documents.,08/02/2026,Concern
+CRM_3353,ACC_5493,William Cooper,Chat,Customer asked about increasing transaction limits.,08-27-2025,Neutral
+CRM_3354,ACC_5047,Carolyn Stewart,Email,Customer was unable to explain source of recent large deposit.,2026-03-23,Positive
+CRM_3355,ACC_5308,Andrea Hale,Chat,Customer requested urgent international transfer without clear invoice.,02/01/2026,Positive
+CRM_3356,CUST_1083,Linda Mckenzie,Chat,No suspicious activity observed during routine interaction.,09-30-2025,Negative
+CRM_3357,CUST_1033,Paul Rivera,Email,Customer was unable to explain source of recent large deposit.,2026-05-07,Negative
+CRM_3358,ACC_5385,Dawn Dodson,Phone,Customer asked about increasing transaction limits.,05-24-2026,Positive
+CRM_3359,CUST_1423,Jessica Patel,Chat,Client mentioned offshore vendor relationship during call.,2025-05-29,Neutral
+CRM_3360,ACC_5164,Brandy Edwards,Email,Customer asked about increasing transaction limits.,09-02-2025,Negative
+CRM_3361,CUSTOMER-1048,Angela Olson,Chat,Dormant customer account suddenly became active.,2026-03-18,Negative
+CRM_3362,ACC_5496,Richard Morgan,Video Call,No suspicious activity observed during routine interaction.,2025-11-27,Concern
+CRM_3363,ACC_5362,Tara Gill,Phone,Customer requested urgent international transfer without clear invoice.,16/10/2025,Negative
+CRM_3364,CUSTOMER-1133,Brandon Johnson,Chat,Customer asked about increasing transaction limits.,10/08/2025,Positive
+CRM_3365,CUST_1210,Lucas Williams,Branch Visit,Dormant customer account suddenly became active.,12-17-2025,Concern
+CRM_3366,CUST_1133,Curtis Khan,Phone,Customer claims payments are for consulting services.,04-11-2026,Neutral
+CRM_3367,CUSTOMER-1350,Tonya Castro,Chat,Relationship manager marked customer as premium corporate client.,01-14-2026,Negative
+CRM_3368,CUST_1215,Charles Tanner,Branch Visit,Customer claims payments are for consulting services.,2025-11-25,Concern
+CRM_3369,CUSTOMER-1145,Benjamin Elliott,Phone,No suspicious activity observed during routine interaction.,05/05/2026,Positive
+CRM_3370,CUSTOMER-1470,Mary Zimmerman,Chat,Customer requested urgent international transfer without clear invoice.,01/06/2025,Positive
+CRM_3371,CUSTOMER-1130,Peter Diaz,Phone,No suspicious activity observed during routine interaction.,21/08/2025,Concern
+CRM_3372,ACC_5246,Michelle Floyd,Phone,Relationship manager marked customer as premium corporate client.,09-13-2025,Positive
+CRM_3373,ACC_5105,April Edwards,Chat,Customer claims payments are for consulting services.,05-26-2026,Concern
+CRM_3374,ACC_5204,James Odonnell,Branch Visit,Dormant customer account suddenly became active.,18/03/2026,Positive
+CRM_3375,CUST_1064,Barbara Santos,Video Call,Client mentioned offshore vendor relationship during call.,05/05/2026,Negative
+CRM_3376,ACC_5173,Justin Frost,Branch Visit,Customer claims payments are for consulting services.,2025-12-05,Neutral
+CRM_3377,ACC_5262,Richard Copeland,Branch Visit,Client mentioned offshore vendor relationship during call.,02-28-2026,Concern
+CRM_3378,ACC_5285,Robert Alexander,Phone,Customer requested urgent international transfer without clear invoice.,27/12/2025,Positive
+CRM_3379,CUSTOMER-1046,Stephen Miller,Branch Visit,Relationship manager marked customer as premium corporate client.,2026-03-15,Neutral
+CRM_3380,ACC_5468,Luis Marshall,Chat,Dormant customer account suddenly became active.,2026-03-15,Positive
+CRM_3381,CUSTOMER-1067,Chad Delgado,Phone,Multiple beneficiaries added within short time period.,06/10/2025,Neutral
+CRM_3382,CUSTOMER-1125,Gregory Williams,Email,Dormant customer account suddenly became active.,29/01/2026,Concern
+CRM_3383,ACC_5311,Mallory Collins,Video Call,Client mentioned offshore vendor relationship during call.,03-14-2026,Neutral
+CRM_3384,CUST_1490,Ricky Savage,Chat,Customer was unable to explain source of recent large deposit.,17/07/2025,Positive
+CRM_3385,ACC_5358,Destiny Anderson,Chat,Customer requested urgent international transfer without clear invoice.,14/02/2026,Neutral
+CRM_3386,CUSTOMER-1380,Daniel Chavez,Email,Customer refused to provide updated business ownership documents.,2025-09-10,Positive
+CRM_3387,ACC_5139,Alyssa Barnett,Chat,Relationship manager marked customer as premium corporate client.,21/06/2025,Concern
+CRM_3388,ACC_5394,Jacqueline Sims,Email,Multiple beneficiaries added within short time period.,28/05/2025,Positive
+CRM_3389,ACC_5295,Alexa Morgan,Video Call,Customer asked about increasing transaction limits.,2026-01-19,Negative
+CRM_3390,ACC_5178,Shawn Morgan,Branch Visit,Client mentioned offshore vendor relationship during call.,09/09/2025,Negative
+CRM_3391,ACC_5182,Brittany Roberson,Email,Customer refused to provide updated business ownership documents.,03-24-2026,Concern
+CRM_3392,CUSTOMER-1099,Melanie Jensen,Video Call,Customer refused to provide updated business ownership documents.,07-17-2025,Concern
+CRM_3393,CUST_1153,Emily Lucero,Chat,Dormant customer account suddenly became active.,23/07/2025,Negative
+CRM_3394,ACC_5264,Matthew Brown,Branch Visit,Customer asked about increasing transaction limits.,29/01/2026,Negative
+CRM_3395,CUST_1497,Rebecca Harvey,Video Call,Customer claims payments are for consulting services.,08-28-2025,Negative
+CRM_3396,ACC_5263,Craig Berry,Chat,Customer claims payments are for consulting services.,07-07-2025,Concern
+CRM_3397,ACC_5418,Kaitlyn Stafford,Video Call,Customer asked about increasing transaction limits.,04/07/2025,Concern
+CRM_3398,CUSTOMER-1405,Daniel Rodriguez,Phone,Customer requested urgent international transfer without clear invoice.,01-16-2026,Positive
+CRM_3399,CUSTOMER-1090,Kathleen Gutierrez,Phone,Customer claims payments are for consulting services.,08-30-2025,Concern
+CRM_3400,ACC_5450,Deanna Kramer,Email,Multiple beneficiaries added within short time period.,2025-10-19,Positive

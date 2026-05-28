@@ -1,0 +1,701 @@
+swift_reference,sender_customer_id,sender_account_id,receiver_name,receiver_country,receiver_bank,currency,transfer_amount,transfer_date,transfer_purpose,transfer_status
+SWIFT_900001,CUST_1193,ACC_5042,"Williams, Odonnell and Cook",Cayman Islands,Le Group Bank,INR,489213.23,2025-11-18,Loan Repayment,Rejected
+SWIFT_900002,CUST_1419,ACC_5196,Cross-Oliver,British Virgin Islands,Morrow Ltd Bank,GBP,316359.68,11-01-2025,Vendor Payment,Completed
+SWIFT_900003,CUST_1175,ACC_5476,Mercado and Sons,Germany,Ochoa Inc Bank,AED,160938.79,04/11/2025,Loan Repayment,Pending
+SWIFT_900004,CUST_1385,ACC_5400,Ruiz and Sons,Panama,Perez Inc Bank,USD,786966.88,01-06-2026,,Rejected
+SWIFT_900005,CUST_1063,ACC_5390,Sullivan Inc,Panama,"Phillips, Phelps and French Bank",AED,140804.51,08/10/2025,Loan Repayment,Under Review
+SWIFT_900006,CUST_1322,ACC_5207,Owen Inc,Russia,Wade Group Bank,USD,74693.73,2025-12-23,,Completed
+SWIFT_900007,CUST_1279,ACC_5389,"Barber, Morales and Taylor",Russia,"Brown, Jones and Buchanan Bank",SGD,82196.24,2026-04-25,Consulting Fees,Completed
+SWIFT_900008,CUST_1405,ACC_5095,Rowe-Cruz,India,Moore-Kelly Bank,EUR,8760.77,24/10/2025,Import Payment,Completed
+SWIFT_900009,CUST_1137,ACC_5229,Collins-Brown,Germany,Sullivan Inc Bank,INR,154101.77,2025-06-04,Investment Transfer,Pending
+SWIFT_900010,CUST_1425,ACC_5209,Carroll PLC,UAE,"Young, Davis and Lang Bank",EUR,74588.73,22/08/2025,Investment Transfer,Under Review
+SWIFT_900011,CUST_1222,ACC_5395,Nelson and Sons,Germany,Smith-Campbell Bank,USD,57402.24,10-28-2025,Vendor Payment,Completed
+SWIFT_900012,CUST_1101,ACC_5110,Key-Stevens,Russia,"Wilson, Brown and Kim Bank",AED,165922.2,2026-01-11,Import Payment,Pending
+SWIFT_900013,CUST_1292,ACC_5369,Young PLC,Singapore,Morgan Ltd Bank,AED,103245.44,12-21-2025,Loan Repayment,Completed
+SWIFT_900014,CUST_1003,ACC_5162,Davenport-Medina,United States,"Ellis, Ali and Schmidt Bank",SGD,199195.99,09-17-2025,Vendor Payment,Completed
+SWIFT_900015,CUST_1083,ACC_5204,Johnson-Travis,Panama,"Bennett, Ward and Curtis Bank",EUR,845243.39,2026-04-08,Vendor Payment,Completed
+SWIFT_900016,CUST_1393,ACC_5088,Banks-Nelson,Cayman Islands,Griffith Group Bank,INR,772883.73,02/12/2025,Vendor Payment,Rejected
+SWIFT_900017,CUST_1412,ACC_5239,Dominguez PLC,United States,"Vang, Gonzalez and Gibson Bank",GBP,49465.64,01/08/2025,Import Payment,Pending
+SWIFT_900018,CUST_1349,ACC_5189,Roberts-Carrillo,Cayman Islands,"Hansen, Anderson and Gomez Bank",INR,322486.79,13/03/2026,Consulting Fees,Under Review
+SWIFT_900019,CUST_1112,ACC_5097,Curtis-Mason,India,Collier Inc Bank,USD,184555.96,29/08/2025,Vendor Payment,Completed
+SWIFT_900020,CUST_1164,ACC_5162,Morris Ltd,Germany,Chavez and Sons Bank,AED,44523.39,26/04/2026,Unknown,Pending
+SWIFT_900021,CUST_1206,ACC_5006,"Clark, Richardson and Rodriguez",UAE,Mathis Group Bank,AED,4358.42,2026-02-02,Unknown,Rejected
+SWIFT_900022,CUST_1355,ACC_5098,Hopkins Ltd,India,Hall-Walls Bank,USD,195374.6,01-25-2026,Loan Repayment,Under Review
+SWIFT_900023,CUST_1354,ACC_5182,Day-Maldonado,Panama,Matthews PLC Bank,GBP,327742.58,2026-02-16,Import Payment,Completed
+SWIFT_900024,CUST_1255,ACC_5048,Brown-Chang,United Kingdom,"Carroll, Jones and Cox Bank",EUR,29509.36,06-04-2025,Consulting Fees,Under Review
+SWIFT_900025,CUST_1277,ACC_5094,Pugh Inc,Cayman Islands,Price Group Bank,INR,552396.35,2025-11-06,Loan Repayment,Rejected
+SWIFT_900026,CUST_1099,ACC_5168,Barnes-Murray,India,Cook Inc Bank,SGD,177017.37,04/12/2025,Loan Repayment,Under Review
+SWIFT_900027,CUST_1220,ACC_5286,Hammond-Price,Singapore,"Sims, Mitchell and Reynolds Bank",USD,57035.82,04-14-2026,Import Payment,Rejected
+SWIFT_900028,CUST_1425,ACC_5354,Greene-Graham,Cayman Islands,"Murphy, Hamilton and Nguyen Bank",INR,334726.88,2026-05-14,Vendor Payment,Completed
+SWIFT_900029,CUST_1364,ACC_5131,Castillo-Rodriguez,India,"Mendoza, Grimes and Walker Bank",INR,142197.65,10-01-2025,Investment Transfer,Under Review
+SWIFT_900030,CUST_1160,ACC_5023,Hawkins-Turner,Germany,Anderson Inc Bank,INR,145513.62,2025-10-16,Unknown,Under Review
+SWIFT_900031,CUST_1255,ACC_5426,"Castaneda, Lee and Bradford",Russia,Mills LLC Bank,INR,107334.07,31/10/2025,Consulting Fees,Rejected
+SWIFT_900032,CUST_1058,ACC_5329,Macias-Carr,British Virgin Islands,"Reyes, Thompson and Johnson Bank",USD,454150.81,11-06-2025,,Rejected
+SWIFT_900033,CUST_1500,ACC_5490,Lucas Group,United States,"Nelson, Key and Mason Bank",GBP,26745.22,2026-05-24,Investment Transfer,Rejected
+SWIFT_900034,CUST_1402,ACC_5167,Zamora Ltd,UAE,"Powell, Rivas and Swanson Bank",INR,115224.46,2026-01-02,Consulting Fees,Completed
+SWIFT_900035,CUST_1140,ACC_5103,"Simon, Gilbert and Leon",United States,Johnson Ltd Bank,INR,39410.52,22/03/2026,Loan Repayment,Pending
+SWIFT_900036,CUST_1180,ACC_5446,Zavala-Johnson,Germany,"Garcia, Hanson and Martin Bank",AED,1239.4,06/04/2026,Import Payment,Under Review
+SWIFT_900037,CUST_1347,ACC_5059,Bridges LLC,UAE,Rush Ltd Bank,AED,167638.43,2026-01-01,Unknown,Completed
+SWIFT_900038,CUST_1435,ACC_5228,Garcia-Hall,India,Johnson PLC Bank,USD,193327.57,07-02-2025,Investment Transfer,Pending
+SWIFT_900039,CUST_1174,ACC_5070,Sandoval-Allen,UAE,Carter and Sons Bank,EUR,35668.46,2025-10-06,Loan Repayment,Pending
+SWIFT_900040,CUST_1104,ACC_5298,Hayes-Russell,India,Baker-Bauer Bank,SGD,61181.18,12-11-2025,Vendor Payment,Under Review
+SWIFT_900041,CUST_1114,ACC_5170,Sawyer Inc,Panama,Montgomery-Spencer Bank,AED,793234.64,05/06/2025,Consulting Fees,Pending
+SWIFT_900042,CUST_1430,ACC_5478,"Sims, Collins and Smith",UAE,Reese Inc Bank,INR,39211.63,2026-04-15,Investment Transfer,Rejected
+SWIFT_900043,CUST_1351,ACC_5480,Klein-Miller,Russia,Herman-Armstrong Bank,USD,70671.96,2025-07-20,Vendor Payment,Under Review
+SWIFT_900044,CUST_1016,ACC_5368,Curry-Pena,Russia,Johnson-Shields Bank,EUR,101046.25,03/08/2025,Vendor Payment,Under Review
+SWIFT_900045,CUST_1487,ACC_5365,Lane-Burton,UAE,"Hughes, Hardy and Miller Bank",SGD,59963.54,11-04-2025,Consulting Fees,Under Review
+SWIFT_900046,CUST_1017,ACC_5101,Rogers-Bell,United Kingdom,Parsons-Taylor Bank,USD,97123.1,10/11/2025,Consulting Fees,Completed
+SWIFT_900047,CUST_1088,ACC_5283,"Steele, Collins and Ballard",Panama,Sanders-Durham Bank,EUR,428405.39,2025-08-27,Vendor Payment,Pending
+SWIFT_900048,CUST_1397,ACC_5026,Parker-Olson,Germany,Little Ltd Bank,USD,241825.48,12/10/2025,Unknown,Completed
+SWIFT_900049,CUST_1012,ACC_5408,Brown and Sons,British Virgin Islands,"Porter, Sanchez and Leblanc Bank",INR,494758.29,21/07/2025,Vendor Payment,Under Review
+SWIFT_900050,CUST_1223,ACC_5427,Giles PLC,India,"Morales, Shaw and Mullins Bank",USD,17564.62,08/12/2025,Unknown,Completed
+SWIFT_900051,CUST_1093,ACC_5225,Byrd PLC,Singapore,Smith-Dennis Bank,USD,180782.29,2026-01-14,Import Payment,Completed
+SWIFT_900052,CUST_1002,ACC_5360,Evans and Sons,UAE,Morgan Group Bank,USD,40209.33,2026-04-07,,Rejected
+SWIFT_900053,CUST_1201,ACC_5104,"Ramirez, Alvarez and Cruz",United Kingdom,Horton-Zavala Bank,AED,226213.39,02-03-2026,Unknown,Under Review
+SWIFT_900054,CUST_1307,ACC_5070,"Olson, Carpenter and Vincent",Germany,"Woods, Tran and Cummings Bank",INR,185312.05,27/08/2025,Vendor Payment,Rejected
+SWIFT_900055,CUST_1001,ACC_5286,Morris LLC,UAE,"Keith, Ellis and King Bank",EUR,156210.32,31/12/2025,Unknown,Completed
+SWIFT_900056,CUST_1126,ACC_5239,"Stevens, Boyd and Li",United States,"Schultz, Williams and Wall Bank",EUR,194114.22,07/02/2026,Consulting Fees,Under Review
+SWIFT_900057,CUST_1115,ACC_5347,"Byrd, Davis and Williams",UAE,Juarez PLC Bank,SGD,160359.79,2026-02-17,Vendor Payment,Rejected
+SWIFT_900058,CUST_1181,ACC_5083,Briggs Inc,Cayman Islands,Jones Group Bank,AED,151764.45,13/11/2025,Loan Repayment,Under Review
+SWIFT_900059,CUST_1458,ACC_5229,Lee-Boyd,India,"Burns, Johnson and Lewis Bank",INR,108412.73,05-31-2025,Unknown,Rejected
+SWIFT_900060,CUST_1288,ACC_5455,"Guzman, Caldwell and Hill",Panama,Harrison and Sons Bank,INR,597830.79,16/06/2025,Vendor Payment,Rejected
+SWIFT_900061,CUST_1467,ACC_5194,"Miller, Mccormick and Williamson",Singapore,Vasquez Group Bank,AED,161434.16,14/05/2026,Loan Repayment,Pending
+SWIFT_900062,CUST_1396,ACC_5065,Mercado-Moon,United States,Matthews-Sanchez Bank,EUR,162906.94,2025-10-10,Investment Transfer,Completed
+SWIFT_900063,CUST_1223,ACC_5138,Cobb Inc,United Kingdom,Brown Inc Bank,SGD,98614.46,06-28-2025,Consulting Fees,Under Review
+SWIFT_900064,CUST_1384,ACC_5399,Arias-Brown,UAE,"Padilla, Bryant and Miller Bank",GBP,207480.39,02/06/2025,Consulting Fees,Pending
+SWIFT_900065,CUST_1061,ACC_5313,Russell-Jackson,United Kingdom,"Parsons, Gardner and Burton Bank",AED,224081.21,11/02/2026,Loan Repayment,Completed
+SWIFT_900066,CUST_1333,ACC_5123,Kelly-Long,United Kingdom,Evans PLC Bank,SGD,43231.91,2026-03-13,Investment Transfer,Pending
+SWIFT_900067,CUST_1053,ACC_5146,Woodard Group,United States,Poole-Dawson Bank,INR,115013.72,2025-10-13,Vendor Payment,Pending
+SWIFT_900068,CUST_1017,ACC_5341,"Zuniga, Friedman and Hodges",Germany,"Campbell, Cordova and Payne Bank",AED,212479.43,2025-07-22,Loan Repayment,Rejected
+SWIFT_900069,CUST_1276,ACC_5343,Miller-Sherman,Cayman Islands,"West, Fuller and Stark Bank",USD,215722.6,2025-09-10,Investment Transfer,Pending
+SWIFT_900070,CUST_1188,ACC_5042,Lee and Sons,British Virgin Islands,Hawkins Inc Bank,EUR,673094.85,2026-05-18,Vendor Payment,Under Review
+SWIFT_900071,CUST_1387,ACC_5129,"Joseph, Brown and Francis",United States,Hill-Stevenson Bank,SGD,67928.8,2026-05-26,Loan Repayment,Under Review
+SWIFT_900072,CUST_1038,ACC_5363,Ortiz-Davis,British Virgin Islands,Ward-Ortiz Bank,SGD,863202.04,2026-02-01,Consulting Fees,Pending
+SWIFT_900073,CUST_1314,ACC_5444,"Page, Tate and Hill",British Virgin Islands,Wells-Rodriguez Bank,EUR,372962.46,12/01/2026,Unknown,Pending
+SWIFT_900074,CUST_1401,ACC_5392,"White, Perry and Romero",Germany,"Reynolds, Espinoza and Nelson Bank",EUR,56294.09,22/08/2025,Loan Repayment,Completed
+SWIFT_900075,CUST_1306,ACC_5139,Williams PLC,Singapore,Smith-Miller Bank,SGD,120639.85,27/04/2026,Vendor Payment,Under Review
+SWIFT_900076,CUST_1442,ACC_5443,Anderson-Espinoza,Singapore,"Clark, Dillon and Beck Bank",SGD,5839.61,25/11/2025,Investment Transfer,Pending
+SWIFT_900077,CUST_1040,ACC_5316,Martinez-Moran,Cayman Islands,Thomas Ltd Bank,SGD,886179.02,01-23-2026,Loan Repayment,Rejected
+SWIFT_900078,CUST_1047,ACC_5038,Murray-Ellis,India,Cook Inc Bank,INR,169522.48,03-11-2026,Consulting Fees,Pending
+SWIFT_900079,CUST_1066,ACC_5196,Robinson-Martinez,Germany,Park-Snyder Bank,EUR,88671.29,05/07/2025,Loan Repayment,Under Review
+SWIFT_900080,CUST_1195,ACC_5217,"Harmon, Ward and Brown",Russia,Rodriguez Group Bank,GBP,211189.34,05-18-2026,Vendor Payment,Completed
+SWIFT_900081,CUST_1140,ACC_5488,"Harper, Forbes and Mitchell",Russia,Evans-Conway Bank,AED,77511.29,23/12/2025,Vendor Payment,Rejected
+SWIFT_900082,CUST_1119,ACC_5169,Keith-Davis,Panama,Riggs and Sons Bank,EUR,498606.54,2025-07-12,Loan Repayment,Under Review
+SWIFT_900083,CUST_1415,ACC_5274,Grimes Ltd,Russia,Turner and Sons Bank,USD,52172.79,07-01-2025,Consulting Fees,Under Review
+SWIFT_900084,CUST_1354,ACC_5421,Jackson Ltd,Cayman Islands,"Gray, Smith and White Bank",SGD,383167.48,30/12/2025,Vendor Payment,Completed
+SWIFT_900085,CUST_1168,ACC_5237,Mcneil-Ramos,Germany,Hendricks-Young Bank,EUR,101280.62,2026-01-25,Vendor Payment,Completed
+SWIFT_900086,CUST_1285,ACC_5091,Zavala Ltd,British Virgin Islands,"Freeman, Wolf and Hart Bank",SGD,659616.57,07/09/2025,Import Payment,Pending
+SWIFT_900087,CUST_1491,ACC_5189,Wilson Ltd,Russia,"Williams, Matthews and Anderson Bank",SGD,69085.38,2026-05-06,,Rejected
+SWIFT_900088,CUST_1133,ACC_5229,Bond PLC,India,Mitchell Ltd Bank,SGD,202445.96,2025-11-11,Consulting Fees,Pending
+SWIFT_900089,CUST_1408,ACC_5209,"Alexander, Choi and Miller",United Kingdom,Ali-Ramirez Bank,INR,43618.66,10/03/2026,Loan Repayment,Pending
+SWIFT_900090,CUST_1171,ACC_5113,Mcclain-Ortiz,Cayman Islands,"Anderson, Graves and Cooper Bank",GBP,198955.74,02/01/2026,Unknown,Rejected
+SWIFT_900091,CUST_1314,ACC_5124,"Norton, Powell and Warner",Singapore,Johnson-Blake Bank,GBP,182052.31,03-15-2026,Vendor Payment,Pending
+SWIFT_900092,CUST_1149,ACC_5010,"King, Carrillo and Davis",Russia,Livingston-Long Bank,INR,158825.4,30/11/2025,Vendor Payment,Pending
+SWIFT_900093,CUST_1174,ACC_5324,"Brown, Coleman and Cunningham",Germany,"Davidson, Harris and Smith Bank",GBP,208735.88,19/05/2026,Consulting Fees,Completed
+SWIFT_900094,CUST_1211,ACC_5148,"Thompson, Wright and Robbins",Russia,Rich LLC Bank,EUR,212368.06,2025-11-11,Investment Transfer,Completed
+SWIFT_900095,CUST_1209,ACC_5497,"Lane, Boyd and Wilson",UAE,"Tanner, Clark and Heath Bank",SGD,136486.32,02-12-2026,,Under Review
+SWIFT_900096,CUST_1236,ACC_5113,Mcconnell LLC,USA,"Baker, Martinez and Rodriguez Bank",INR,117405.2,03/06/2025,Consulting Fees,Rejected
+SWIFT_900097,CUST_1227,ACC_5099,Morris-Smith,Germany,"Olson, Harper and Morgan Bank",GBP,22338.87,03-08-2026,Consulting Fees,Under Review
+SWIFT_900098,CUST_1328,ACC_5085,"Duncan, Howell and Riley",UAE,"Taylor, Myers and Thomas Bank",GBP,199453.93,23/05/2026,Import Payment,Under Review
+SWIFT_900099,CUST_1315,ACC_5213,"Tucker, Craig and Howard",British Virgin Islands,Jones-Hamilton Bank,EUR,798602.25,14/09/2025,Consulting Fees,Completed
+SWIFT_900100,CUST_1484,ACC_5069,Smith-Graham,India,Young LLC Bank,INR,148757.77,12-09-2025,Unknown,Under Review
+SWIFT_900101,CUST_1145,ACC_5497,Jones PLC,Germany,"Miller, Munoz and Alvarado Bank",EUR,9696.74,10-15-2025,Investment Transfer,Rejected
+SWIFT_900102,CUST_1480,ACC_5177,Owens-Lee,British Virgin Islands,"Clark, Hunter and Johnson Bank",INR,318858.59,02-17-2026,Consulting Fees,Completed
+SWIFT_900103,CUST_1382,ACC_5445,Hudson-Hancock,Panama,"Bean, Greene and Patton Bank",USD,97617.34,05-29-2025,Vendor Payment,Completed
+SWIFT_900104,CUST_1451,ACC_5109,Anderson-Perez,Cayman Islands,Richmond-Lopez Bank,USD,215536.13,2025-06-19,Investment Transfer,Under Review
+SWIFT_900105,CUST_1206,ACC_5114,"Cameron, Evans and Watson",Panama,"Jenkins, Nunez and Williamson Bank",SGD,467324.59,07/04/2026,Import Payment,Under Review
+SWIFT_900106,CUST_1352,ACC_5133,"Harrison, Hurst and Anderson",Panama,Dunlap-Payne Bank,GBP,275004.23,28/08/2025,Consulting Fees,Under Review
+SWIFT_900107,CUST_1217,ACC_5184,Cook-Welch,Cayman Islands,"Alexander, Anderson and Reed Bank",EUR,260820.2,27/02/2026,Vendor Payment,Completed
+SWIFT_900108,CUST_1398,ACC_5034,"Nelson, Thompson and Ryan",United Kingdom,"Nunez, Johnson and Chen Bank",GBP,164690.47,29/12/2025,Vendor Payment,Completed
+SWIFT_900109,CUST_1175,ACC_5071,"Myers, Branch and Martin",Cayman Islands,Torres-Ortiz Bank,USD,617674.72,11-22-2025,Unknown,Pending
+SWIFT_900110,CUST_1355,ACC_5330,Rodriguez-Macdonald,Singapore,Fleming PLC Bank,EUR,183448.98,06/02/2026,Consulting Fees,Completed
+SWIFT_900111,CUST_1222,ACC_5304,"Floyd, Cochran and Ross",UAE,Juarez-Ochoa Bank,SGD,88361.09,19/09/2025,Loan Repayment,Completed
+SWIFT_900112,CUST_1356,ACC_5243,"Yoder, Carpenter and Moore",UAE,Wright-Jones Bank,SGD,144529.71,10/08/2025,Import Payment,Completed
+SWIFT_900113,CUST_1084,ACC_5430,"Zamora, Berry and Elliott",UAE,Brown-Nunez Bank,AED,234965.78,28/09/2025,Consulting Fees,Under Review
+SWIFT_900114,CUST_1022,ACC_5167,"Washington, Bennett and Hall",UAE,Hughes and Sons Bank,USD,155709.51,2025-06-23,Loan Repayment,Under Review
+SWIFT_900115,CUST_1146,ACC_5139,Robertson-Mann,India,"Barrera, Ramirez and Martinez Bank",SGD,162608.94,01-02-2026,Vendor Payment,Under Review
+SWIFT_900116,CUST_1168,ACC_5054,"Everett, Parker and Tyler",Panama,Williams Group Bank,EUR,636559.58,09-13-2025,Investment Transfer,Rejected
+SWIFT_900117,CUST_1350,ACC_5397,Tapia PLC,United Kingdom,"Riddle, Jones and Castillo Bank",SGD,244200.47,08-04-2025,Import Payment,Under Review
+SWIFT_900118,CUST_1198,ACC_5422,Young-Garcia,British Virgin Islands,"Riley, Williams and Chambers Bank",AED,225998.36,03-28-2026,Import Payment,Completed
+SWIFT_900119,CUST_1380,ACC_5324,"Nichols, Reyes and Dodson",United States,Howard-Taylor Bank,GBP,79605.08,2025-06-12,Vendor Payment,Under Review
+SWIFT_900120,CUST_1105,ACC_5095,Johnson PLC,Panama,Barnes PLC Bank,INR,675195.29,2025-12-20,Vendor Payment,Under Review
+SWIFT_900121,CUST_1486,ACC_5401,Koch-Summers,Panama,"Wagner, Kelley and Salazar Bank",AED,460167.2,08/07/2025,Import Payment,Completed
+SWIFT_900122,CUST_1437,ACC_5044,"Lopez, Wright and Aguilar",United Kingdom,Houston-Salinas Bank,GBP,242249.11,01-24-2026,Import Payment,Completed
+SWIFT_900123,CUST_1032,ACC_5001,Todd Group,Germany,Woods-Rivera Bank,INR,36543.73,03/01/2026,Investment Transfer,Pending
+SWIFT_900124,CUST_1099,ACC_5043,Love PLC,Germany,Finley-Turner Bank,SGD,136070.73,06-05-2025,Vendor Payment,Pending
+SWIFT_900125,CUST_1241,ACC_5002,Anderson-Baker,Singapore,Rogers Group Bank,GBP,87036.47,04-12-2026,Vendor Payment,Pending
+SWIFT_900126,CUST_1162,ACC_5110,"Nunez, Lewis and Johnson",Singapore,Wilcox-Armstrong Bank,INR,219255.69,12/03/2026,Unknown,Completed
+SWIFT_900127,CUST_1170,ACC_5045,Mason-Leblanc,United States,Williams LLC Bank,EUR,42185.73,15/02/2026,Unknown,Under Review
+SWIFT_900128,CUST_1217,ACC_5113,Johnson-Baker,Singapore,Bennett Ltd Bank,INR,158624.95,01-11-2026,Investment Transfer,Pending
+SWIFT_900129,CUST_1050,ACC_5287,Moore LLC,Russia,Church and Sons Bank,SGD,4852.8,2025-08-16,Unknown,Completed
+SWIFT_900130,CUST_1410,ACC_5472,Morgan PLC,India,Williams-Wilson Bank,SGD,68686.88,18/09/2025,Import Payment,Pending
+SWIFT_900131,CUST_1333,ACC_5025,Knox PLC,UAE,"Bennett, Bowman and Castro Bank",GBP,198632.07,2025-11-08,Investment Transfer,Completed
+SWIFT_900132,CUST_1104,ACC_5247,"Hanson, Ryan and Perry",Germany,Rodriguez PLC Bank,INR,158639.26,2026-03-06,Vendor Payment,Pending
+SWIFT_900133,CUST_1375,ACC_5056,Williams Ltd,Germany,"Holmes, Lopez and Hall Bank",GBP,246474.26,2026-03-11,Loan Repayment,Pending
+SWIFT_900134,CUST_1363,ACC_5371,Bridges-Long,Russia,Jones LLC Bank,INR,235880.94,04-28-2026,Import Payment,Under Review
+SWIFT_900135,CUST_1374,ACC_5128,"Blair, Martinez and Robinson",India,Williams-Marshall Bank,SGD,226813.16,2025-07-20,Import Payment,Completed
+SWIFT_900136,CUST_1263,ACC_5295,Lopez-Anderson,Cayman Islands,Kelly Ltd Bank,SGD,437041.41,11-20-2025,Consulting Fees,Under Review
+SWIFT_900137,CUST_1498,ACC_5063,Chapman-Werner,Cayman Islands,Miller-Deleon Bank,GBP,525808.69,2026-02-20,Loan Repayment,Rejected
+SWIFT_900138,CUST_1159,ACC_5199,Davis-Munoz,UAE,Neal LLC Bank,INR,38065.35,2026-04-06,Loan Repayment,Completed
+SWIFT_900139,CUST_1355,ACC_5356,"Williams, Powell and Best",UAE,Wood-Martin Bank,EUR,221118.2,10-23-2025,Consulting Fees,Completed
+SWIFT_900140,CUST_1332,ACC_5199,"Gallagher, Mullins and Carter",British Virgin Islands,Castro-Garcia Bank,AED,680653.31,02-06-2026,Loan Repayment,Under Review
+SWIFT_900141,CUST_1156,ACC_5436,"Jones, Hood and Ramirez",United Kingdom,"Bennett, Levy and Smith Bank",AED,248959.1,27/07/2025,Investment Transfer,Under Review
+SWIFT_900142,CUST_1232,ACC_5426,Smith-Brown,Singapore,Nixon Group Bank,EUR,72288.13,2025-11-25,Import Payment,Rejected
+SWIFT_900143,CUST_1171,ACC_5293,Browning PLC,United Kingdom,Miller-Roach Bank,SGD,121968.98,2025-06-01,Unknown,Pending
+SWIFT_900144,CUST_1374,ACC_5142,Barnes LLC,British Virgin Islands,Drake Ltd Bank,GBP,834164.83,2026-04-26,Loan Repayment,Rejected
+SWIFT_900145,CUST_1337,ACC_5125,"Young, Cooper and Henson",Russia,Little-Hicks Bank,EUR,45475.09,2025-08-24,Import Payment,Pending
+SWIFT_900146,CUST_1049,ACC_5386,Baker-Rodgers,Singapore,Ruiz PLC Bank,GBP,155108.74,06-22-2025,Vendor Payment,Rejected
+SWIFT_900147,CUST_1428,ACC_5171,"Miller, Wilson and Jones",British Virgin Islands,Mcdaniel and Sons Bank,AED,219127.83,07/04/2026,Import Payment,Under Review
+SWIFT_900148,CUST_1113,ACC_5151,Kelly-Mendez,Russia,Cook and Sons Bank,SGD,31023.28,2025-07-24,Vendor Payment,Completed
+SWIFT_900149,CUST_1117,ACC_5361,"Anderson, Thompson and Porter",Russia,"Glover, Silva and Arnold Bank",GBP,131495.21,2026-03-13,Vendor Payment,Under Review
+SWIFT_900150,CUST_1394,ACC_5360,Duke-Andersen,British Virgin Islands,Bray Group Bank,EUR,402660.21,2026-01-15,Loan Repayment,Pending
+SWIFT_900151,CUST_1297,ACC_5273,"Moreno, Burns and Watts",UAE,"Gray, Mcbride and Carter Bank",AED,31360.56,2026-02-06,Import Payment,Rejected
+SWIFT_900152,CUST_1206,ACC_5019,"Kirk, Martinez and Smith",Cayman Islands,Cabrera-Greene Bank,INR,159145.87,2026-02-08,Import Payment,Pending
+SWIFT_900153,CUST_1001,ACC_5189,Webster and Sons,Singapore,Marshall PLC Bank,EUR,59181.05,06-13-2025,,Under Review
+SWIFT_900154,CUST_1109,ACC_5439,Molina-Knight,British Virgin Islands,"Hawkins, Baker and Pratt Bank",INR,182187.66,31/12/2025,Unknown,Under Review
+SWIFT_900155,CUST_1336,ACC_5276,Santos-Walton,Singapore,Rivera and Sons Bank,INR,4422.17,06-30-2025,Loan Repayment,Completed
+SWIFT_900156,CUST_1010,ACC_5446,Delgado Ltd,Russia,"Wilson, Massey and Rodriguez Bank",USD,157742.96,08-23-2025,Investment Transfer,Under Review
+SWIFT_900157,CUST_1402,ACC_5093,Rodriguez-Ray,Cayman Islands,Mason-Hinton Bank,AED,826452.9,08-08-2025,Investment Transfer,Completed
+SWIFT_900158,CUST_1081,ACC_5261,Kramer LLC,Panama,Farmer Inc Bank,INR,545919.33,2025-06-15,Investment Transfer,Under Review
+SWIFT_900159,CUST_1407,ACC_5427,Nicholson-Hall,UAE,"Andrews, White and Oconnor Bank",GBP,183401.71,04/11/2025,Import Payment,Under Review
+SWIFT_900160,CUST_1460,ACC_5378,Taylor-Evans,India,Martinez Group Bank,EUR,1766.54,30/05/2025,Unknown,Pending
+SWIFT_900161,CUST_1214,ACC_5090,"Sanchez, Gordon and Raymond",Germany,Reeves-Freeman Bank,SGD,61791.71,2025-07-17,Vendor Payment,Under Review
+SWIFT_900162,CUST_1310,ACC_5180,Allison PLC,Germany,"Cisneros, Hall and Myers Bank",AED,161931.53,08-14-2025,Loan Repayment,Completed
+SWIFT_900163,CUST_1365,ACC_5312,Edwards-Bauer,United States,Cruz-Gill Bank,USD,16366.82,2025-07-19,Consulting Fees,Rejected
+SWIFT_900164,CUST_1299,ACC_5026,"Ball, Buckley and Stevens",Russia,"Hopkins, Hess and Johnson Bank",AED,247049.78,12-02-2025,Vendor Payment,Pending
+SWIFT_900165,CUST_1499,ACC_5319,Gray-Hall,India,"Terry, Perez and Molina Bank",USD,125015.31,03-03-2026,Import Payment,Under Review
+SWIFT_900166,CUST_1065,ACC_5479,"Peters, Garcia and Hammond",Cayman Islands,Guerra and Sons Bank,SGD,817309.88,2025-07-30,Import Payment,Under Review
+SWIFT_900167,CUST_1263,ACC_5268,Smith-Hunt,Cayman Islands,Bell-Cowan Bank,SGD,369023.02,2026-02-07,Import Payment,Under Review
+SWIFT_900168,CUST_1042,ACC_5232,"Haas, Evans and Rose",Cayman Islands,"Sutton, Collins and Jones Bank",SGD,294891.48,03-09-2026,Import Payment,Rejected
+SWIFT_900169,CUST_1203,ACC_5135,Carroll-Alexander,India,Bean-Pruitt Bank,INR,123197.3,2026-04-04,Import Payment,Pending
+SWIFT_900170,CUST_1124,ACC_5398,"Payne, Baker and Shepherd",British Virgin Islands,"Dorsey, Murphy and Butler Bank",AED,103007.19,06/05/2026,Unknown,Under Review
+SWIFT_900171,CUST_1480,ACC_5008,Dunlap-Garcia,USA,May-Klein Bank,SGD,2724.76,16/09/2025,Unknown,Pending
+SWIFT_900172,CUST_1462,ACC_5470,Newman-Valdez,United Kingdom,Quinn-Soto Bank,AED,209892.06,08-26-2025,Loan Repayment,Pending
+SWIFT_900173,CUST_1459,ACC_5156,Fowler-Garcia,Cayman Islands,Cole-Baldwin Bank,USD,351651.21,10/04/2026,,Pending
+SWIFT_900174,CUST_1194,ACC_5072,Ball Group,British Virgin Islands,Phillips-Michael Bank,EUR,540132.92,08/04/2026,,Under Review
+SWIFT_900175,CUST_1377,ACC_5058,Lynch Inc,Singapore,"Gilbert, Hanson and Hines Bank",AED,80419.59,26/11/2025,Loan Repayment,Under Review
+SWIFT_900176,CUST_1280,ACC_5192,"Jones, Ballard and Kelly",Singapore,Johnson LLC Bank,EUR,206154.28,2025-09-11,Import Payment,Completed
+SWIFT_900177,CUST_1420,ACC_5028,Thompson-Walker,United Kingdom,Hickman-Schultz Bank,SGD,32003.76,30/09/2025,Vendor Payment,Pending
+SWIFT_900178,CUST_1303,ACC_5128,Richmond-Crawford,United States,Simon-Martin Bank,AED,163557.38,09-30-2025,Unknown,Under Review
+SWIFT_900179,CUST_1277,ACC_5090,Kelly Inc,United States,Horne Group Bank,GBP,195099.31,12-22-2025,Investment Transfer,Pending
+SWIFT_900180,CUST_1099,ACC_5479,"Mckay, Harper and Lloyd",Cayman Islands,Baker LLC Bank,USD,128544.49,21/01/2026,Consulting Fees,Rejected
+SWIFT_900181,CUST_1224,ACC_5478,Shepard-White,Russia,Rios-Santiago Bank,EUR,122893.78,04/11/2025,Loan Repayment,Completed
+SWIFT_900182,CUST_1494,ACC_5359,Smith LLC,Cayman Islands,Collins-Schmidt Bank,SGD,878390.67,2026-04-21,Vendor Payment,Under Review
+SWIFT_900183,CUST_1321,ACC_5417,Griffith Inc,Germany,Kennedy-Hester Bank,GBP,227850.74,2025-10-14,Consulting Fees,Completed
+SWIFT_900184,CUST_1201,ACC_5265,Foster-Robertson,British Virgin Islands,"King, Lopez and Nichols Bank",USD,614612.53,2026-04-13,Import Payment,Rejected
+SWIFT_900185,CUST_1247,ACC_5204,Young Group,Germany,Henry and Sons Bank,INR,169947.92,03/10/2025,Vendor Payment,Under Review
+SWIFT_900186,CUST_1275,ACC_5285,"Stephens, Taylor and Anderson",UAE,Wilcox-Keller Bank,INR,218014.52,27/06/2025,Investment Transfer,Completed
+SWIFT_900187,CUST_1008,ACC_5317,Morris and Sons,UAE,Richardson-Grimes Bank,EUR,110318.83,07-09-2025,Import Payment,Rejected
+SWIFT_900188,CUST_1073,ACC_5394,"Johnston, Garrett and Tucker",United Kingdom,Perez-Smith Bank,EUR,177303.99,12-30-2025,Import Payment,Pending
+SWIFT_900189,CUST_1181,ACC_5112,Garrison Inc,United Kingdom,"Hunt, Nguyen and Davis Bank",SGD,124643.59,10/01/2026,Investment Transfer,Pending
+SWIFT_900190,CUST_1203,ACC_5443,"Arnold, Pham and Olsen",UAE,Bates PLC Bank,INR,47803.66,21/01/2026,Import Payment,Under Review
+SWIFT_900191,CUST_1248,ACC_5032,"Thomas, Hernandez and Rodriguez",Cayman Islands,"Anderson, Graves and Mason Bank",AED,826603.19,02/08/2025,Loan Repayment,Pending
+SWIFT_900192,CUST_1237,ACC_5395,"Campbell, Velez and Price",Panama,Arellano-Black Bank,GBP,433603.45,02-17-2026,,Under Review
+SWIFT_900193,CUST_1131,ACC_5292,Mccormick-Cabrera,United States,Mullins-Johnston Bank,AED,78822.83,09/09/2025,Investment Transfer,Completed
+SWIFT_900194,CUST_1085,ACC_5171,Hahn-Sparks,Cayman Islands,Daniel-Cole Bank,EUR,457059.74,2025-12-02,Import Payment,Pending
+SWIFT_900195,CUST_1396,ACC_5320,"Ruiz, Murphy and Bass",Germany,Hubbard Group Bank,SGD,222256.25,2025-10-07,Investment Transfer,Completed
+SWIFT_900196,CUST_1178,ACC_5244,"Miranda, Bryan and Graham",India,"Garcia, Mckinney and Webster Bank",INR,221249.09,11-02-2025,Consulting Fees,Under Review
+SWIFT_900197,CUST_1056,ACC_5393,"Gonzales, Chang and Dalton",India,Landry-Macias Bank,SGD,4118.28,10/05/2026,Consulting Fees,Under Review
+SWIFT_900198,CUST_1108,ACC_5329,"Burns, Webb and Nelson",United States,Kim-Dennis Bank,AED,14389.08,2025-11-24,Vendor Payment,Rejected
+SWIFT_900199,CUST_1047,ACC_5050,Booker-Flores,Germany,Spencer-Williams Bank,EUR,101166.92,2025-07-28,Investment Transfer,Rejected
+SWIFT_900200,CUST_1468,ACC_5416,Lynch Ltd,UAE,Taylor PLC Bank,USD,29410.23,2025-08-12,Investment Transfer,Completed
+SWIFT_900201,CUST_1362,ACC_5321,Mcintosh PLC,British Virgin Islands,Martin-Mcguire Bank,EUR,637104.1,2025-06-07,Unknown,Under Review
+SWIFT_900202,CUST_1380,ACC_5050,Reed-Garcia,Russia,"Chen, Nichols and Pitts Bank",GBP,239764.84,2026-04-17,Import Payment,Rejected
+SWIFT_900203,CUST_1229,ACC_5444,Wise-Schroeder,United Kingdom,"Fisher, Davis and Franco Bank",GBP,224622.62,11-12-2025,Consulting Fees,Completed
+SWIFT_900204,CUST_1256,ACC_5132,Ramirez-Mason,India,Cox-Marshall Bank,USD,101872.8,2025-11-27,Investment Transfer,Rejected
+SWIFT_900205,CUST_1013,ACC_5008,Barnes-Ramos,UAE,"Barnes, Mercer and Chang Bank",GBP,201816.49,21/02/2026,Consulting Fees,Completed
+SWIFT_900206,CUST_1276,ACC_5476,Gardner-Moody,United States,Cruz-Kelly Bank,GBP,51389.47,05/06/2025,Vendor Payment,Rejected
+SWIFT_900207,CUST_1224,ACC_5128,"Fowler, Brown and Ryan",Russia,"Kim, Hunter and Evans Bank",EUR,43184.79,11-16-2025,Investment Transfer,Rejected
+SWIFT_900208,CUST_1360,ACC_5091,Morales and Sons,UAE,Woodward-Atkinson Bank,AED,168257.72,12-18-2025,Consulting Fees,Pending
+SWIFT_900209,CUST_1391,ACC_5020,Jensen Ltd,UAE,Anthony Ltd Bank,SGD,184830.22,04-01-2026,Vendor Payment,Pending
+SWIFT_900210,CUST_1096,ACC_5492,Roth-Wells,Singapore,Peterson-Williams Bank,GBP,163540.88,22/04/2026,Import Payment,Completed
+SWIFT_900211,CUST_1404,ACC_5348,Meyers and Sons,Russia,Brooks-Yoder Bank,INR,145331.48,10/08/2025,Consulting Fees,Rejected
+SWIFT_900212,CUST_1485,ACC_5466,Barnes-Anderson,United States,"Thomas, Martinez and Gonzalez Bank",SGD,78506.57,05/11/2025,Loan Repayment,Under Review
+SWIFT_900213,CUST_1284,ACC_5386,Carlson-Wilson,Cayman Islands,Jordan-Brown Bank,GBP,331450.26,12-06-2025,Consulting Fees,Under Review
+SWIFT_900214,CUST_1321,ACC_5401,Young and Sons,USA,"Glenn, Tapia and Schultz Bank",INR,115931.13,19/07/2025,Consulting Fees,Rejected
+SWIFT_900215,CUST_1077,ACC_5298,Henry-Jones,British Virgin Islands,Murphy-White Bank,USD,217721.8,16/08/2025,Vendor Payment,Rejected
+SWIFT_900216,CUST_1215,ACC_5373,Allen Group,United Kingdom,Schaefer-Byrd Bank,GBP,97124.71,09-12-2025,Loan Repayment,Rejected
+SWIFT_900217,CUST_1444,ACC_5185,Sanders-Graham,Cayman Islands,"Sims, Coleman and Cox Bank",AED,747162.44,05/10/2025,Investment Transfer,Under Review
+SWIFT_900218,CUST_1189,ACC_5077,Hawkins-Walker,Russia,"Castillo, Lee and Rodriguez Bank",INR,89704.86,2025-08-10,Consulting Fees,Rejected
+SWIFT_900219,CUST_1260,ACC_5155,Wallace Group,UAE,Lee and Sons Bank,USD,7261.72,04-14-2026,Vendor Payment,Under Review
+SWIFT_900220,CUST_1372,ACC_5461,"Obrien, Stephenson and Castaneda",Singapore,Pruitt PLC Bank,EUR,170497.24,04-30-2026,Consulting Fees,Under Review
+SWIFT_900221,CUST_1291,ACC_5261,Roberts Group,United Kingdom,Mckee Group Bank,INR,190125.09,12-01-2025,Loan Repayment,Pending
+SWIFT_900222,CUST_1378,ACC_5201,Riley-Elliott,Panama,Rivers-Huang Bank,GBP,677604.2,07/04/2026,Vendor Payment,Pending
+SWIFT_900223,CUST_1491,ACC_5245,Carpenter PLC,Germany,Benitez PLC Bank,EUR,77856.93,04/02/2026,Unknown,Pending
+SWIFT_900224,CUST_1459,ACC_5491,Marshall-Marshall,India,"Odonnell, Brown and Williams Bank",SGD,8448.77,2026-05-02,Loan Repayment,Under Review
+SWIFT_900225,CUST_1385,ACC_5124,"Bowen, Golden and Bond",United States,Carlson Inc Bank,INR,21013.87,11/04/2026,Unknown,Pending
+SWIFT_900226,CUST_1183,ACC_5192,"Arellano, Mitchell and Alexander",UAE,Davis-Roth Bank,GBP,10062.88,2025-10-20,Investment Transfer,Pending
+SWIFT_900227,CUST_1003,ACC_5284,"Turner, Kim and Powell",Cayman Islands,Herrera-Brown Bank,USD,100260.97,06/05/2026,Unknown,Under Review
+SWIFT_900228,CUST_1029,ACC_5044,Powell-Morris,Cayman Islands,"Smith, Thompson and Smith Bank",USD,497754.12,26/02/2026,Unknown,Completed
+SWIFT_900229,CUST_1231,ACC_5238,Patrick and Sons,Russia,Acosta-Cook Bank,GBP,118017.16,2026-04-23,Consulting Fees,Rejected
+SWIFT_900230,CUST_1047,ACC_5118,"Jones, Jenkins and Harris",Russia,Hubbard-Gillespie Bank,GBP,135766.4,22/12/2025,Import Payment,Under Review
+SWIFT_900231,CUST_1474,ACC_5298,Soto Inc,United States,Shelton and Sons Bank,INR,210473.77,2025-12-17,Loan Repayment,Under Review
+SWIFT_900232,CUST_1362,ACC_5464,Williamson Ltd,Russia,Montoya-Perez Bank,GBP,69615.87,2025-08-18,Loan Repayment,Completed
+SWIFT_900233,CUST_1419,ACC_5485,Smith-Shepherd,British Virgin Islands,"Brown, Nelson and Ramos Bank",USD,82756.35,05/08/2025,Loan Repayment,Pending
+SWIFT_900234,CUST_1287,ACC_5049,Greene-Lee,Panama,King-Kelly Bank,GBP,588132.95,07/06/2025,Unknown,Pending
+SWIFT_900235,CUST_1398,ACC_5318,Harmon-Turner,Panama,"Baker, Johnson and Vargas Bank",INR,763828.54,23/01/2026,Investment Transfer,Completed
+SWIFT_900236,CUST_1165,ACC_5444,Patterson-Anderson,United States,Snyder Group Bank,EUR,175475.93,10/04/2026,Consulting Fees,Completed
+SWIFT_900237,CUST_1362,ACC_5190,Jones-Harris,Panama,Williams Group Bank,USD,111426.1,03-26-2026,Consulting Fees,Pending
+SWIFT_900238,CUST_1209,ACC_5286,Anderson Inc,India,"Rodriguez, Fleming and Jones Bank",AED,145802.98,06/01/2026,Import Payment,Under Review
+SWIFT_900239,CUST_1385,ACC_5047,Gentry and Sons,United States,Duncan LLC Bank,AED,227158.86,2025-10-10,Vendor Payment,Under Review
+SWIFT_900240,CUST_1484,ACC_5269,Lawson LLC,United States,"Lee, Jordan and Roy Bank",USD,64716.23,02-20-2026,Unknown,Completed
+SWIFT_900241,CUST_1161,ACC_5454,Berg-Wilson,Panama,"Matthews, Greene and Weiss Bank",AED,612812.5,11-10-2025,Vendor Payment,Pending
+SWIFT_900242,CUST_1064,ACC_5314,Camacho Group,Russia,Randall-Todd Bank,INR,215118.87,2026-05-03,Vendor Payment,Completed
+SWIFT_900243,CUST_1030,ACC_5489,"Wu, West and Evans",Singapore,Williams-Johnston Bank,EUR,201614.93,02-01-2026,Import Payment,Rejected
+SWIFT_900244,CUST_1467,ACC_5091,Moran-Jordan,India,Perez LLC Bank,USD,32806.68,12/06/2025,Import Payment,Rejected
+SWIFT_900245,CUST_1040,ACC_5312,Anderson-Collier,Cayman Islands,Hernandez Group Bank,EUR,794835.58,05-25-2026,Investment Transfer,Rejected
+SWIFT_900246,CUST_1334,ACC_5397,Schneider-Banks,Panama,"Smith, Martinez and Fisher Bank",EUR,170978.06,08-19-2025,Consulting Fees,Pending
+SWIFT_900247,CUST_1012,ACC_5038,Morris-Smith,Russia,"Carter, Collier and Dean Bank",INR,106293.86,06-18-2025,Loan Repayment,Pending
+SWIFT_900248,CUST_1498,ACC_5115,Stephenson PLC,Cayman Islands,Peterson-Nichols Bank,SGD,419999.05,09/09/2025,Loan Repayment,Under Review
+SWIFT_900249,CUST_1240,ACC_5216,Fisher LLC,Singapore,Campbell-Powell Bank,USD,231649.11,09/09/2025,Investment Transfer,Completed
+SWIFT_900250,CUST_1383,ACC_5491,Robbins-Hurley,Singapore,"Fields, Powell and Smith Bank",SGD,124879.82,2025-10-30,Import Payment,Rejected
+SWIFT_900251,CUST_1064,ACC_5068,White-Phelps,Germany,"Hinton, Taylor and Matthews Bank",EUR,5967.03,27/11/2025,Unknown,Pending
+SWIFT_900252,CUST_1233,ACC_5230,Trevino Ltd,Russia,"Flynn, Martin and French Bank",EUR,162355.73,03/08/2025,Consulting Fees,Under Review
+SWIFT_900253,CUST_1380,ACC_5073,"Moreno, Hall and Brock",India,Hensley Group Bank,INR,27902.04,2025-07-09,Investment Transfer,Pending
+SWIFT_900254,CUST_1230,ACC_5312,"Gregory, Eaton and Brown",United Kingdom,Nguyen-Wright Bank,USD,44288.07,2025-10-11,Import Payment,Completed
+SWIFT_900255,CUST_1012,ACC_5319,"Garcia, Scott and Vang",Panama,Arroyo and Sons Bank,EUR,689194.73,2025-12-27,Loan Repayment,Rejected
+SWIFT_900256,CUST_1026,ACC_5246,Doyle PLC,Russia,Grimes-Flowers Bank,EUR,178521.44,2025-07-06,Unknown,Completed
+SWIFT_900257,CUST_1097,ACC_5456,Rios PLC,UAE,Johnston Inc Bank,AED,84147.92,03/06/2025,Consulting Fees,Rejected
+SWIFT_900258,CUST_1121,ACC_5123,"Hoffman, Williams and Thomas",UAE,Williams-Osborn Bank,AED,43810.26,03-19-2026,Investment Transfer,Pending
+SWIFT_900259,CUST_1255,ACC_5289,Hays and Sons,United States,Sanders-Jordan Bank,GBP,126254.22,2025-08-07,Vendor Payment,Rejected
+SWIFT_900260,CUST_1011,ACC_5071,"Oconnor, Parsons and Lopez",Panama,English-Clark Bank,INR,91109.32,2025-08-07,Unknown,Under Review
+SWIFT_900261,CUST_1149,ACC_5127,Gould-Davis,Germany,Miller-Nelson Bank,USD,115348.32,2025-07-14,Vendor Payment,Under Review
+SWIFT_900262,CUST_1249,ACC_5056,Mckay PLC,Panama,Sexton Inc Bank,USD,161885.93,2025-07-23,Investment Transfer,Pending
+SWIFT_900263,CUST_1375,ACC_5162,"Shields, Foster and Huerta",Russia,"Whitaker, Long and Green Bank",AED,24450.2,01-03-2026,Consulting Fees,Under Review
+SWIFT_900264,CUST_1201,ACC_5081,Mcdaniel-Valencia,Panama,"Mcclure, Smith and Hill Bank",EUR,647776.75,2025-12-31,Unknown,Pending
+SWIFT_900265,CUST_1066,ACC_5152,"Aguirre, Rogers and Anderson",Germany,Williams-Jackson Bank,AED,110071.36,2025-08-06,Unknown,Rejected
+SWIFT_900266,CUST_1108,ACC_5488,"Perez, Hale and Foster",UAE,"Phillips, Hamilton and Pugh Bank",SGD,175894.71,03-13-2026,Loan Repayment,Completed
+SWIFT_900267,CUST_1199,ACC_5279,"Farmer, Moore and Wong",Panama,Moyer Inc Bank,AED,186912.46,2025-09-01,Investment Transfer,Completed
+SWIFT_900268,CUST_1324,ACC_5406,Johnson LLC,Cayman Islands,Decker-Gomez Bank,INR,330776.86,06-11-2025,Investment Transfer,Completed
+SWIFT_900269,CUST_1146,ACC_5346,Rush PLC,India,Fischer PLC Bank,INR,200231.95,08-26-2025,Loan Repayment,Under Review
+SWIFT_900270,CUST_1236,ACC_5158,"Francis, Ramos and Brown",Panama,Gibson Ltd Bank,AED,203317.7,11-12-2025,Investment Transfer,Pending
+SWIFT_900271,CUST_1460,ACC_5052,"Barnett, Adams and Daugherty",British Virgin Islands,"Grimes, Morris and Johnson Bank",USD,95657.37,2025-08-10,Vendor Payment,Pending
+SWIFT_900272,CUST_1177,ACC_5318,"Wilson, Callahan and Smith",United Kingdom,Jones-Stein Bank,USD,172097.73,02-17-2026,Unknown,Under Review
+SWIFT_900273,CUST_1500,ACC_5216,Williams PLC,India,"Vance, Moore and Small Bank",EUR,21206.42,2026-05-18,Import Payment,Rejected
+SWIFT_900274,CUST_1159,ACC_5494,Barnes Group,India,"Johnson, Hughes and Smith Bank",USD,114576.75,18/12/2025,Unknown,Rejected
+SWIFT_900275,CUST_1099,ACC_5495,Rhodes Inc,USA,"Patrick, Willis and Acevedo Bank",USD,100707.14,2026-01-12,Loan Repayment,Rejected
+SWIFT_900276,CUST_1439,ACC_5431,"Martinez, Lewis and Melton",Singapore,"Wilkins, Montes and Richardson Bank",INR,241539.88,11/08/2025,Import Payment,Completed
+SWIFT_900277,CUST_1102,ACC_5367,"Hubbard, French and Riley",British Virgin Islands,Murphy Group Bank,EUR,484184.55,01-02-2026,Consulting Fees,Under Review
+SWIFT_900278,CUST_1458,ACC_5333,Fitzpatrick-Lewis,United States,"Wells, Parker and Anderson Bank",GBP,190951.95,15/06/2025,Vendor Payment,Pending
+SWIFT_900279,CUST_1021,ACC_5291,Rodriguez PLC,Germany,Jackson-Bowman Bank,INR,114143.09,2025-08-05,Vendor Payment,Completed
+SWIFT_900280,CUST_1106,ACC_5413,Martinez Inc,Singapore,Ward-Garcia Bank,AED,103338.63,22/04/2026,Import Payment,Pending
+SWIFT_900281,CUST_1328,ACC_5369,Page-Martinez,Russia,Cordova-Graham Bank,AED,76629.67,08-10-2025,,Rejected
+SWIFT_900282,CUST_1092,ACC_5208,"Banks, Diaz and Johnson",United States,"Clark, Smith and Mcdonald Bank",USD,106544.42,2025-09-28,Investment Transfer,Rejected
+SWIFT_900283,CUST_1065,ACC_5082,Garrett Inc,UAE,Beck-Cruz Bank,USD,208436.51,05-01-2026,Consulting Fees,Under Review
+SWIFT_900284,CUST_1144,ACC_5249,"Bailey, Fitzgerald and Fuentes",Singapore,Farrell-Torres Bank,INR,43960.81,2025-07-23,Loan Repayment,Rejected
+SWIFT_900285,CUST_1193,ACC_5251,"Mccormick, Miller and Fuller",Singapore,Taylor Inc Bank,AED,230834.59,07-24-2025,Import Payment,Completed
+SWIFT_900286,CUST_1348,ACC_5179,"Bell, Goodman and Solis",UAE,Robinson Ltd Bank,GBP,176215.8,23/01/2026,Investment Transfer,Pending
+SWIFT_900287,CUST_1465,ACC_5470,Brown-Davis,Cayman Islands,Smith-Myers Bank,SGD,154605.92,2025-10-31,Loan Repayment,Under Review
+SWIFT_900288,CUST_1070,ACC_5317,Stanley Ltd,Germany,Gross-Scott Bank,GBP,135293.44,2025-09-30,Consulting Fees,Rejected
+SWIFT_900289,CUST_1100,ACC_5128,Weaver-Mcmillan,Panama,Brandt-Bennett Bank,USD,148114.82,2025-09-08,Unknown,Under Review
+SWIFT_900290,CUST_1461,ACC_5435,"Martinez, Bean and Reynolds",Panama,"Little, Hale and Hansen Bank",INR,161955.6,01-13-2026,Vendor Payment,Under Review
+SWIFT_900291,CUST_1160,ACC_5175,Harris Group,Russia,"Parker, Marks and Bright Bank",SGD,53889.9,29/07/2025,Unknown,Pending
+SWIFT_900292,CUST_1098,ACC_5399,"Guerrero, Johnson and Lindsey",India,"Robinson, Martinez and Hamilton Bank",USD,178410.86,02-16-2026,,Under Review
+SWIFT_900293,CUST_1491,ACC_5353,Smith LLC,UAE,"Nelson, Johnson and Hall Bank",EUR,160956.39,24/05/2026,Loan Repayment,Completed
+SWIFT_900294,CUST_1025,ACC_5327,Scott-Barrera,Cayman Islands,"Mueller, Odonnell and Blackwell Bank",EUR,242967.88,2025-06-08,Unknown,Rejected
+SWIFT_900295,CUST_1119,ACC_5147,"Price, Gould and Griffin",Germany,Mendoza Group Bank,USD,122839.52,12-08-2025,Consulting Fees,Under Review
+SWIFT_900296,CUST_1472,ACC_5297,Baker Group,Cayman Islands,Mcdowell-Frank Bank,INR,208009.6,2025-06-03,Investment Transfer,Pending
+SWIFT_900297,CUST_1493,ACC_5134,Jackson Group,United Kingdom,Brown-Heath Bank,USD,241352.1,09-29-2025,Unknown,Pending
+SWIFT_900298,CUST_1256,ACC_5101,Brown-Miller,Germany,Molina-Fisher Bank,USD,72296.7,08-20-2025,Loan Repayment,Completed
+SWIFT_900299,CUST_1350,ACC_5131,Carlson LLC,Cayman Islands,Hamilton Ltd Bank,USD,825766.97,23/08/2025,Import Payment,Pending
+SWIFT_900300,CUST_1247,ACC_5019,"Camacho, Jackson and Cruz",Cayman Islands,"Murphy, Freeman and Wright Bank",EUR,456068.95,04/10/2025,Loan Repayment,Completed
+SWIFT_900301,CUST_1126,ACC_5102,"Randolph, Oneal and Hoffman",British Virgin Islands,Meyers Inc Bank,AED,146313.0,2026-01-20,Unknown,Pending
+SWIFT_900302,CUST_1123,ACC_5106,Young-Moore,Germany,Grant Ltd Bank,EUR,131014.66,07-30-2025,Consulting Fees,Under Review
+SWIFT_900303,CUST_1499,ACC_5061,Gray Ltd,Singapore,"Gibson, Avila and Rojas Bank",INR,69449.45,2025-12-05,Import Payment,Rejected
+SWIFT_900304,CUST_1351,ACC_5126,"Reynolds, Moore and Morales",India,"Flynn, Harvey and Monroe Bank",EUR,17335.44,10-21-2025,Vendor Payment,Under Review
+SWIFT_900305,CUST_1475,ACC_5245,Fleming PLC,United Kingdom,Flowers-Cruz Bank,GBP,223657.77,12/12/2025,Investment Transfer,Completed
+SWIFT_900306,CUST_1308,ACC_5327,May PLC,British Virgin Islands,"Perez, Miller and Price Bank",AED,485655.28,09/01/2026,Vendor Payment,Pending
+SWIFT_900307,CUST_1234,ACC_5435,Wheeler-Hall,Germany,"Nicholson, Williams and Martinez Bank",GBP,158829.44,2025-11-21,Consulting Fees,Under Review
+SWIFT_900308,CUST_1106,ACC_5371,Jones-Brown,United States,"Nielsen, Barrett and Williams Bank",INR,97411.86,2025-08-11,Unknown,Pending
+SWIFT_900309,CUST_1264,ACC_5246,Beck Ltd,India,Molina-Munoz Bank,SGD,110167.73,2025-12-02,Vendor Payment,Under Review
+SWIFT_900310,CUST_1088,ACC_5225,"Alvarez, Ramirez and Mills",United Kingdom,Jenkins PLC Bank,GBP,232551.9,07-05-2025,Investment Transfer,Pending
+SWIFT_900311,CUST_1252,ACC_5165,Lawson PLC,Germany,"Boyd, Bond and Wright Bank",INR,134876.77,02-28-2026,Vendor Payment,Pending
+SWIFT_900312,CUST_1090,ACC_5069,Porter PLC,Panama,Hooper-Bowen Bank,USD,457651.91,23/10/2025,Vendor Payment,Pending
+SWIFT_900313,CUST_1211,ACC_5030,Mccormick PLC,Russia,Kirk LLC Bank,GBP,64848.88,11-05-2025,Vendor Payment,Under Review
+SWIFT_900314,CUST_1208,ACC_5346,Wright Ltd,United Kingdom,"Howard, Pratt and Swanson Bank",EUR,78926.54,30/07/2025,Investment Transfer,Completed
+SWIFT_900315,CUST_1383,ACC_5395,"Fox, Chase and Harris",British Virgin Islands,Walker-Thomas Bank,EUR,644881.31,2026-01-27,Investment Transfer,Under Review
+SWIFT_900316,CUST_1156,ACC_5248,Williams-Little,United Kingdom,"Mccormick, Martinez and Torres Bank",GBP,151231.67,21/01/2026,Consulting Fees,Rejected
+SWIFT_900317,CUST_1049,ACC_5454,Bates-White,UAE,Coleman Ltd Bank,INR,195332.47,11-12-2025,Import Payment,Pending
+SWIFT_900318,CUST_1064,ACC_5041,Nolan-Conner,United Kingdom,Howard PLC Bank,EUR,75237.15,11-06-2025,Consulting Fees,Pending
+SWIFT_900319,CUST_1473,ACC_5172,Mccormick Ltd,India,Bishop-Jacobs Bank,GBP,195906.98,10/09/2025,Loan Repayment,Rejected
+SWIFT_900320,CUST_1195,ACC_5325,"Miller, Ochoa and Miller",UAE,Hunter-Alexander Bank,EUR,224157.6,2025-12-23,Unknown,Pending
+SWIFT_900321,CUST_1098,ACC_5417,Gomez-Taylor,Russia,Bailey PLC Bank,GBP,141001.47,23/03/2026,,Pending
+SWIFT_900322,CUST_1055,ACC_5372,"Bradford, Nguyen and Ruiz",Russia,Thompson and Sons Bank,SGD,238984.47,09-18-2025,Loan Repayment,Under Review
+SWIFT_900323,CUST_1176,ACC_5098,"Silva, Bailey and Anderson",Singapore,"Cantrell, Dean and Wu Bank",AED,162428.48,2025-11-06,Unknown,Completed
+SWIFT_900324,CUST_1455,ACC_5260,Stephens-Palmer,United States,Powell Group Bank,INR,80386.88,2025-08-13,Investment Transfer,Pending
+SWIFT_900325,CUST_1348,ACC_5295,"Stokes, Hernandez and Gilbert",UAE,Ingram LLC Bank,INR,203214.69,03/07/2025,Unknown,Under Review
+SWIFT_900326,CUST_1351,ACC_5477,Patton-Vaughn,Cayman Islands,Lee Group Bank,INR,868222.0,22/05/2026,Vendor Payment,Pending
+SWIFT_900327,CUST_1156,ACC_5406,Cross PLC,Panama,Young-Hernandez Bank,EUR,215527.38,2025-10-17,Loan Repayment,Completed
+SWIFT_900328,CUST_1182,ACC_5395,"Bennett, Klein and Griffin",Singapore,Martinez-Brown Bank,INR,209906.64,2025-07-02,Loan Repayment,Completed
+SWIFT_900329,CUST_1426,ACC_5164,"Casey, Benton and Roy",United States,Kidd and Sons Bank,AED,219268.16,26/01/2026,Consulting Fees,Under Review
+SWIFT_900330,CUST_1461,ACC_5188,Lawrence-Wallace,United States,Baker Group Bank,INR,247569.13,08-26-2025,Unknown,Under Review
+SWIFT_900331,CUST_1156,ACC_5493,Townsend-Olson,Germany,"Allen, Wheeler and Lewis Bank",AED,150178.72,15/10/2025,Import Payment,Pending
+SWIFT_900332,CUST_1257,ACC_5345,"Costa, Fuller and Johnson",Germany,"Williams, Campos and Smith Bank",GBP,135647.19,16/05/2026,Loan Repayment,Pending
+SWIFT_900333,CUST_1099,ACC_5422,"Thompson, Vega and Dodson",Singapore,Miller PLC Bank,USD,120410.28,05-01-2026,Unknown,Rejected
+SWIFT_900334,CUST_1129,ACC_5165,Galvan Inc,Cayman Islands,Hernandez PLC Bank,INR,396398.02,17/08/2025,Loan Repayment,Completed
+SWIFT_900335,CUST_1321,ACC_5154,Brewer PLC,USA,"Ortiz, Holmes and Ashley Bank",EUR,44945.16,2025-10-06,Consulting Fees,Pending
+SWIFT_900336,CUST_1392,ACC_5410,"Harris, Brown and Greene",Cayman Islands,Diaz-Hughes Bank,INR,291900.65,27/05/2026,Investment Transfer,Completed
+SWIFT_900337,CUST_1417,ACC_5492,Morris-Grant,Germany,"Myers, Quinn and Singleton Bank",USD,26103.77,08/04/2026,Consulting Fees,Pending
+SWIFT_900338,CUST_1414,ACC_5261,Raymond Inc,Russia,"Graham, Mathis and White Bank",EUR,96496.96,06/09/2025,Unknown,Under Review
+SWIFT_900339,CUST_1375,ACC_5008,Byrd LLC,Russia,George-Walters Bank,INR,162157.37,14/05/2026,Consulting Fees,Completed
+SWIFT_900340,CUST_1025,ACC_5154,"Lynn, Becker and Jacobs",Cayman Islands,Kelly PLC Bank,GBP,412878.2,2026-01-04,Unknown,Under Review
+SWIFT_900341,CUST_1485,ACC_5092,Davis-Moore,Germany,Leonard-Lee Bank,INR,33069.37,12-18-2025,Unknown,Rejected
+SWIFT_900342,CUST_1330,ACC_5368,Medina-Mills,United States,Arroyo-Henry Bank,SGD,105750.31,09-28-2025,,Pending
+SWIFT_900343,CUST_1317,ACC_5141,Patterson Group,Germany,Wallace Ltd Bank,GBP,197864.79,03-07-2026,Loan Repayment,Under Review
+SWIFT_900344,CUST_1102,ACC_5410,Campbell-Martin,UAE,Miller-Mitchell Bank,EUR,164610.75,2026-03-11,Investment Transfer,Pending
+SWIFT_900345,CUST_1461,ACC_5058,"Curry, Palmer and Davis",India,Hernandez-Booth Bank,SGD,87346.35,01-03-2026,Unknown,Pending
+SWIFT_900346,CUST_1252,ACC_5455,Wong-Ellis,Cayman Islands,Ryan Ltd Bank,AED,232508.68,01-22-2026,,Pending
+SWIFT_900347,CUST_1066,ACC_5395,Flynn Group,Russia,Kelley and Sons Bank,USD,206184.82,06-12-2025,Import Payment,Rejected
+SWIFT_900348,CUST_1046,ACC_5293,Olson-Gentry,United Kingdom,Peterson-Torres Bank,INR,169281.63,22/12/2025,Vendor Payment,Under Review
+SWIFT_900349,CUST_1469,ACC_5012,"Curry, Schwartz and Powell",Panama,Rangel PLC Bank,EUR,240499.19,2025-08-08,Investment Transfer,Under Review
+SWIFT_900350,CUST_1153,ACC_5045,Thompson Group,Cayman Islands,Lee Inc Bank,EUR,441844.87,21/10/2025,Import Payment,Rejected
+SWIFT_900351,CUST_1148,ACC_5211,"Dean, Hill and Fowler",UAE,"Moore, Johnson and Wong Bank",EUR,191869.01,06-21-2025,Import Payment,Completed
+SWIFT_900352,CUST_1101,ACC_5291,Morris PLC,United Kingdom,Morgan-Garcia Bank,SGD,47202.7,2026-05-11,Loan Repayment,Rejected
+SWIFT_900353,CUST_1468,ACC_5250,"Robinson, Estes and Bennett",British Virgin Islands,Young LLC Bank,AED,342090.69,2026-01-11,Vendor Payment,Under Review
+SWIFT_900354,CUST_1486,ACC_5208,Smith-Shaw,Germany,Hartman-Murray Bank,USD,194662.55,17/12/2025,Import Payment,Pending
+SWIFT_900355,CUST_1286,ACC_5081,Duarte-Gallagher,British Virgin Islands,"Rollins, Alvarez and Martinez Bank",EUR,304640.46,2026-05-15,Vendor Payment,Completed
+SWIFT_900356,CUST_1319,ACC_5361,"Bryan, Peterson and Martinez",Russia,Taylor Ltd Bank,AED,162199.02,07/10/2025,Import Payment,Rejected
+SWIFT_900357,CUST_1333,ACC_5051,"Peterson, Jones and Tucker",Panama,Arnold-Bailey Bank,INR,652737.81,2025-07-21,Vendor Payment,Pending
+SWIFT_900358,CUST_1451,ACC_5422,"Blevins, Johnson and Garcia",Russia,Montgomery-Robinson Bank,EUR,46627.7,24/12/2025,Loan Repayment,Completed
+SWIFT_900359,CUST_1050,ACC_5173,Gibson PLC,UAE,"Vang, Haynes and Knox Bank",SGD,244735.51,28/04/2026,Unknown,Rejected
+SWIFT_900360,CUST_1021,ACC_5278,"Marshall, Edwards and Franklin",Singapore,Harris-Thomas Bank,USD,146126.25,02/11/2025,Loan Repayment,Rejected
+SWIFT_900361,CUST_1341,ACC_5102,Berg-Brown,Germany,"Ortiz, Smith and Ross Bank",INR,44786.51,12-19-2025,Vendor Payment,Completed
+SWIFT_900362,CUST_1356,ACC_5065,Ward-Campbell,Russia,Lynch-Ross Bank,GBP,21152.31,03-09-2026,Unknown,Completed
+SWIFT_900363,CUST_1327,ACC_5140,Rush Inc,UAE,Brown-Jennings Bank,AED,70585.87,08/10/2025,Unknown,Completed
+SWIFT_900364,CUST_1495,ACC_5094,"Green, Parker and Schultz",India,Esparza Ltd Bank,SGD,212960.92,05/07/2025,Import Payment,Completed
+SWIFT_900365,CUST_1037,ACC_5307,"Green, Garcia and Black",Russia,"Stewart, Stewart and Hayes Bank",AED,226777.89,10-14-2025,Unknown,Completed
+SWIFT_900366,CUST_1043,ACC_5012,Thompson Group,USA,Kim-James Bank,GBP,13894.34,07-10-2025,Unknown,Completed
+SWIFT_900367,CUST_1490,ACC_5339,"Villarreal, Taylor and Cabrera",USA,"Schmidt, Johnson and Flores Bank",GBP,103052.89,05-29-2025,Consulting Fees,Under Review
+SWIFT_900368,CUST_1126,ACC_5091,"Clark, Moore and Atkins",India,"Carpenter, Gomez and Knight Bank",EUR,25710.11,2025-11-03,,Rejected
+SWIFT_900369,CUST_1420,ACC_5154,Smith PLC,British Virgin Islands,Moore PLC Bank,GBP,234863.41,09-18-2025,Unknown,Pending
+SWIFT_900370,CUST_1302,ACC_5231,"Rivera, Contreras and Cardenas",United Kingdom,Murray LLC Bank,AED,50009.47,2025-10-22,Import Payment,Under Review
+SWIFT_900371,CUST_1183,ACC_5320,Glover Inc,United Kingdom,"Riley, Summers and Carey Bank",INR,223151.16,23/01/2026,Import Payment,Under Review
+SWIFT_900372,CUST_1483,ACC_5334,Chandler LLC,USA,Allen Ltd Bank,EUR,36190.79,19/05/2026,Investment Transfer,Completed
+SWIFT_900373,CUST_1270,ACC_5057,"Bartlett, Melton and Odom",Germany,Hall and Sons Bank,EUR,17709.32,2025-11-21,Consulting Fees,Rejected
+SWIFT_900374,CUST_1067,ACC_5224,Roman Ltd,Russia,Phillips Group Bank,AED,67730.74,2025-08-06,Investment Transfer,Pending
+SWIFT_900375,CUST_1010,ACC_5378,"Adams, Sandoval and Stevenson",USA,Beasley-Briggs Bank,USD,441571.58,17/02/2026,Investment Transfer,Completed
+SWIFT_900376,CUST_1155,ACC_5455,"Evans, Rasmussen and Simmons",Cayman Islands,Morris Inc Bank,SGD,114617.76,2025-06-28,Consulting Fees,Rejected
+SWIFT_900377,CUST_1334,ACC_5391,"Klein, Mccarty and Thomas",India,"Pace, Riddle and Roberson Bank",EUR,184157.24,2025-10-03,Investment Transfer,Pending
+SWIFT_900378,CUST_1056,ACC_5229,Morrison-Wood,Russia,Ellis-Schmidt Bank,GBP,158926.92,16/02/2026,Vendor Payment,Rejected
+SWIFT_900379,CUST_1049,ACC_5456,Johnson Group,United States,Butler and Sons Bank,GBP,33629.62,09-18-2025,Loan Repayment,Rejected
+SWIFT_900380,CUST_1053,ACC_5323,"Thomas, Montgomery and Evans",Panama,Jones-Cohen Bank,AED,105904.47,10/07/2025,Investment Transfer,Pending
+SWIFT_900381,CUST_1124,ACC_5245,Foster Inc,UAE,Wood-Evans Bank,GBP,90486.09,17/06/2025,Consulting Fees,Completed
+SWIFT_900382,CUST_1232,ACC_5192,Crosby and Sons,UAE,Torres-Johnson Bank,AED,100695.38,10-04-2025,Import Payment,Completed
+SWIFT_900383,CUST_1484,ACC_5460,Luna Group,Germany,Kent Group Bank,AED,184537.86,03/07/2025,Vendor Payment,Pending
+SWIFT_900384,CUST_1425,ACC_5336,"Huerta, Shaw and Rivas",Cayman Islands,Rodgers-Wood Bank,INR,641575.88,18/05/2026,Investment Transfer,Under Review
+SWIFT_900385,CUST_1393,ACC_5090,"Dixon, Snyder and Evans",United States,"Morales, Holloway and Randolph Bank",INR,211506.72,10/02/2026,Vendor Payment,Rejected
+SWIFT_900386,CUST_1379,ACC_5225,"Delacruz, Ramirez and Williams",Singapore,Dougherty PLC Bank,USD,213201.0,2025-07-05,Import Payment,Rejected
+SWIFT_900387,CUST_1374,ACC_5402,"Robertson, Garcia and Hess",United Kingdom,"Goodwin, Ortiz and Adams Bank",AED,210959.6,2026-05-06,Vendor Payment,Under Review
+SWIFT_900388,CUST_1211,ACC_5418,Quinn-Boyer,Cayman Islands,Lopez-Wheeler Bank,SGD,805327.39,04/04/2026,Investment Transfer,Completed
+SWIFT_900389,CUST_1242,ACC_5004,Duncan-Zimmerman,Germany,Myers PLC Bank,AED,131708.77,06-04-2025,Consulting Fees,Completed
+SWIFT_900390,CUST_1474,ACC_5368,Thomas-Hess,Germany,Anderson PLC Bank,GBP,183364.03,17/03/2026,Unknown,Under Review
+SWIFT_900391,CUST_1029,ACC_5039,Gillespie PLC,United States,Bautista LLC Bank,SGD,136465.6,18/09/2025,Vendor Payment,Under Review
+SWIFT_900392,CUST_1156,ACC_5038,"Bell, Sellers and Brown",India,Avery LLC Bank,AED,109204.76,09-05-2025,Investment Transfer,Completed
+SWIFT_900393,CUST_1405,ACC_5411,Bates-Ramirez,United States,"Clayton, Meza and Chung Bank",SGD,167780.45,05-09-2026,Consulting Fees,Rejected
+SWIFT_900394,CUST_1371,ACC_5226,Pittman-May,UAE,Johnson Ltd Bank,INR,234996.89,2026-01-17,Loan Repayment,Pending
+SWIFT_900395,CUST_1241,ACC_5299,Mckinney PLC,Russia,"Hess, Davis and Snyder Bank",EUR,169824.94,06-07-2025,Unknown,Completed
+SWIFT_900396,CUST_1362,ACC_5044,Gutierrez-Sheppard,British Virgin Islands,Williams-Orozco Bank,EUR,810707.46,06-09-2025,Investment Transfer,Pending
+SWIFT_900397,CUST_1302,ACC_5301,Garcia Group,Cayman Islands,"Robinson, Blevins and Jones Bank",EUR,811455.1,06/01/2026,Loan Repayment,Pending
+SWIFT_900398,CUST_1057,ACC_5339,Kelly PLC,Singapore,"Smith, Brown and Hall Bank",EUR,180208.0,2025-06-30,Vendor Payment,Rejected
+SWIFT_900399,CUST_1480,ACC_5259,Reynolds PLC,United Kingdom,"Peterson, Morrison and Williams Bank",SGD,172721.14,2025-08-08,Unknown,Completed
+SWIFT_900400,CUST_1285,ACC_5298,Houston-Duran,Panama,"Franklin, Williams and Martinez Bank",EUR,198101.06,26/10/2025,Consulting Fees,Under Review
+SWIFT_900401,CUST_1022,ACC_5431,Aguilar and Sons,Russia,Marquez Inc Bank,EUR,246188.22,21/06/2025,Vendor Payment,Completed
+SWIFT_900402,CUST_1050,ACC_5364,Mcclain-Heath,Panama,Ray-Cantrell Bank,GBP,831453.05,17/04/2026,Loan Repayment,Rejected
+SWIFT_900403,CUST_1006,ACC_5400,"Guerrero, Cole and Tran",UAE,"Welch, Patterson and Cooper Bank",AED,173153.29,2025-11-21,Import Payment,Rejected
+SWIFT_900404,CUST_1076,ACC_5399,Sullivan-Christian,Panama,Morse LLC Bank,GBP,330768.66,2026-04-23,Import Payment,Under Review
+SWIFT_900405,CUST_1258,ACC_5203,Miller and Sons,Singapore,Myers-Castaneda Bank,AED,197503.35,09-20-2025,Loan Repayment,Rejected
+SWIFT_900406,CUST_1081,ACC_5320,"Jones, Odom and Bryant",British Virgin Islands,Hebert Inc Bank,GBP,719971.75,2025-09-19,Loan Repayment,Rejected
+SWIFT_900407,CUST_1482,ACC_5417,Curtis LLC,Russia,"Medina, Butler and Roman Bank",USD,173163.11,2025-10-09,Consulting Fees,Completed
+SWIFT_900408,CUST_1309,ACC_5367,Stewart PLC,British Virgin Islands,Cantrell-Schwartz Bank,AED,899293.52,03-16-2026,Investment Transfer,Under Review
+SWIFT_900409,CUST_1405,ACC_5107,"Phillips, Harris and Wagner",UAE,"Sanders, Finley and Murillo Bank",AED,194568.05,10-11-2025,Consulting Fees,Completed
+SWIFT_900410,CUST_1354,ACC_5003,"Rodriguez, Smith and Dennis",United Kingdom,Hall-Valenzuela Bank,AED,161196.96,12-21-2025,Unknown,Rejected
+SWIFT_900411,CUST_1178,ACC_5138,Mercado-Wilson,United States,"Arroyo, Hammond and Holmes Bank",SGD,72378.77,30/10/2025,Import Payment,Under Review
+SWIFT_900412,CUST_1233,ACC_5234,Blanchard LLC,Germany,Pena-Hendricks Bank,GBP,59050.25,15/05/2026,Investment Transfer,Under Review
+SWIFT_900413,CUST_1014,ACC_5064,Hill-Martin,British Virgin Islands,Flores-Williamson Bank,AED,188327.46,2026-03-16,Import Payment,Rejected
+SWIFT_900414,CUST_1115,ACC_5174,Gutierrez-Ortiz,Panama,"Schneider, Hubbard and Barnes Bank",GBP,718240.12,15/09/2025,Vendor Payment,Rejected
+SWIFT_900415,CUST_1228,ACC_5041,Carroll-Romero,Cayman Islands,Moore and Sons Bank,GBP,667303.27,06/12/2025,Vendor Payment,Rejected
+SWIFT_900416,CUST_1050,ACC_5043,Mckinney Group,Germany,Taylor-Murray Bank,USD,122364.91,09-26-2025,Unknown,Under Review
+SWIFT_900417,CUST_1008,ACC_5320,"Brennan, Hardy and Brooks",United Kingdom,"Taylor, Stephens and White Bank",USD,80973.29,01/10/2025,Vendor Payment,Rejected
+SWIFT_900418,CUST_1372,ACC_5422,"Petersen, Walker and Andrews",Russia,Rosales-Day Bank,AED,95876.98,04-29-2026,Investment Transfer,Completed
+SWIFT_900419,CUST_1367,ACC_5062,Carr-Lee,Germany,Martinez and Sons Bank,INR,247994.92,04-24-2026,Investment Transfer,Completed
+SWIFT_900420,CUST_1404,ACC_5211,Scott Ltd,Germany,"Foster, Stanley and Curtis Bank",SGD,210090.38,17/06/2025,Import Payment,Completed
+SWIFT_900421,CUST_1201,ACC_5075,Olson Inc,Singapore,Wagner-Walker Bank,SGD,207102.52,16/11/2025,Loan Repayment,Completed
+SWIFT_900422,CUST_1372,ACC_5408,"Jones, Vaughan and Hamilton",United Kingdom,"Yu, Newton and Johnson Bank",INR,10335.75,17/01/2026,Loan Repayment,Pending
+SWIFT_900423,CUST_1379,ACC_5342,"Davis, Morris and Carter",United Kingdom,Harris-Thomas Bank,EUR,133711.74,20/05/2026,Import Payment,Completed
+SWIFT_900424,CUST_1026,ACC_5081,"Vazquez, Hernandez and Mays",Russia,Hicks and Sons Bank,AED,115922.1,09-06-2025,Unknown,Completed
+SWIFT_900425,CUST_1422,ACC_5189,Bowman-Cooper,Cayman Islands,Roach Inc Bank,INR,120692.66,2025-10-20,Consulting Fees,Rejected
+SWIFT_900426,CUST_1329,ACC_5367,Hamilton-Carlson,Cayman Islands,Gomez-Sloan Bank,AED,769995.1,10/11/2025,Unknown,Rejected
+SWIFT_900427,CUST_1085,ACC_5108,Lopez Inc,Cayman Islands,Rodriguez Group Bank,USD,301929.95,2025-11-07,Loan Repayment,Rejected
+SWIFT_900428,CUST_1359,ACC_5399,"Riley, Herrera and Young",Cayman Islands,Haynes-Snyder Bank,USD,549638.73,03/04/2026,Loan Repayment,Pending
+SWIFT_900429,CUST_1394,ACC_5431,Rios LLC,United Kingdom,Conway-Rivas Bank,AED,201788.72,2026-01-28,Vendor Payment,Rejected
+SWIFT_900430,CUST_1289,ACC_5376,"Jones, Lam and Anderson",Germany,Mcdonald Inc Bank,SGD,11588.02,11-03-2025,Loan Repayment,Rejected
+SWIFT_900431,CUST_1320,ACC_5148,Johnson Inc,United Kingdom,Miller-Ryan Bank,EUR,43363.13,10-03-2025,Unknown,Completed
+SWIFT_900432,CUST_1122,ACC_5200,"Wright, Adams and Carey",UAE,Ellis Ltd Bank,AED,82102.27,2025-07-09,Investment Transfer,Pending
+SWIFT_900433,CUST_1460,ACC_5347,"Harrison, Mendoza and Richards",United States,Ward Inc Bank,AED,167045.32,2025-09-17,Consulting Fees,Rejected
+SWIFT_900434,CUST_1230,ACC_5193,"Wells, Mccarthy and Fox",United Kingdom,"Mcclure, Luna and Gardner Bank",EUR,234364.31,2025-11-16,Loan Repayment,Under Review
+SWIFT_900435,CUST_1069,ACC_5256,"Ramirez, Boyd and Cunningham",United States,Fischer-Schwartz Bank,USD,75890.29,2025-09-03,Vendor Payment,Completed
+SWIFT_900436,CUST_1032,ACC_5060,"Lara, Ramirez and Rodriguez",Russia,Gonzalez PLC Bank,GBP,168751.69,10/10/2025,Investment Transfer,Under Review
+SWIFT_900437,CUST_1033,ACC_5495,Johnson Group,Russia,"Reynolds, Murphy and Nelson Bank",USD,7738.49,2025-10-29,Loan Repayment,Under Review
+SWIFT_900438,CUST_1265,ACC_5332,Hoover Inc,United States,Bryant-Reynolds Bank,SGD,32060.18,2025-10-27,Consulting Fees,Pending
+SWIFT_900439,CUST_1407,ACC_5005,Brown Group,Russia,Brown PLC Bank,INR,175105.12,04/05/2026,Loan Repayment,Under Review
+SWIFT_900440,CUST_1384,ACC_5072,Wilcox LLC,United Kingdom,Cummings-Alexander Bank,AED,246175.94,2025-11-02,Investment Transfer,Under Review
+SWIFT_900441,CUST_1074,ACC_5037,"Blair, Murphy and Hudson",Cayman Islands,Griffin-Campbell Bank,GBP,769016.24,2025-09-01,Investment Transfer,Completed
+SWIFT_900442,CUST_1276,ACC_5237,"Ortiz, Wang and Schneider",Cayman Islands,Velez-Turner Bank,GBP,486166.58,06-05-2025,Investment Transfer,Under Review
+SWIFT_900443,CUST_1040,ACC_5334,Cobb Group,Singapore,"Williams, Porter and Williams Bank",GBP,200031.07,2025-11-20,Loan Repayment,Pending
+SWIFT_900444,CUST_1293,ACC_5110,Pearson-Cohen,British Virgin Islands,Green PLC Bank,SGD,491534.72,2026-04-14,Vendor Payment,Rejected
+SWIFT_900445,CUST_1026,ACC_5340,Hunter LLC,United States,Delgado-Barker Bank,EUR,105886.54,04-07-2026,Import Payment,Rejected
+SWIFT_900446,CUST_1376,ACC_5282,Curtis and Sons,Panama,Sullivan-Wang Bank,SGD,390451.92,2025-12-20,Vendor Payment,Under Review
+SWIFT_900447,CUST_1287,ACC_5324,Hayes Group,Germany,"Schwartz, Baker and Collins Bank",INR,94221.64,05/11/2025,Vendor Payment,Pending
+SWIFT_900448,CUST_1064,ACC_5374,Martin-Rios,India,Hodge-Weber Bank,INR,232857.23,2025-06-12,Loan Repayment,Completed
+SWIFT_900449,CUST_1101,ACC_5367,Ross-Delacruz,Russia,Johnson PLC Bank,GBP,216127.8,22/05/2026,Import Payment,Completed
+SWIFT_900450,CUST_1259,ACC_5040,Stein-Gibson,United Kingdom,"Rivera, Reyes and Green Bank",USD,201500.71,08/11/2025,Unknown,Under Review
+SWIFT_900451,CUST_1147,ACC_5341,"Shaw, Fuller and Baker",Cayman Islands,"Hanson, Wright and Deleon Bank",EUR,370415.21,2025-11-30,Loan Repayment,Pending
+SWIFT_900452,CUST_1113,ACC_5009,Jackson-Smith,Cayman Islands,Brown and Sons Bank,GBP,774964.06,07-26-2025,Import Payment,Rejected
+SWIFT_900453,CUST_1397,ACC_5217,Palmer-Reeves,United Kingdom,Lynn-Pope Bank,AED,160712.62,10-30-2025,Unknown,Pending
+SWIFT_900454,CUST_1494,ACC_5010,Thomas-Reed,India,Smith PLC Bank,INR,20361.73,24/09/2025,Import Payment,Completed
+SWIFT_900455,CUST_1486,ACC_5439,Gibson-Russell,UAE,Hale-Miller Bank,SGD,210666.89,01/09/2025,Vendor Payment,Rejected
+SWIFT_900456,CUST_1164,ACC_5006,Manning LLC,Germany,Taylor-Farley Bank,EUR,66458.99,23/12/2025,Unknown,Rejected
+SWIFT_900457,CUST_1275,ACC_5481,"Willis, Chapman and Huffman",United Kingdom,Martinez-Reed Bank,USD,129608.48,05-28-2025,Import Payment,Completed
+SWIFT_900458,CUST_1040,ACC_5193,"Potter, Jensen and Brown",India,"Wang, Vaughn and Sanders Bank",AED,200347.83,02-03-2026,Loan Repayment,Pending
+SWIFT_900459,CUST_1154,ACC_5474,Beltran-Blackwell,Russia,Garcia Ltd Bank,AED,4757.51,2026-02-25,Vendor Payment,Rejected
+SWIFT_900460,CUST_1168,ACC_5469,Miller and Sons,Singapore,Watson-Anderson Bank,INR,75179.84,2026-03-04,Investment Transfer,Pending
+SWIFT_900461,CUST_1358,ACC_5180,Morrison-Ramos,Russia,"Fuller, Scott and Lopez Bank",AED,200310.57,23/09/2025,Unknown,Completed
+SWIFT_900462,CUST_1175,ACC_5340,Foley-Williamson,United States,"Day, Pierce and Martinez Bank",AED,135180.4,12/03/2026,Import Payment,Completed
+SWIFT_900463,CUST_1115,ACC_5265,Peterson Inc,Cayman Islands,Santana Ltd Bank,INR,554029.52,10-28-2025,Loan Repayment,Under Review
+SWIFT_900464,CUST_1255,ACC_5323,Johnson-Delgado,Panama,Norton-Black Bank,GBP,366084.9,15/10/2025,,Rejected
+SWIFT_900465,CUST_1492,ACC_5013,Brown Ltd,United States,Williams-Wilson Bank,USD,123334.4,08-22-2025,Investment Transfer,Pending
+SWIFT_900466,CUST_1234,ACC_5441,"Kramer, Harvey and Patel",Panama,Mills Ltd Bank,INR,410850.83,03-07-2026,Investment Transfer,Under Review
+SWIFT_900467,CUST_1484,ACC_5203,Thomas-Huber,British Virgin Islands,Nguyen Group Bank,USD,775932.96,2025-08-21,Vendor Payment,Completed
+SWIFT_900468,CUST_1178,ACC_5303,"Lee, Chavez and Hunt",Cayman Islands,"Contreras, Owen and Parker Bank",SGD,563316.15,2025-06-17,Loan Repayment,Under Review
+SWIFT_900469,CUST_1478,ACC_5115,"White, Mccormick and Chandler",British Virgin Islands,Smith-Hodge Bank,GBP,795817.86,12/10/2025,Investment Transfer,Rejected
+SWIFT_900470,CUST_1375,ACC_5485,Harris-Miller,Singapore,Massey and Sons Bank,EUR,106029.67,08/11/2025,Import Payment,Rejected
+SWIFT_900471,CUST_1238,ACC_5361,"Garcia, Hartman and Holden",India,Cantu-Tucker Bank,INR,190228.16,12-27-2025,Vendor Payment,Rejected
+SWIFT_900472,CUST_1379,ACC_5311,"Klein, Smith and Hill",Russia,Meyer-Dudley Bank,GBP,227727.77,2025-06-04,Unknown,Under Review
+SWIFT_900473,CUST_1148,ACC_5080,Woodward LLC,Singapore,Barton-Williams Bank,AED,128987.26,05-13-2026,Investment Transfer,Completed
+SWIFT_900474,CUST_1338,ACC_5411,Bennett-Barron,British Virgin Islands,Campbell-Merritt Bank,SGD,690840.26,2025-09-29,Loan Repayment,Under Review
+SWIFT_900475,CUST_1474,ACC_5221,"Cruz, Pittman and Henry",Germany,Griffith PLC Bank,EUR,143731.89,05-04-2026,Consulting Fees,Under Review
+SWIFT_900476,CUST_1039,ACC_5161,"Tran, Castillo and Davis",Germany,Burns Group Bank,USD,63378.22,04/04/2026,Unknown,Completed
+SWIFT_900477,CUST_1154,ACC_5040,"Parks, Duncan and Thomas",Cayman Islands,"Gregory, Patterson and Dawson Bank",INR,134059.21,2025-12-02,Unknown,Rejected
+SWIFT_900478,CUST_1044,ACC_5213,Mays Inc,United States,"Henson, Moreno and Nguyen Bank",USD,195449.38,11-03-2025,Vendor Payment,Completed
+SWIFT_900479,CUST_1149,ACC_5015,Meyers-Kelley,Panama,Calhoun and Sons Bank,INR,357347.0,11-21-2025,Vendor Payment,Completed
+SWIFT_900480,CUST_1277,ACC_5224,"Pena, Hays and James",Russia,"Rogers, Powell and Sullivan Bank",AED,94258.8,23/03/2026,Consulting Fees,Pending
+SWIFT_900481,CUST_1306,ACC_5485,"Elliott, Knight and Rodriguez",India,"David, Chen and Spencer Bank",AED,140695.69,06-05-2025,Consulting Fees,Completed
+SWIFT_900482,CUST_1260,ACC_5339,Myers Ltd,Russia,Ibarra-Reese Bank,INR,195617.67,05/03/2026,Unknown,Under Review
+SWIFT_900483,CUST_1247,ACC_5099,Smith-Baker,Russia,Perez-Grant Bank,USD,125117.82,08/10/2025,Unknown,Under Review
+SWIFT_900484,CUST_1076,ACC_5082,Vaughan-Tucker,British Virgin Islands,"David, Gonzalez and Alvarez Bank",AED,887131.14,01-09-2026,Consulting Fees,Pending
+SWIFT_900485,CUST_1047,ACC_5221,"Williams, Cooper and Rice",UAE,"Garcia, Todd and Bennett Bank",EUR,246269.54,2026-01-16,Loan Repayment,Rejected
+SWIFT_900486,CUST_1004,ACC_5284,Green PLC,United Kingdom,Gallagher PLC Bank,EUR,130490.24,2026-03-02,Investment Transfer,Rejected
+SWIFT_900487,CUST_1017,ACC_5449,French Inc,USA,Miller-Rangel Bank,GBP,235298.63,07-28-2025,Import Payment,Rejected
+SWIFT_900488,CUST_1182,ACC_5214,Lopez Ltd,Singapore,Best and Sons Bank,USD,203314.38,2026-04-21,Import Payment,Completed
+SWIFT_900489,CUST_1350,ACC_5328,Holden-Miles,Cayman Islands,"Dawson, Shaw and Berry Bank",GBP,520194.49,11-10-2025,Consulting Fees,Rejected
+SWIFT_900490,CUST_1271,ACC_5142,"Grant, Sutton and Mckay",Russia,"Montgomery, Manning and May Bank",GBP,11936.04,2025-12-16,Unknown,Completed
+SWIFT_900491,CUST_1475,ACC_5373,Walker-Lucas,Cayman Islands,Tucker and Sons Bank,SGD,202257.53,11/07/2025,Investment Transfer,Pending
+SWIFT_900492,CUST_1401,ACC_5285,"Reynolds, Parker and Levy",United States,Fischer Group Bank,GBP,211796.16,02/12/2025,Investment Transfer,Rejected
+SWIFT_900493,CUST_1133,ACC_5403,Diaz and Sons,British Virgin Islands,"Le, Castillo and Garcia Bank",INR,309740.59,08/02/2026,Consulting Fees,Pending
+SWIFT_900494,CUST_1203,ACC_5099,Paul Ltd,USA,Acosta and Sons Bank,SGD,4453.83,02-22-2026,Consulting Fees,Under Review
+SWIFT_900495,CUST_1217,ACC_5256,Golden PLC,British Virgin Islands,"Holt, Miller and Perry Bank",AED,583972.76,2025-12-31,Investment Transfer,Rejected
+SWIFT_900496,CUST_1151,ACC_5394,Roberts-Brown,India,Carpenter-Duffy Bank,GBP,224501.54,03/09/2025,Vendor Payment,Under Review
+SWIFT_900497,CUST_1444,ACC_5237,"Fowler, Martinez and Mccoy",UAE,Roberts-Garcia Bank,USD,210693.95,05-21-2026,Investment Transfer,Under Review
+SWIFT_900498,CUST_1500,ACC_5451,"Bennett, Kim and Chase",Cayman Islands,Floyd Inc Bank,USD,781591.8,29/01/2026,Unknown,Completed
+SWIFT_900499,CUST_1176,ACC_5127,"Vaughan, Guerra and Lyons",Russia,"House, Price and Leonard Bank",AED,96261.71,2025-08-23,Consulting Fees,Pending
+SWIFT_900500,CUST_1363,ACC_5081,Griffith PLC,Russia,Cooper-Petersen Bank,INR,213436.65,31/01/2026,Unknown,Rejected
+SWIFT_900501,CUST_1473,ACC_5198,"Macdonald, Chavez and Bonilla",India,"Gaines, Hoffman and Butler Bank",AED,234354.51,2025-07-10,Import Payment,Under Review
+SWIFT_900502,CUST_1297,ACC_5346,Cole Ltd,India,"Baker, Barnes and Todd Bank",SGD,173788.62,04-08-2026,Unknown,Under Review
+SWIFT_900503,CUST_1135,ACC_5433,"Williams, Baxter and Long",Panama,Webb-Harris Bank,AED,578151.12,01-06-2026,Loan Repayment,Pending
+SWIFT_900504,CUST_1066,ACC_5115,Torres-Garcia,Singapore,Wu Group Bank,USD,28324.56,17/01/2026,Vendor Payment,Rejected
+SWIFT_900505,CUST_1311,ACC_5242,"Fischer, Sanchez and Schaefer",Cayman Islands,"Lee, Cooper and Young Bank",AED,818848.74,12-23-2025,Vendor Payment,Under Review
+SWIFT_900506,CUST_1492,ACC_5444,Jimenez-Hobbs,Panama,Martin-Anderson Bank,SGD,451638.05,26/05/2026,Vendor Payment,Rejected
+SWIFT_900507,CUST_1149,ACC_5396,"Davis, Greene and Taylor",India,"Murphy, Boone and Ramirez Bank",SGD,76108.42,2025-12-25,Unknown,Rejected
+SWIFT_900508,CUST_1421,ACC_5126,"Brady, Robinson and Leonard",India,"Blevins, Anderson and Santana Bank",GBP,146844.44,2025-08-23,Investment Transfer,Rejected
+SWIFT_900509,CUST_1009,ACC_5250,Nguyen-Lane,India,"Chang, Lee and May Bank",INR,187110.45,2026-05-16,Investment Transfer,Completed
+SWIFT_900510,CUST_1330,ACC_5360,Castaneda PLC,Panama,"Abbott, Taylor and Lopez Bank",SGD,276634.89,2025-06-04,Consulting Fees,Rejected
+SWIFT_900511,CUST_1038,ACC_5034,"Davis, Williams and Johnson",United States,"Wright, Brooks and Vincent Bank",INR,76493.66,2026-01-17,Vendor Payment,Rejected
+SWIFT_900512,CUST_1110,ACC_5121,"Wood, Torres and Campos",United States,Sexton and Sons Bank,USD,62067.84,24/12/2025,Import Payment,Completed
+SWIFT_900513,CUST_1305,ACC_5427,"Patterson, Rubio and Lopez",Cayman Islands,"White, Walker and Palmer Bank",EUR,292102.01,12-06-2025,Vendor Payment,Under Review
+SWIFT_900514,CUST_1118,ACC_5113,"Harris, Taylor and Martinez",USA,"Neal, Aguilar and Beck Bank",AED,4283.49,2026-01-04,Import Payment,Completed
+SWIFT_900515,CUST_1261,ACC_5033,Hansen Ltd,Panama,Thompson and Sons Bank,GBP,186116.69,28/10/2025,Investment Transfer,Rejected
+SWIFT_900516,CUST_1440,ACC_5309,Wiley-Holder,United States,Le Inc Bank,AED,206786.56,10-07-2025,Consulting Fees,Under Review
+SWIFT_900517,CUST_1479,ACC_5456,"Butler, Cole and Carroll",Russia,Hall and Sons Bank,EUR,9766.28,18/11/2025,Consulting Fees,Completed
+SWIFT_900518,CUST_1289,ACC_5239,"Higgins, Stephens and Richardson",Singapore,Jones Group Bank,INR,204755.19,2025-09-25,Loan Repayment,Under Review
+SWIFT_900519,CUST_1114,ACC_5222,Armstrong-Ponce,Singapore,"Hall, Schwartz and Young Bank",INR,23843.44,03/04/2026,Unknown,Completed
+SWIFT_900520,CUST_1211,ACC_5075,Johnson Ltd,United States,Smith Group Bank,INR,40680.43,11/06/2025,Investment Transfer,Completed
+SWIFT_900521,CUST_1404,ACC_5459,"Martin, Wong and Snyder",Panama,Turner-Andersen Bank,GBP,736469.89,16/09/2025,Vendor Payment,Under Review
+SWIFT_900522,CUST_1103,ACC_5186,Craig-Shaffer,British Virgin Islands,Miller-Griffin Bank,USD,834996.89,2026-05-06,Investment Transfer,Completed
+SWIFT_900523,CUST_1102,ACC_5130,Kent-Le,Germany,"Ibarra, Barron and Whitaker Bank",INR,242219.56,30/07/2025,Loan Repayment,Under Review
+SWIFT_900524,CUST_1118,ACC_5293,Wade Group,Russia,"Graham, Marshall and Barrera Bank",GBP,178795.42,24/08/2025,Unknown,Rejected
+SWIFT_900525,CUST_1447,ACC_5379,Holmes Inc,Russia,"Smith, Collins and Silva Bank",EUR,210292.66,2025-09-09,Loan Repayment,Rejected
+SWIFT_900526,CUST_1026,ACC_5194,"Lewis, Lopez and Cochran",United States,Townsend-Dean Bank,SGD,35084.76,2025-08-10,Consulting Fees,Completed
+SWIFT_900527,CUST_1471,ACC_5016,Odom-Garcia,Singapore,Pineda Group Bank,SGD,206388.41,07-07-2025,Investment Transfer,Pending
+SWIFT_900528,CUST_1438,ACC_5393,Cooper-Douglas,Panama,"Kennedy, Lopez and Smith Bank",GBP,794823.91,28/11/2025,Consulting Fees,Completed
+SWIFT_900529,CUST_1397,ACC_5260,"Sutton, Ruiz and Norman",Russia,"Smith, Aguirre and James Bank",SGD,18774.35,28/02/2026,Import Payment,Rejected
+SWIFT_900530,CUST_1455,ACC_5436,Delgado PLC,United Kingdom,"Nash, Gordon and Phillips Bank",GBP,95623.32,12/04/2026,Import Payment,Rejected
+SWIFT_900531,CUST_1418,ACC_5397,Lamb-Rubio,British Virgin Islands,"Williams, Rodriguez and Jackson Bank",GBP,861977.58,2026-01-03,Import Payment,Completed
+SWIFT_900532,CUST_1492,ACC_5315,Murphy LLC,Panama,"Lucas, Smith and Williams Bank",EUR,668984.36,05-11-2026,Vendor Payment,Pending
+SWIFT_900533,CUST_1162,ACC_5245,Salas Inc,UAE,Martinez Group Bank,AED,23102.41,2026-03-22,Consulting Fees,Pending
+SWIFT_900534,CUST_1367,ACC_5457,Bauer-Ward,UAE,Johnson and Sons Bank,AED,122769.66,01-25-2026,Loan Repayment,Rejected
+SWIFT_900535,CUST_1409,ACC_5453,Williams-Wyatt,United Kingdom,"Evans, Mason and Reid Bank",GBP,173109.35,21/04/2026,Unknown,Completed
+SWIFT_900536,CUST_1218,ACC_5012,"Mooney, Smith and Pratt",United States,"Patel, Allen and Esparza Bank",USD,156116.18,04-16-2026,Investment Transfer,Pending
+SWIFT_900537,CUST_1439,ACC_5155,"Anderson, George and Wilson",Germany,Richardson-Zhang Bank,GBP,156941.38,26/08/2025,Consulting Fees,Pending
+SWIFT_900538,CUST_1179,ACC_5037,"Jones, Wilcox and Martinez",India,Hill-Hicks Bank,EUR,163528.73,2025-06-27,Consulting Fees,Completed
+SWIFT_900539,CUST_1140,ACC_5418,"Johnson, Burton and Mclaughlin",United Kingdom,Brown Group Bank,GBP,177897.5,01-25-2026,Unknown,Under Review
+SWIFT_900540,CUST_1462,ACC_5410,"Terry, Newman and Ray",Panama,Franklin-Christensen Bank,USD,446660.66,03/06/2025,Unknown,Rejected
+SWIFT_900541,CUST_1150,ACC_5001,"Hood, Lopez and Baldwin",UAE,"Johnson, Stevenson and Brooks Bank",GBP,165056.97,04-16-2026,Vendor Payment,Rejected
+SWIFT_900542,CUST_1060,ACC_5106,Carter Ltd,Cayman Islands,"Quinn, Dixon and Ellison Bank",INR,311328.95,03-01-2026,Consulting Fees,Completed
+SWIFT_900543,CUST_1341,ACC_5484,Foster-Payne,UAE,"Johnson, Mullins and Wheeler Bank",GBP,67160.83,2026-01-30,Vendor Payment,Rejected
+SWIFT_900544,CUST_1182,ACC_5196,Sanchez Group,Germany,West-Gomez Bank,AED,18965.9,2025-12-04,Import Payment,Completed
+SWIFT_900545,CUST_1484,ACC_5297,Smith LLC,United Kingdom,Thompson Inc Bank,INR,17264.29,2026-04-02,Unknown,Rejected
+SWIFT_900546,CUST_1355,ACC_5012,"Brown, Kelly and Frank",Germany,Mckinney Ltd Bank,EUR,149776.33,2025-05-28,Investment Transfer,Under Review
+SWIFT_900547,CUST_1253,ACC_5039,Gibson LLC,British Virgin Islands,"Herrera, Schneider and Trevino Bank",AED,483560.29,16/10/2025,Unknown,Rejected
+SWIFT_900548,CUST_1361,ACC_5243,"Perry, Hall and King",Russia,"Jones, Thomas and Santos Bank",AED,217486.77,05-20-2026,Vendor Payment,Pending
+SWIFT_900549,CUST_1489,ACC_5467,Harper-Hunter,United Kingdom,Holt Group Bank,EUR,191795.21,01-24-2026,Investment Transfer,Rejected
+SWIFT_900550,CUST_1100,ACC_5441,Reeves-Patterson,Germany,Carter-Fry Bank,INR,63465.97,2026-05-25,Consulting Fees,Rejected
+SWIFT_900551,CUST_1047,ACC_5019,"Tucker, Boyle and King",India,"Perez, Cardenas and Jones Bank",EUR,99694.99,20/09/2025,Unknown,Under Review
+SWIFT_900552,CUST_1301,ACC_5316,Cooper Group,United Kingdom,Richard LLC Bank,SGD,40745.29,2025-11-07,Loan Repayment,Rejected
+SWIFT_900553,CUST_1376,ACC_5337,Skinner Ltd,Panama,Bass PLC Bank,INR,491936.42,20/06/2025,Import Payment,Under Review
+SWIFT_900554,CUST_1137,ACC_5177,"Harvey, Griffin and Atkinson",Cayman Islands,Adkins-Baxter Bank,EUR,558545.09,2025-06-06,Vendor Payment,Pending
+SWIFT_900555,CUST_1098,ACC_5103,Hogan Inc,United States,Glover-Sandoval Bank,SGD,201083.49,04/05/2026,Consulting Fees,Completed
+SWIFT_900556,CUST_1045,ACC_5455,"Ibarra, Alvarez and Powers",Cayman Islands,Hill-Walters Bank,AED,766869.56,2026-04-06,Vendor Payment,Completed
+SWIFT_900557,CUST_1282,ACC_5158,"Chambers, Reed and Vaughn",Panama,Lynn-Wells Bank,EUR,337702.29,04-15-2026,Unknown,Completed
+SWIFT_900558,CUST_1378,ACC_5258,Hubbard Inc,United States,"Clark, Mckay and Henderson Bank",GBP,193783.43,2025-12-03,Unknown,Rejected
+SWIFT_900559,CUST_1152,ACC_5308,Tate-Price,USA,Murphy-Perez Bank,AED,207359.73,17/01/2026,Import Payment,Rejected
+SWIFT_900560,CUST_1249,ACC_5479,Wilson-Hubbard,United Kingdom,"Lee, Garza and Carter Bank",SGD,105041.17,04-24-2026,Import Payment,Pending
+SWIFT_900561,CUST_1147,ACC_5499,Jackson Group,British Virgin Islands,"Johnson, Hayes and Kline Bank",INR,146411.11,08/03/2026,Vendor Payment,Completed
+SWIFT_900562,CUST_1453,ACC_5189,Bauer and Sons,United Kingdom,Terry Inc Bank,USD,99468.25,02-11-2026,Vendor Payment,Under Review
+SWIFT_900563,CUST_1275,ACC_5085,Doyle-Warner,United States,"Flores, Jordan and Davis Bank",AED,19402.68,10-07-2025,Investment Transfer,Pending
+SWIFT_900564,CUST_1205,ACC_5407,Lee PLC,USA,"Roth, Drake and Johnson Bank",INR,815671.59,2026-02-08,Consulting Fees,Rejected
+SWIFT_900565,CUST_1151,ACC_5500,"Dunn, Moore and Goodwin",Cayman Islands,Callahan-Brown Bank,GBP,887109.02,2026-05-17,Investment Transfer,Under Review
+SWIFT_900566,CUST_1054,ACC_5060,Clark-Richards,Singapore,Levine Ltd Bank,EUR,17101.07,2025-07-27,Unknown,Under Review
+SWIFT_900567,CUST_1213,ACC_5473,Gray Ltd,UAE,Anderson-Martin Bank,EUR,188475.44,04/08/2025,Loan Repayment,Completed
+SWIFT_900568,CUST_1368,ACC_5114,"Brooks, Bailey and Hart",United States,Davidson LLC Bank,USD,85962.28,02-14-2026,Unknown,Pending
+SWIFT_900569,CUST_1333,ACC_5172,"Trujillo, Eaton and Dominguez",British Virgin Islands,Rivas-Ward Bank,USD,92131.68,02-20-2026,Consulting Fees,Rejected
+SWIFT_900570,CUST_1218,ACC_5275,"Rubio, Graham and Taylor",Russia,"Davis, Singh and Church Bank",AED,84601.04,19/05/2026,Loan Repayment,Under Review
+SWIFT_900571,CUST_1243,ACC_5389,Fuller PLC,India,Smith LLC Bank,AED,115563.06,12/06/2025,Vendor Payment,Pending
+SWIFT_900572,CUST_1207,ACC_5252,"Poole, Murray and Parker",Cayman Islands,Cook Ltd Bank,INR,267673.95,2025-12-27,Unknown,Pending
+SWIFT_900573,CUST_1456,ACC_5110,"Watson, Doyle and Edwards",Singapore,Velazquez-Wells Bank,SGD,112711.35,22/02/2026,Consulting Fees,Completed
+SWIFT_900574,CUST_1271,ACC_5013,"Brock, Flores and Gibson",UAE,Bowman-Nichols Bank,EUR,30612.9,12-11-2025,Unknown,Under Review
+SWIFT_900575,CUST_1423,ACC_5173,"Dennis, Carpenter and Jones",India,Vasquez-Lewis Bank,GBP,191181.88,03-08-2026,Loan Repayment,Under Review
+SWIFT_900576,CUST_1382,ACC_5024,Morton-Booker,India,"Phillips, Robinson and Tran Bank",USD,176782.87,2025-08-06,Loan Repayment,Rejected
+SWIFT_900577,CUST_1481,ACC_5082,"Johnson, Johnson and Hill",UAE,Tran-Park Bank,USD,6008.62,2026-05-21,Unknown,Under Review
+SWIFT_900578,CUST_1158,ACC_5025,"Logan, Lopez and Hall",India,Figueroa Ltd Bank,GBP,236902.99,2025-10-11,Investment Transfer,Under Review
+SWIFT_900579,CUST_1076,ACC_5298,Schwartz and Sons,British Virgin Islands,Nolan PLC Bank,EUR,602110.56,2025-07-28,Vendor Payment,Under Review
+SWIFT_900580,CUST_1214,ACC_5220,"Pineda, Cox and Ruiz",Singapore,Hall Inc Bank,EUR,8892.25,03-29-2026,Consulting Fees,Rejected
+SWIFT_900581,CUST_1456,ACC_5343,Davis Group,Panama,Watson-Scott Bank,SGD,758458.48,22/12/2025,Vendor Payment,Rejected
+SWIFT_900582,CUST_1320,ACC_5301,"Warren, Ortega and Smith",Russia,"Suarez, Robertson and Mcfarland Bank",AED,201208.93,2025-11-10,Consulting Fees,Pending
+SWIFT_900583,CUST_1340,ACC_5128,Garcia-Sellers,British Virgin Islands,"Adams, Reynolds and Holmes Bank",AED,76497.4,06-01-2025,Investment Transfer,Rejected
+SWIFT_900584,CUST_1467,ACC_5475,Gibson-Hughes,UAE,Cobb-Little Bank,INR,132843.53,03-25-2026,,Completed
+SWIFT_900585,CUST_1257,ACC_5094,"Quinn, Miller and Boyd",United Kingdom,Glass-Cruz Bank,EUR,107241.3,24/02/2026,Import Payment,Pending
+SWIFT_900586,CUST_1268,ACC_5140,"Lopez, Fox and Williamson",India,"Graves, Brown and Reilly Bank",EUR,1684.02,2025-08-28,Vendor Payment,Pending
+SWIFT_900587,CUST_1218,ACC_5482,Thomas-Hudson,United States,"Adams, Charles and Brown Bank",INR,108345.73,10/12/2025,Loan Repayment,Completed
+SWIFT_900588,CUST_1238,ACC_5437,"Hernandez, Ruiz and Simmons",India,Bailey-Sawyer Bank,INR,54248.01,2025-06-20,Consulting Fees,Rejected
+SWIFT_900589,CUST_1111,ACC_5035,"Wolf, Smith and Murphy",Panama,Bean-Alexander Bank,SGD,688179.48,09/12/2025,Loan Repayment,Under Review
+SWIFT_900590,CUST_1270,ACC_5469,Juarez Inc,United Kingdom,Wood LLC Bank,INR,26773.42,2026-05-26,Vendor Payment,Under Review
+SWIFT_900591,CUST_1312,ACC_5263,Lam and Sons,United States,"Robinson, Cooper and Bailey Bank",INR,148108.0,06-28-2025,Loan Repayment,Rejected
+SWIFT_900592,CUST_1076,ACC_5274,Mack-Washington,British Virgin Islands,Parker-Mahoney Bank,USD,132356.12,03-23-2026,Vendor Payment,Under Review
+SWIFT_900593,CUST_1440,ACC_5177,Ortiz-Johnson,Russia,Alexander-Stone Bank,AED,57819.86,12-22-2025,Loan Repayment,Rejected
+SWIFT_900594,CUST_1422,ACC_5320,Shaw Inc,Cayman Islands,Yoder LLC Bank,SGD,816176.25,27/05/2026,Unknown,Rejected
+SWIFT_900595,CUST_1285,ACC_5030,Garcia PLC,Singapore,"Rojas, White and Dyer Bank",INR,11435.89,10-26-2025,Import Payment,Under Review
+SWIFT_900596,CUST_1242,ACC_5199,Lee-Robertson,Cayman Islands,Brown Ltd Bank,USD,870996.5,2025-08-05,Investment Transfer,Rejected
+SWIFT_900597,CUST_1083,ACC_5303,Vaughan-Sutton,United Kingdom,Kaufman-Cook Bank,SGD,80299.47,10-17-2025,Investment Transfer,Completed
+SWIFT_900598,CUST_1066,ACC_5185,Hawkins Ltd,British Virgin Islands,"Martinez, West and Williams Bank",USD,424422.69,04-16-2026,Consulting Fees,Rejected
+SWIFT_900599,CUST_1073,ACC_5118,Wilson-Ramsey,Germany,Davidson PLC Bank,USD,6209.79,06-07-2025,Unknown,Pending
+SWIFT_900600,CUST_1346,ACC_5283,Byrd-Wright,Singapore,Campbell-Smith Bank,INR,234019.25,2025-06-04,Vendor Payment,Completed
+SWIFT_900601,CUST_1047,ACC_5291,Finley LLC,Cayman Islands,Guzman-Freeman Bank,USD,596482.45,30/01/2026,Consulting Fees,Under Review
+SWIFT_900602,CUST_1434,ACC_5305,"Peterson, Warner and Burke",UAE,Rowland-Small Bank,AED,152858.81,09-28-2025,Vendor Payment,Rejected
+SWIFT_900603,CUST_1134,ACC_5186,"Reed, Wilson and Higgins",India,Williams Group Bank,EUR,182477.18,2026-01-10,Vendor Payment,Completed
+SWIFT_900604,CUST_1101,ACC_5082,"Mcconnell, Riddle and Hoffman",UAE,Fields-Hill Bank,EUR,60595.21,2025-09-06,Consulting Fees,Under Review
+SWIFT_900605,CUST_1396,ACC_5170,"Jones, Palmer and Bright",India,"Jones, Brown and Diaz Bank",AED,44379.39,2025-10-26,,Under Review
+SWIFT_900606,CUST_1303,ACC_5275,Olsen PLC,UAE,Norris-Buck Bank,USD,72251.64,07/05/2026,,Rejected
+SWIFT_900607,CUST_1041,ACC_5350,Cooper-Hodge,UAE,Phillips Inc Bank,SGD,68185.47,2025-06-12,Unknown,Rejected
+SWIFT_900608,CUST_1171,ACC_5136,Richardson and Sons,Panama,Fox Ltd Bank,EUR,660687.92,05-27-2026,Consulting Fees,Rejected
+SWIFT_900609,CUST_1232,ACC_5388,"Harris, Butler and Gordon",United Kingdom,"Moore, Kelley and Ryan Bank",INR,176219.76,10-16-2025,Unknown,Completed
+SWIFT_900610,CUST_1010,ACC_5359,"Pearson, Garcia and Gray",India,Taylor-Dickson Bank,USD,84273.06,08-25-2025,Loan Repayment,Rejected
+SWIFT_900611,CUST_1099,ACC_5120,May-Farrell,British Virgin Islands,Copeland-Thomas Bank,AED,783853.26,13/09/2025,Loan Repayment,Rejected
+SWIFT_900612,CUST_1095,ACC_5024,Sullivan-Mckee,Russia,Williams Inc Bank,EUR,196852.29,08-14-2025,Investment Transfer,Completed
+SWIFT_900613,CUST_1445,ACC_5368,Cruz and Sons,UAE,Harvey Ltd Bank,GBP,197114.35,12-03-2025,Investment Transfer,Pending
+SWIFT_900614,CUST_1295,ACC_5375,"Edwards, Lopez and Reyes",United States,Mcknight-Stokes Bank,EUR,52199.37,03/12/2025,Loan Repayment,Completed
+SWIFT_900615,CUST_1297,ACC_5178,Atkinson-Garza,British Virgin Islands,"Hughes, Johnson and Gordon Bank",SGD,167071.68,12/08/2025,Investment Transfer,Rejected
+SWIFT_900616,CUST_1241,ACC_5162,"Bullock, Wright and Beck",Singapore,"Vincent, Clark and Hendricks Bank",GBP,46413.94,2026-01-02,Loan Repayment,Rejected
+SWIFT_900617,CUST_1097,ACC_5026,Prince PLC,United Kingdom,"Chan, Phillips and Mckay Bank",USD,196135.99,13/09/2025,Consulting Fees,Pending
+SWIFT_900618,CUST_1252,ACC_5055,"Chang, Owens and Clark",Panama,Hall PLC Bank,AED,298251.59,07/07/2025,Consulting Fees,Rejected
+SWIFT_900619,CUST_1333,ACC_5357,"Foster, Young and Valentine",United States,Garcia-Rodriguez Bank,GBP,196266.58,13/10/2025,Vendor Payment,Rejected
+SWIFT_900620,CUST_1271,ACC_5088,"Quinn, Anderson and Short",UAE,"Stevens, Lee and Griffin Bank",AED,16376.24,09-27-2025,Vendor Payment,Rejected
+SWIFT_900621,CUST_1399,ACC_5403,Perez Ltd,UAE,"Roth, Butler and Pollard Bank",SGD,138329.51,06-19-2025,Consulting Fees,Pending
+SWIFT_900622,CUST_1175,ACC_5263,Olson Inc,India,Taylor-Johnson Bank,AED,63503.59,02-21-2026,Import Payment,Under Review
+SWIFT_900623,CUST_1260,ACC_5487,Gibson-Ramirez,Germany,Payne-Campbell Bank,AED,176950.99,28/10/2025,Vendor Payment,Under Review
+SWIFT_900624,CUST_1053,ACC_5472,"Dean, Page and Davis",India,Wagner Group Bank,SGD,77434.75,31/03/2026,Vendor Payment,Pending
+SWIFT_900625,CUST_1060,ACC_5288,Foster-Cooper,Cayman Islands,"Haley, Butler and Scott Bank",EUR,325858.64,12-27-2025,Unknown,Completed
+SWIFT_900626,CUST_1183,ACC_5304,"Gill, Keller and Maynard",Panama,Martinez-Kim Bank,SGD,783984.75,11-26-2025,Import Payment,Under Review
+SWIFT_900627,CUST_1151,ACC_5415,Davenport LLC,Russia,King-Ortiz Bank,SGD,212487.22,2025-11-11,Investment Transfer,Pending
+SWIFT_900628,CUST_1461,ACC_5258,Owen-Boyd,Panama,Reed PLC Bank,EUR,742600.44,2026-03-02,Investment Transfer,Pending
+SWIFT_900629,CUST_1348,ACC_5277,Ray-Decker,United States,Miller-Jenkins Bank,INR,151876.81,17/07/2025,Loan Repayment,Completed
+SWIFT_900630,CUST_1034,ACC_5020,"Watson, Hale and Ramirez",UAE,Lee Inc Bank,AED,180402.04,2026-05-05,Unknown,Pending
+SWIFT_900631,CUST_1285,ACC_5284,Rice Inc,United Kingdom,Brewer and Sons Bank,SGD,188344.26,05-24-2026,Import Payment,Pending
+SWIFT_900632,CUST_1356,ACC_5120,Smith-Huffman,India,Clark LLC Bank,INR,54038.18,14/03/2026,Loan Repayment,Completed
+SWIFT_900633,CUST_1031,ACC_5474,Moreno-Rodriguez,United States,Foster and Sons Bank,INR,164824.24,10-20-2025,Unknown,Pending
+SWIFT_900634,CUST_1200,ACC_5122,"Moss, Matthews and Moreno",British Virgin Islands,"Guzman, Bauer and King Bank",INR,791083.41,09-15-2025,Loan Repayment,Completed
+SWIFT_900635,CUST_1283,ACC_5319,Burton-Miller,British Virgin Islands,Mckee-Vargas Bank,SGD,155827.16,07/12/2025,Vendor Payment,Pending
+SWIFT_900636,CUST_1298,ACC_5373,"Wolf, Conner and Hancock",Singapore,Ortiz-Villa Bank,GBP,245170.91,2026-04-05,Loan Repayment,Pending
+SWIFT_900637,CUST_1090,ACC_5161,Baker PLC,Singapore,Vasquez and Sons Bank,GBP,77505.73,2026-03-05,Loan Repayment,Rejected
+SWIFT_900638,CUST_1444,ACC_5235,Miller-Mccoy,British Virgin Islands,"Smith, Ramsey and Davis Bank",SGD,450253.41,2025-12-23,Investment Transfer,Completed
+SWIFT_900639,CUST_1462,ACC_5312,"Wilkins, Thompson and Rivera",Germany,Williams Ltd Bank,SGD,226804.74,2025-11-19,Consulting Fees,Under Review
+SWIFT_900640,CUST_1036,ACC_5184,"Hays, Marsh and Smith",Cayman Islands,"Ellis, Nelson and Schmidt Bank",GBP,622551.19,27/12/2025,Investment Transfer,Completed
+SWIFT_900641,CUST_1148,ACC_5086,King LLC,USA,"Fritz, Harrison and Brown Bank",EUR,56377.68,08-22-2025,,Rejected
+SWIFT_900642,CUST_1285,ACC_5123,Knight-Mccall,United Kingdom,"Hall, Young and Carroll Bank",AED,98831.11,2025-09-15,Consulting Fees,Rejected
+SWIFT_900643,CUST_1370,ACC_5484,"Turner, Mcintosh and May",Cayman Islands,"Chandler, Mayo and Wong Bank",EUR,801112.3,2025-09-04,Import Payment,Rejected
+SWIFT_900644,CUST_1320,ACC_5485,Gillespie Ltd,United States,Woodward Group Bank,INR,46671.27,2025-06-17,Loan Repayment,Rejected
+SWIFT_900645,CUST_1337,ACC_5311,Charles-Carlson,Germany,"Stevens, Lawrence and Benson Bank",EUR,213642.68,30/07/2025,Import Payment,Under Review
+SWIFT_900646,CUST_1449,ACC_5047,Hale-Blevins,United States,Page Ltd Bank,INR,13856.43,18/04/2026,Consulting Fees,Under Review
+SWIFT_900647,CUST_1181,ACC_5487,Serrano-Torres,United States,Jones LLC Bank,GBP,127607.88,05-10-2026,Loan Repayment,Rejected
+SWIFT_900648,CUST_1151,ACC_5197,Fox-Martinez,Singapore,Herman Ltd Bank,GBP,86842.8,2025-07-01,Import Payment,Rejected
+SWIFT_900649,CUST_1346,ACC_5246,Harris-Bailey,Germany,Thompson LLC Bank,INR,246875.84,25/12/2025,Investment Transfer,Under Review
+SWIFT_900650,CUST_1168,ACC_5160,"Lin, Brown and Houston",United Kingdom,"Griffin, Jackson and Smith Bank",USD,126431.94,03-01-2026,Investment Transfer,Under Review
+SWIFT_900651,CUST_1250,ACC_5297,Hodges LLC,Cayman Islands,"Simmons, Obrien and Carson Bank",SGD,490425.11,22/03/2026,Import Payment,Pending
+SWIFT_900652,CUST_1158,ACC_5001,"King, Stuart and Williams",British Virgin Islands,Carson Group Bank,EUR,123235.72,2025-07-11,Vendor Payment,Pending
+SWIFT_900653,CUST_1260,ACC_5362,Wiley PLC,Cayman Islands,Lopez Inc Bank,GBP,190492.98,2025-07-27,Unknown,Under Review
+SWIFT_900654,CUST_1072,ACC_5005,Allen and Sons,Germany,Moore-Downs Bank,INR,167496.7,10/01/2026,,Completed
+SWIFT_900655,CUST_1014,ACC_5022,Watson PLC,United States,Thomas-Wilson Bank,EUR,194904.3,07-16-2025,Investment Transfer,Pending
+SWIFT_900656,CUST_1180,ACC_5025,"Duran, English and Mitchell",India,Nelson-Sparks Bank,EUR,220704.3,19/12/2025,Vendor Payment,Completed
+SWIFT_900657,CUST_1406,ACC_5118,Jenkins LLC,Panama,"Vega, Craig and Washington Bank",INR,685451.98,06/10/2025,Import Payment,Under Review
+SWIFT_900658,CUST_1203,ACC_5177,Mcdonald-Thomas,Germany,"Pennington, Adams and Perez Bank",AED,90091.11,25/06/2025,Vendor Payment,Completed
+SWIFT_900659,CUST_1317,ACC_5192,Wilson-Adams,Russia,Castro-Martinez Bank,INR,160095.4,09-03-2025,Investment Transfer,Completed
+SWIFT_900660,CUST_1061,ACC_5082,Morgan-Allen,United Kingdom,"Anderson, Mahoney and Lopez Bank",AED,116477.72,06-06-2025,Consulting Fees,Pending
+SWIFT_900661,CUST_1388,ACC_5181,"Ortiz, Kim and Bell",Cayman Islands,Hernandez-Luna Bank,EUR,118518.85,14/06/2025,Loan Repayment,Under Review
+SWIFT_900662,CUST_1436,ACC_5160,Nguyen-Castillo,Cayman Islands,"Williams, Todd and Davidson Bank",INR,574512.89,2025-08-23,,Under Review
+SWIFT_900663,CUST_1347,ACC_5365,Lee and Sons,Cayman Islands,Lee Group Bank,SGD,96457.38,01/04/2026,Investment Transfer,Rejected
+SWIFT_900664,CUST_1022,ACC_5008,Perez PLC,Russia,Martin-Mercer Bank,INR,191956.97,06-26-2025,Consulting Fees,Rejected
+SWIFT_900665,CUST_1230,ACC_5423,Barber Group,United Kingdom,Knight Inc Bank,SGD,230646.07,28/11/2025,Consulting Fees,Completed
+SWIFT_900666,CUST_1135,ACC_5230,Perry-Willis,Germany,"Hernandez, Brown and Downs Bank",AED,209983.33,2026-05-05,Investment Transfer,Under Review
+SWIFT_900667,CUST_1072,ACC_5166,"Wolfe, Scott and Adams",Germany,Thomas-Browning Bank,INR,81524.5,07/11/2025,Consulting Fees,Under Review
+SWIFT_900668,CUST_1330,ACC_5122,"Stevens, Cruz and Olson",United Kingdom,Torres-Gregory Bank,SGD,8386.71,2026-05-13,Unknown,Completed
+SWIFT_900669,CUST_1262,ACC_5161,Oneal-Byrd,UAE,"Lopez, Hardin and Salinas Bank",EUR,29708.09,2025-09-19,Unknown,Completed
+SWIFT_900670,CUST_1073,ACC_5301,Leblanc Group,British Virgin Islands,"Wallace, Foley and Horton Bank",SGD,443600.53,2026-01-08,Loan Repayment,Under Review
+SWIFT_900671,CUST_1231,ACC_5246,"Hernandez, Payne and Parks",Panama,Thompson-Gilmore Bank,EUR,403879.24,2025-12-07,Vendor Payment,Completed
+SWIFT_900672,CUST_1101,ACC_5454,"Hunt, Stephens and Hutchinson",British Virgin Islands,Yang-Boone Bank,INR,857616.58,06-24-2025,Investment Transfer,Rejected
+SWIFT_900673,CUST_1343,ACC_5403,Richardson-Mathis,Russia,Johnson-Brandt Bank,INR,135555.59,10-04-2025,Vendor Payment,Completed
+SWIFT_900674,CUST_1291,ACC_5004,Wright PLC,United States,"Chen, Leach and Nichols Bank",EUR,52435.1,10-24-2025,Investment Transfer,Completed
+SWIFT_900675,CUST_1386,ACC_5297,Nguyen Group,Germany,Chaney PLC Bank,INR,202560.74,2026-03-27,Investment Transfer,Completed
+SWIFT_900676,CUST_1098,ACC_5452,Hancock-Williams,UAE,Lewis and Sons Bank,GBP,6911.54,08-24-2025,Consulting Fees,Completed
+SWIFT_900677,CUST_1117,ACC_5482,Bryan-Madden,United States,Weaver-Torres Bank,AED,202737.74,2025-12-20,Consulting Fees,Pending
+SWIFT_900678,CUST_1347,ACC_5038,Hendricks LLC,Singapore,Williams-Rice Bank,EUR,142053.77,08-16-2025,Investment Transfer,Rejected
+SWIFT_900679,CUST_1478,ACC_5278,Mendez-Martin,Germany,"Bishop, Walsh and Davis Bank",AED,213318.33,2026-04-26,,Rejected
+SWIFT_900680,CUST_1216,ACC_5477,Henry Ltd,Singapore,"Phillips, Adams and Martinez Bank",INR,57431.42,09/02/2026,Vendor Payment,Completed
+SWIFT_900681,CUST_1367,ACC_5396,"Mendez, Ho and Johnson",Cayman Islands,Evans-Jenkins Bank,AED,454583.95,2025-10-24,Investment Transfer,Pending
+SWIFT_900682,CUST_1252,ACC_5050,Anderson Ltd,Cayman Islands,Scott LLC Bank,USD,451459.67,04-23-2026,Loan Repayment,Under Review
+SWIFT_900683,CUST_1198,ACC_5055,Pope-Torres,UAE,"Blair, Maxwell and Alvarez Bank",EUR,77867.24,08/02/2026,Loan Repayment,Completed
+SWIFT_900684,CUST_1500,ACC_5466,Scott PLC,Cayman Islands,"King, Jenkins and Wilson Bank",EUR,393575.74,01-24-2026,Loan Repayment,Rejected
+SWIFT_900685,CUST_1047,ACC_5015,Clark-Frost,Singapore,Tyler-Gutierrez Bank,USD,73293.85,2026-05-18,Unknown,Completed
+SWIFT_900686,CUST_1184,ACC_5375,"Harvey, Casey and Summers",British Virgin Islands,Foster Inc Bank,EUR,618613.31,07-23-2025,Consulting Fees,Completed
+SWIFT_900687,CUST_1282,ACC_5400,Phillips-Brown,Germany,Johnson PLC Bank,EUR,32245.68,2026-04-17,Consulting Fees,Completed
+SWIFT_900688,CUST_1204,ACC_5366,Wilson-Mcbride,India,"Chen, Shannon and Schwartz Bank",INR,184319.38,11/12/2025,Investment Transfer,Pending
+SWIFT_900689,CUST_1478,ACC_5028,Foster PLC,India,Davis-Hall Bank,GBP,6885.69,2026-01-29,Investment Transfer,Pending
+SWIFT_900690,CUST_1019,ACC_5148,Allen-Brown,United Kingdom,"Sandoval, Hale and Thomas Bank",SGD,178850.95,11/11/2025,Import Payment,Completed
+SWIFT_900691,CUST_1356,ACC_5141,Brandt Ltd,British Virgin Islands,"Ferguson, Watkins and Levy Bank",GBP,290646.49,2025-11-14,,Completed
+SWIFT_900692,CUST_1416,ACC_5146,Cervantes Ltd,Cayman Islands,Cole-Richardson Bank,INR,253757.66,2025-08-02,Investment Transfer,Rejected
+SWIFT_900693,CUST_1443,ACC_5465,Pope-Garrett,United States,Mcdonald-Dennis Bank,EUR,105479.81,02/06/2025,Investment Transfer,Under Review
+SWIFT_900694,CUST_1141,ACC_5251,Gates-Long,British Virgin Islands,"Lang, Leon and Good Bank",GBP,175208.58,25/07/2025,Consulting Fees,Rejected
+SWIFT_900695,CUST_1044,ACC_5150,"Miller, Scott and Anderson",United Kingdom,"Herrera, Wilson and Adams Bank",AED,201277.69,2025-09-09,Unknown,Completed
+SWIFT_900696,CUST_1276,ACC_5440,Garcia-Morgan,India,Howell-Reed Bank,GBP,108773.89,05/09/2025,Import Payment,Pending
+SWIFT_900697,CUST_1325,ACC_5177,Cooper Ltd,Singapore,Wilson Group Bank,SGD,244675.42,19/10/2025,Unknown,Pending
+SWIFT_900698,CUST_1449,ACC_5384,"Clark, Whitehead and Wilson",UAE,"Smith, Jones and Collins Bank",EUR,64139.93,2025-06-03,Loan Repayment,Pending
+SWIFT_900699,CUST_1079,ACC_5038,"White, Luna and Walker",Germany,Roberson Ltd Bank,GBP,223691.83,08-01-2025,Consulting Fees,Rejected
+SWIFT_900700,CUST_1031,ACC_5139,Chapman-Carr,Cayman Islands,Martinez-Brewer Bank,EUR,184007.42,2025-09-04,Import Payment,Under Review

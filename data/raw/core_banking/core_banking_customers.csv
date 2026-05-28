@@ -1,0 +1,501 @@
+customer_id,account_id,customer_name,account_type,country,city,account_open_date,current_balance,kyc_status,customer_risk_category,mobile_number,email
+CUST_1001,ACC_5001,Kathryn Rice,Current,United States,Pune,03-05-2023,528649.61,Incomplete,LOW,404.596.3248,mchavez@example.net
+CUST_1002,ACC_5002,Christopher Hernandez Jr.,Current,UAE,Patna,06-24-2020,274681.14,Pending,MEDIUM,+1-451-623-8566x87263,kelseyhernandez@example.org
+CUST_1003,ACC_5003,Stephanie Cook,Savings,India,Patna,02-05-2025,2296850.47,Expired,MEDIUM,551.876.4145x6190,uortiz@example.net
+CUST_1004,ACC_5004,Edward Chan,NRI,United Kingdom,Mumbai,2025-04-04,1888436.24,Incomplete,HIGH,893-449-1270x69138,phillip14@example.net
+CUST_1005,ACC_5005,Jennifer Gonzalez,NRI,UAE,Chennai,2025-03-25,4921581.93,Expired,MEDIUM,(616)228-3682,hklein@example.net
+CUST_1006,ACC_5006,Christopher Jackson,Savings,India,Kolkata,04-11-2022,2315437.03,Expired,LOW,666.329.8870,vthomas@example.net
+CUST_1007,ACC_5007,Brenda Lopez,NRI,India,Chennai,08-25-2022,2454672.93,,LOW,331-992-3909x787,berrybrooke@example.com
+CUST_1008,ACC_5008,Lisa Patel,Current,UAE,Patna,24/08/2021,267766.04,Expired,HIGH,001-299-481-1388x94842,stewartjoshua@example.org
+CUST_1009,ACC_5009,Claudia Silva,Current,India,Chennai,01-02-2024,3282109.62,Incomplete,MEDIUM,376.333.0707x299,ahicks@example.org
+CUST_1010,ACC_5010,Samuel Diaz,NRI,India,Hyderabad,2021-11-08,4788125.94,Expired,HIGH,(211)463-5244x216,heatherpeck@example.net
+CUST_1011,ACC_5011,Veronica Smith,Current,United Kingdom,,2022-08-09,4818318.57,Incomplete,MEDIUM,737-744-9583,brianna69@example.net
+CUST_1012,ACC_5012,Debra Trevino,Corporate,Singapore,Chennai,2025-12-24,175017.68,Incomplete,HIGH,229-208-1568x392,pjackson@example.net
+CUST_1013,ACC_5013,Rhonda Phillips,Savings,United Kingdom,Kolkata,2024-03-15,3799042.32,Verified,HIGH,(655)299-5039,drakegregory@example.net
+CUST_1014,ACC_5014,Karina Warner,Salary,India,Delhi,07-25-2021,1510638.11,Expired,LOW,+1-213-627-2425,andersondaniel@example.org
+CUST_1015,ACC_5015,Jonathan Rice,Salary,United Kingdom,Pune,05/11/2022,2497991.69,Verified,LOW,+1-233-761-3350x7792,jasonhenderson@example.org
+CUST_1016,ACC_5016,Nicholas Lucas MD,Savings,Singapore,Delhi,2025-03-20,4836272.23,Expired,LOW,+1-547-817-7695x01557,jacobturner@example.net
+CUST_1017,ACC_5017,Carol Estes,Salary,Germany,Chennai,18/02/2025,4372412.74,Verified,LOW,953-399-5396,linda11@example.com
+CUST_1018,ACC_5018,Austin Moore,Corporate,United States,Chennai,2019-11-24,3238709.29,Verified,LOW,+1-659-395-2584,cwoodward@example.org
+CUST_1019,ACC_5019,Christopher Fowler,Salary,United Kingdom,Kolkata,2026-01-29,230388.88,Expired,LOW,(794)804-8914,amonroe@example.net
+CUST_1020,ACC_5020,Martin Green,NRI,United States,Chennai,22/12/2025,1950972.12,Expired,LOW,001-643-585-2847x0952,valdezkimberly@example.com
+CUST_1021,ACC_5021,Alexis Lucas,Salary,United Kingdom,Patna,06-14-2025,4470718.42,Expired,MEDIUM,548.842.5434x133,nhorton@example.org
+CUST_1022,ACC_5022,James Williamson,Corporate,United States,Hyderabad,2023-03-21,2713286.14,Pending,HIGH,310.400.2095x3139,johnwilson@example.com
+CUST_1023,ACC_5023,Katherine Lewis,Corporate,UAE,Kolkata,2025-11-25,4900769.39,Expired,MEDIUM,(621)918-2757,jensendustin@example.com
+CUST_1024,ACC_5024,Scott Nguyen,Current,Singapore,Bengaluru,2025-09-24,2765578.5,Verified,LOW,(909)926-7475x8912,richardmendoza@example.com
+CUST_1025,ACC_5025,Joseph Armstrong,Savings,India,Chennai,2025-12-03,869226.73,Incomplete,HIGH,959-619-7019x403,terry08@example.org
+CUST_1026,ACC_5026,Kyle Preston,Salary,United States,Bengaluru,2024-10-23,3157766.42,Incomplete,HIGH,608.346.1948,sandra27@example.org
+CUST_1027,ACC_5027,Mary Medina,Corporate,Germany,Mumbai,11-11-2024,3005112.0,Expired,LOW,001-918-492-6471x31304,rsanders@example.com
+CUST_1028,ACC_5028,Michael White,Savings,India,Bengaluru,2025-10-31,2794623.61,Verified,HIGH,+1-627-755-9668x97435,wflores@example.org
+CUST_1029,ACC_5029,Carol Scott,Salary,Germany,Mumbai,20/10/2023,3798615.21,Verified,HIGH,480-914-6647x6687,grimesroger@example.com
+CUST_1030,ACC_5030,David Weaver,Current,UAE,Chennai,07-30-2025,843184.57,,HIGH,4164959834,gregory28@example.org
+CUST_1031,ACC_5031,Timothy Farmer,Current,U.S.A,Kolkata,01/05/2022,2740642.82,Verified,HIGH,+1-719-521-9230x00893,amber58@example.org
+CUST_1032,ACC_5032,Todd Smith,Savings,UAE,Patna,13/06/2025,4551262.17,Incomplete,HIGH,+1-385-234-1413x675,thomassanchez@example.net
+CUST_1033,ACC_5033,Gloria York,NRI,Germany,Delhi,04-27-2022,1618944.57,Incomplete,HIGH,8644781277,madisongonzalez@example.net
+CUST_1034,ACC_5034,Marc Murray,Current,Singapore,Patna,09-22-2023,2093098.92,Pending,HIGH,(868)932-6763x813,jennifer06@example.org
+CUST_1035,ACC_5035,Ann Guzman,Current,UAE,Mumbai,2020-02-06,46318.41,Verified,HIGH,+1-557-623-2159x31577,kellybrown@example.net
+CUST_1036,ACC_5036,Frank Munoz,NRI,India,Hyderabad,03-18-2021,2117577.44,Pending,HIGH,793.737.0628x65150,bautistatodd@example.com
+CUST_1037,ACC_5037,Victor Harris,Salary,Germany,Delhi,02-11-2025,3837728.58,Incomplete,MEDIUM,748.562.7605x960,toddromero@example.net
+CUST_1038,ACC_5038,Sandy Hoffman,NRI,United Kingdom,Hyderabad,2021-10-24,247243.74,Expired,MEDIUM,(760)758-1553x95528,pricepeter@example.com
+CUST_1039,ACC_5039,Gregory Hunt,NRI,UAE,Hyderabad,04-08-2024,562143.44,Expired,LOW,(417)390-5802x30268,ksmith@example.com
+CUST_1040,ACC_5040,Tim Winters DVM,Salary,Singapore,Hyderabad,12-29-2019,1958048.36,Expired,HIGH,001-257-502-0934x27892,cynthiasnyder@example.com
+CUST_1041,ACC_5041,Oscar Wood,Corporate,India,Delhi,07/12/2025,1472743.82,Incomplete,HIGH,567-548-9833x959,nswanson@example.net
+CUST_1042,ACC_5042,Danielle Shaffer,NRI,United Kingdom,Patna,18/01/2026,3116706.17,Incomplete,HIGH,(946)454-0089,edwin28@example.org
+CUST_1043,ACC_5043,Casey Phillips,Corporate,United Kingdom,Bengaluru,07/07/2023,2101941.74,Verified,LOW,244.622.9060x939,morenonicole@example.com
+CUST_1044,ACC_5044,Wanda Gomez,Savings,India,Delhi,2021-06-19,2951132.09,Incomplete,HIGH,001-573-543-7069x61732,julie13@example.com
+CUST_1045,ACC_5045,Dr. Carmen Johnson,NRI,U.S.A,Delhi,2024-03-23,902312.72,Pending,LOW,+1-511-465-2024,wsuarez@example.com
+CUST_1046,ACC_5046,Ruben Gibson,Corporate,India,Patna,01-11-2020,385845.18,Incomplete,HIGH,553-872-9426x239,ryanreeves@example.com
+CUST_1047,ACC_5047,Rebecca Lopez,Corporate,India,Hyderabad,25/10/2023,4807867.8,Pending,MEDIUM,(352)240-1856,gonzaleznathan@example.org
+CUST_1048,ACC_5048,Bill Jensen,Current,United States,Bengaluru,02-26-2020,4800602.77,Verified,LOW,001-764-623-2209x083,sfitzgerald@example.com
+CUST_1049,ACC_5049,Zachary Ortiz,Salary,India,Chennai,05/09/2023,1253710.05,Expired,MEDIUM,(456)939-5989,erika37@example.org
+CUST_1050,ACC_5050,Frank Edwards,Savings,Singapore,,03-17-2025,874756.89,Verified,MEDIUM,(966)712-0520x8488,reynoldscarolyn@example.net
+CUST_1051,ACC_5051,Christopher Kennedy,Current,United States,Delhi,26/03/2022,3707350.4,Incomplete,LOW,001-805-684-1814x988,lcontreras@example.net
+CUST_1052,ACC_5052,Catherine Rodgers,NRI,Singapore,Bengaluru,15/06/2021,3576968.51,Expired,LOW,242-294-3874,salazartimothy@example.net
+CUST_1053,ACC_5053,Corey James,NRI,UAE,Bengaluru,08-18-2022,1411086.59,Expired,LOW,682.352.7340x53218,morrowpaul@example.org
+CUST_1054,ACC_5054,Brian Huynh,Corporate,United States,Chennai,11-05-2019,702573.68,Incomplete,HIGH,8326030251,jackbean@example.org
+CUST_1055,ACC_5055,Kyle Armstrong,Salary,United Kingdom,Hyderabad,12-27-2021,50337.56,,HIGH,298.852.4266,reynoldsrita@example.net
+CUST_1056,ACC_5056,Alexander Delacruz,NRI,Singapore,Delhi,21/09/2024,1940732.56,Incomplete,LOW,(209)907-2753,csingh@example.com
+CUST_1057,ACC_5057,Amanda Anderson,NRI,United Kingdom,Patna,20/01/2024,4596374.49,Expired,LOW,(290)479-9760,gomezchristina@example.net
+CUST_1058,ACC_5058,Richard Bartlett,Salary,Germany,Mumbai,17/04/2023,3557095.79,Expired,HIGH,857-988-1373,andrew84@example.com
+CUST_1059,ACC_5059,Rhonda Rivas,Salary,United States,Chennai,02/12/2025,1157157.84,Expired,LOW,239.588.0469,michael95@example.net
+CUST_1060,ACC_5060,Amanda Rodriguez,Savings,United States,Bengaluru,2021-04-19,4340476.34,Pending,HIGH,(778)389-8903,montgomerychristopher@example.org
+CUST_1061,ACC_5061,Joseph Frederick,Corporate,UAE,Pune,2020-12-19,2690779.07,Expired,LOW,681.346.8078x212,williambailey@example.com
+CUST_1062,ACC_5062,Natalie Huerta,Salary,United Kingdom,Patna,18/07/2022,1104309.97,Verified,MEDIUM,001-602-383-2564x34635,lukerichards@example.com
+CUST_1063,ACC_5063,Robyn Wilson,Salary,United States,Pune,2019-11-08,2188552.85,Pending,MEDIUM,591-278-6696x40540,huberstephanie@example.com
+CUST_1064,ACC_5064,Christine Chambers,Corporate,UAE,Delhi,2022-01-31,1299583.02,Incomplete,HIGH,448.419.9590,raymond17@example.net
+CUST_1065,ACC_5065,Abigail Fields,Current,UAE,Kolkata,2023-11-26,3864241.52,Verified,LOW,+1-735-643-4906x6649,uhickman@example.com
+CUST_1066,ACC_5066,Robert Turner,Savings,United Kingdom,Patna,10-07-2023,2544552.9,Pending,LOW,+1-394-492-0455x940,pwright@example.org
+CUST_1067,ACC_5067,Cory Davis,Current,United States,Delhi,2019-11-10,3366453.29,,HIGH,437-296-6164x1215,jlewis@example.com
+CUST_1068,ACC_5068,Denise Dorsey,Current,Singapore,Delhi,2025-09-26,4366857.99,Verified,MEDIUM,(509)258-4450,jberry@example.org
+CUST_1069,ACC_5069,Miss Autumn Gonzalez MD,Savings,Germany,Chennai,06-08-2020,2234178.05,Verified,LOW,(739)614-8971x52975,denniscortez@example.net
+CUST_1070,ACC_5070,Christopher Davidson,Salary,India,Hyderabad,05-18-2020,3266688.19,Expired,HIGH,001-824-358-3289,darrell72@example.net
+CUST_1071,ACC_5071,Samantha Jones,Current,Singapore,Mumbai,2025-02-14,273886.65,Expired,HIGH,001-947-300-2000x82408,wesley36@example.com
+CUST_1072,ACC_5072,Joseph Hanson,NRI,Singapore,Bengaluru,20/10/2022,1823210.58,Incomplete,LOW,(362)545-0035x7754,aliciabryan@example.com
+CUST_1073,ACC_5073,Charlotte Lester,Corporate,UAE,Kolkata,06-18-2024,4582002.09,Incomplete,LOW,485.515.5063,bleonard@example.com
+CUST_1074,ACC_5074,Richard Davenport,NRI,UAE,Pune,2024-01-01,1388741.32,Expired,HIGH,(336)215-5928x5701,tammy50@example.net
+CUST_1075,ACC_5075,Kelly Miller,NRI,United States,Pune,09/10/2019,3348646.37,Expired,HIGH,7439519007,wileybarbara@example.net
+CUST_1076,ACC_5076,Mr. Ian Hunter,Salary,Singapore,Bengaluru,2026-04-18,1317950.16,Verified,LOW,+1-415-492-9543,kjohnson@example.org
+CUST_1077,ACC_5077,Sandra Douglas,Current,United Kingdom,Bengaluru,09-04-2021,1919925.44,Pending,LOW,001-408-373-5898,joshua61@example.net
+CUST_1078,ACC_5078,Mary Brown,NRI,UAE,Kolkata,11-04-2022,1551832.24,Verified,LOW,968-881-5515,cperry@example.org
+CUST_1079,ACC_5079,Shawn Allen,Savings,India,Chennai,2024-02-08,1806419.77,Pending,LOW,790.860.2629,dperez@example.net
+CUST_1080,ACC_5080,Autumn Holland,NRI,UAE,Delhi,2026-04-14,2055875.29,Verified,HIGH,001-658-345-8308,sandra89@example.com
+CUST_1081,ACC_5081,Rebecca Moses,Corporate,United States,Mumbai,08/11/2019,2698625.45,Pending,HIGH,9915632145,kellycruz@example.org
+CUST_1082,ACC_5082,Megan Ortiz,NRI,United Kingdom,Hyderabad,10-19-2021,2797784.81,Incomplete,LOW,922.694.3504x6431,haydenrichard@example.com
+CUST_1083,ACC_5083,Brandon Ortiz,Savings,India,Bengaluru,04-29-2021,4872935.38,Incomplete,LOW,(387)618-2156x1063,cmoore@example.org
+CUST_1084,ACC_5084,Amanda Moore,NRI,UAE,Delhi,2024-06-02,3607153.8,Incomplete,LOW,741.614.1486,leslienelson@example.com
+CUST_1085,ACC_5085,Stephen Tate,NRI,Singapore,Hyderabad,04/02/2020,431946.42,Expired,LOW,282.582.9416x37585,veronicareed@example.com
+CUST_1086,ACC_5086,Joseph Davies,Savings,India,Hyderabad,22/12/2025,3939867.93,Expired,MEDIUM,423.817.7385,dean41@example.net
+CUST_1087,ACC_5087,Michael Lin,Corporate,Germany,,14/09/2022,1059324.47,Expired,HIGH,001-684-569-9543x191,katherinenguyen@example.com
+CUST_1088,ACC_5088,Andrew Raymond,Corporate,Germany,Pune,2022-03-31,2748024.81,Incomplete,LOW,001-815-725-0873x55406,stevenellis@example.net
+CUST_1089,ACC_5089,Jaime Collier,NRI,Singapore,Bengaluru,01-19-2020,4890126.89,Incomplete,HIGH,(458)812-6211x14416,navarrojohn@example.org
+CUST_1090,ACC_5090,Ashley Moss,NRI,United States,Delhi,2022-12-08,1848633.67,Expired,HIGH,(282)521-3475x717,krausescott@example.org
+CUST_1091,ACC_5091,Evan Stevens,Salary,United Kingdom,Pune,2022-03-12,4552261.81,Pending,LOW,+1-687-964-9370x96170,tcastillo@example.org
+CUST_1092,ACC_5092,Jennifer Thomas,Current,Germany,Mumbai,12-31-2025,2167995.94,Incomplete,LOW,001-632-570-4793x12195,morrisshawn@example.net
+CUST_1093,ACC_5093,Robert Long,NRI,UAE,Bengaluru,26/08/2023,3805419.72,Incomplete,HIGH,(657)917-5269,cannonaustin@example.com
+CUST_1094,ACC_5094,William Hester,Corporate,India,Kolkata,27/04/2026,3747955.0,Pending,HIGH,+1-643-291-0585x835,carrollheather@example.net
+CUST_1095,ACC_5095,Brianna Oneill,NRI,UAE,Chennai,2021-09-01,3679881.86,Pending,MEDIUM,965.858.6582,courtney12@example.org
+CUST_1096,ACC_5096,Alexander Miller,Savings,India,Kolkata,02-07-2021,3301365.54,Verified,LOW,530-915-1020x40106,monica25@example.org
+CUST_1097,ACC_5097,Jennifer Frederick,Salary,United States,Kolkata,12-23-2021,1475050.23,Verified,MEDIUM,(788)230-9253,jesusescobar@example.com
+CUST_1098,ACC_5098,Amanda Smith,Corporate,United States,Kolkata,04-26-2021,1973341.3,Incomplete,MEDIUM,960-789-3618x954,butlerstephanie@example.net
+CUST_1099,ACC_5099,Briana Harris DDS,Savings,Singapore,,2021-05-05,2632164.35,Incomplete,MEDIUM,649.515.8726x214,daviesangela@example.com
+CUST_1100,ACC_5100,James White,Corporate,United States,Delhi,01-24-2025,3466298.47,Verified,LOW,471.311.2426,jonathanlynch@example.net
+CUST_1101,ACC_5101,Christopher Kelly,Savings,Germany,Hyderabad,09-04-2022,1302988.77,Verified,MEDIUM,9199944803,amanda74@example.org
+CUST_1102,ACC_5102,Rebecca Hill,Savings,Singapore,Mumbai,12-18-2021,2472337.04,Expired,LOW,482.474.9141x268,dawnjordan@example.com
+CUST_1103,ACC_5103,Paula Hunter,Salary,United States,Bengaluru,2022-08-07,552612.11,Expired,MEDIUM,001-420-890-4790x25796,dalecox@example.org
+CUST_1104,ACC_5104,Cameron Diaz,Current,Singapore,Kolkata,12/12/2025,4013454.19,Verified,HIGH,214.979.3181x81769,scottchavez@example.com
+CUST_1105,ACC_5105,Jessica Barnes,Salary,United States,,2023-03-14,2228442.63,Pending,HIGH,201.352.6343x88935,devinchavez@example.net
+CUST_1106,ACC_5106,Thomas Butler,Savings,Singapore,Kolkata,10-25-2020,1593283.47,Incomplete,LOW,917.246.1851x48461,davispaula@example.com
+CUST_1107,ACC_5107,Jacqueline Murphy DDS,Savings,Germany,Kolkata,18/03/2022,2467650.4,Incomplete,HIGH,+1-759-393-9867x7989,annette90@example.com
+CUST_1108,ACC_5108,Joy Webb,Corporate,Germany,Mumbai,10-07-2022,4136858.89,,LOW,7914866801,qdixon@example.net
+CUST_1109,ACC_5109,Michael White,Corporate,Germany,Chennai,2021-02-17,2652589.81,Incomplete,MEDIUM,803-412-2583,ashleebrown@example.net
+CUST_1110,ACC_5110,Tracy Lewis,Savings,Germany,Hyderabad,30/05/2024,1413057.6,Verified,LOW,2133970217,dwayne47@example.org
+CUST_1111,ACC_5111,David Lyons,Salary,United States,Delhi,26/09/2019,2058471.41,Incomplete,LOW,+1-410-728-3105,psmith@example.net
+CUST_1112,ACC_5112,Sean Spencer,Corporate,India,Chennai,12/04/2026,1625215.81,Incomplete,MEDIUM,001-605-350-3796x1640,woodardtanya@example.net
+CUST_1113,ACC_5113,Erika Love,NRI,India,Delhi,20/11/2021,2881136.38,Pending,HIGH,(234)807-6382x48858,johnflores@example.com
+CUST_1114,ACC_5114,Jake Todd,Corporate,UAE,Pune,16/10/2024,1778307.55,Verified,HIGH,540-834-3487x3578,combsdonna@example.org
+CUST_1115,ACC_5115,Emily Miller,NRI,United Kingdom,Kolkata,2024-05-06,2700965.2,Incomplete,LOW,749.695.3717x4550,ehall@example.org
+CUST_1116,ACC_5116,Amy Mayer,Salary,United States,Mumbai,04-20-2022,334775.1,Incomplete,HIGH,001-267-883-9895x37237,imartinez@example.org
+CUST_1117,ACC_5117,Dr. Jeffrey Johnson,Savings,UAE,Mumbai,2021-08-03,2065350.4,Expired,MEDIUM,(498)667-1362x6537,sandovalgeorge@example.com
+CUST_1118,ACC_5118,Alexandra Garcia,NRI,Singapore,Kolkata,23/04/2026,4685710.12,Expired,MEDIUM,721-422-4262x523,esmith@example.net
+CUST_1119,ACC_5119,Christine Gonzalez,NRI,United Kingdom,Bengaluru,2020-07-07,1611684.0,Verified,MEDIUM,001-593-257-7086x91606,hbaldwin@example.org
+CUST_1120,ACC_5120,John Hartman,Salary,UAE,Kolkata,2019-12-17,1686981.69,Verified,MEDIUM,891.996.5769x91323,josephflynn@example.org
+CUST_1121,ACC_5121,Brett Smith PhD,Salary,India,Chennai,31/07/2025,2700775.33,Verified,HIGH,582.216.6663x975,robert27@example.com
+CUST_1122,ACC_5122,Nicholas Calderon,Savings,United Kingdom,Pune,12/11/2020,2910202.85,Incomplete,HIGH,665-867-8264,williamsjeremiah@example.net
+CUST_1123,ACC_5123,Rita White,Corporate,Singapore,Mumbai,10/11/2023,2119068.9,Pending,HIGH,9609469439,andrewtaylor@example.com
+CUST_1124,ACC_5124,Jeffrey Russell,Corporate,United Kingdom,Chennai,2025-09-11,888662.82,Pending,MEDIUM,(453)942-2621x00055,christopher29@example.net
+CUST_1125,ACC_5125,Joshua Vargas,NRI,Germany,Patna,04/12/2024,511595.65,Pending,LOW,390.527.6541,katherinejordan@example.com
+CUST_1126,ACC_5126,David Hernandez,Current,United States,Patna,2023-10-07,618065.83,Verified,LOW,466.982.7874,ricardo38@example.net
+CUST_1127,ACC_5127,David Gentry,Salary,United Kingdom,Mumbai,2025-03-17,642502.9,Pending,HIGH,+1-597-879-9854x699,fmitchell@example.net
+CUST_1128,ACC_5128,Lydia Vincent,Savings,United States,Patna,10-04-2020,2670169.75,Pending,HIGH,4268414052,vpotter@example.net
+CUST_1129,ACC_5129,Michael Page,NRI,Germany,Chennai,06/02/2020,565134.43,Verified,HIGH,001-339-295-4971x88372,robertmorgan@example.net
+CUST_1130,ACC_5130,Sean Nunez,Corporate,Germany,Kolkata,10/08/2019,927225.85,Pending,MEDIUM,773-462-8041x44837,gregorytaylor@example.com
+CUST_1131,ACC_5131,David Molina,Salary,Germany,Mumbai,21/04/2024,338485.19,Verified,LOW,001-704-890-3140x65061,wbauer@example.com
+CUST_1132,ACC_5132,Stephanie White,Salary,United States,Bengaluru,2019-10-07,458535.58,Pending,MEDIUM,960.805.9623x4851,washingtonsamuel@example.com
+CUST_1133,ACC_5133,Nathan Sanchez,NRI,United States,Mumbai,12-23-2022,4870111.88,Pending,HIGH,850-595-9590x201,kyle10@example.com
+CUST_1134,ACC_5134,Justin Underwood,NRI,United Kingdom,,2024-01-01,2644911.23,Pending,LOW,293-344-1367x324,andersonmichael@example.com
+CUST_1135,ACC_5135,Jonathan Roberts,Savings,Germany,Pune,04-26-2024,975751.59,Expired,HIGH,391-509-3755x736,beckythompson@example.net
+CUST_1136,ACC_5136,James Harris,Savings,India,Delhi,01/12/2025,3103460.92,Incomplete,MEDIUM,878.660.5789x115,cruzchristine@example.net
+CUST_1137,ACC_5137,Phillip Frazier,NRI,Germany,Patna,2020-05-29,3579478.15,Incomplete,HIGH,550.946.4916x89298,hamiltonian@example.com
+CUST_1138,ACC_5138,Steve Rice,Current,United Kingdom,Chennai,2026-04-03,3116551.64,Pending,HIGH,(213)345-8142x40458,christopherpierce@example.org
+CUST_1139,ACC_5139,Gina Perez,NRI,India,Hyderabad,2023-09-04,2983893.0,Incomplete,LOW,(944)362-5109x685,sharon88@example.com
+CUST_1140,ACC_5140,Tyler Hardy,Current,United States,Kolkata,2020-04-30,1165687.71,Expired,HIGH,+1-885-630-0347,gregoryyoung@example.net
+CUST_1141,ACC_5141,Daniel Schmidt,NRI,India,,2026-04-11,4970150.63,Pending,HIGH,(379)394-1003,gutierrezalan@example.org
+CUST_1142,ACC_5142,Emily Watson,NRI,India,Hyderabad,2021-11-18,4886354.59,Expired,HIGH,001-298-287-9681,andrea25@example.net
+CUST_1143,ACC_5143,Emily Cardenas,Current,Singapore,Bengaluru,21/06/2021,372236.87,Verified,HIGH,001-216-940-4405x297,samantha99@example.org
+CUST_1144,ACC_5144,Anthony Ramsey,Salary,United States,Patna,06-19-2023,1738007.26,Expired,HIGH,4266965201,george39@example.com
+CUST_1145,ACC_5145,Alejandra Ward,Savings,Singapore,Delhi,05/09/2025,1325706.45,Incomplete,LOW,(616)374-0341x8715,woodskerry@example.net
+CUST_1146,ACC_5146,Jennifer Harris,Savings,United States,Mumbai,2021-03-23,4620338.66,Incomplete,LOW,384.545.4615,amybrown@example.com
+CUST_1147,ACC_5147,Kimberly Lewis,Corporate,United Kingdom,Pune,21/08/2022,2562152.75,Pending,LOW,001-440-405-0461x962,christophermeza@example.com
+CUST_1148,ACC_5148,Mary Villarreal,Corporate,UAE,Kolkata,02-12-2025,2182094.62,Expired,HIGH,+1-593-923-0798x5641,xbarton@example.org
+CUST_1149,ACC_5149,Dean Hall,NRI,United Kingdom,Hyderabad,10-19-2022,2802160.55,Pending,HIGH,9289228632,drush@example.net
+CUST_1150,ACC_5150,Kelli Robbins,NRI,UAE,Chennai,12-18-2019,4029360.19,Expired,MEDIUM,350.631.3414x749,riveradavid@example.com
+CUST_1151,ACC_5151,Sabrina Jacobson,Current,U.S.A,Bengaluru,01-06-2024,856703.28,Incomplete,LOW,587.486.8972x39821,kduncan@example.net
+CUST_1152,ACC_5152,Tracy Marsh,Current,India,Kolkata,12-13-2020,3722329.54,Incomplete,MEDIUM,(514)386-0284x886,guzmanjoshua@example.com
+CUST_1153,ACC_5153,Debra Nelson,Salary,UAE,Delhi,2025-10-18,1111638.1,Incomplete,LOW,968.670.3170,robertjones@example.org
+CUST_1154,ACC_5154,Derrick Jones,Corporate,United Kingdom,Delhi,10-12-2024,1162812.2,Pending,LOW,+1-590-258-2844x80615,vincent41@example.com
+CUST_1155,ACC_5155,Joseph Martin,Salary,Singapore,Patna,01-31-2025,4379304.48,Pending,HIGH,+1-918-463-1411,kdean@example.net
+CUST_1156,ACC_5156,Eric Klein,Current,United States,Hyderabad,2025-12-15,3809079.2,Expired,MEDIUM,+1-792-340-7878x686,johnpatel@example.org
+CUST_1157,ACC_5157,Karen Romero,Savings,United Kingdom,Kolkata,2021-09-07,3321898.76,Pending,HIGH,001-348-498-7984x682,smithpatrick@example.com
+CUST_1158,ACC_5158,Brian White,Current,United Kingdom,Kolkata,2024-05-06,3862377.64,Pending,LOW,001-510-455-2572x460,xmartin@example.com
+CUST_1159,ACC_5159,Christopher Smith,Current,UAE,Patna,20/06/2024,2103467.11,Expired,LOW,(540)311-1840x18060,keithshelton@example.net
+CUST_1160,ACC_5160,Christopher Horne,Savings,India,Patna,2021-07-01,3480905.8,Pending,MEDIUM,001-684-742-1301x7766,hendersonzachary@example.org
+CUST_1161,ACC_5161,Kenneth Lopez,Current,India,Mumbai,27/01/2023,3964771.7,Expired,HIGH,880-911-2236,osborntamara@example.com
+CUST_1162,ACC_5162,Diane Torres,NRI,India,Kolkata,2024-03-01,2808075.72,Incomplete,LOW,267-768-7406,daniel46@example.com
+CUST_1163,ACC_5163,Kimberly Anderson,Corporate,Germany,Mumbai,10-05-2019,4306335.28,Incomplete,HIGH,+1-698-882-9446x011,hollyreed@example.com
+CUST_1164,ACC_5164,Charles Davies,Salary,UAE,Delhi,21/04/2020,3899180.29,Incomplete,LOW,792.668.0296x955,kimjohnson@example.com
+CUST_1165,ACC_5165,Robyn Parker DVM,Salary,India,Chennai,15/05/2025,3310886.59,Expired,LOW,001-545-300-1580,lcantrell@example.net
+CUST_1166,ACC_5166,James Miller,Current,United States,Kolkata,2024-02-05,4320347.06,Incomplete,HIGH,370.750.5861x25317,jporter@example.org
+CUST_1167,ACC_5167,Joseph Gutierrez,Savings,UAE,Bengaluru,2023-09-24,332497.46,Incomplete,MEDIUM,+1-528-888-7018x157,derek56@example.org
+CUST_1168,ACC_5168,Christopher Stone,Savings,Singapore,Hyderabad,29/12/2020,538326.6,Expired,MEDIUM,9772267061,coxjack@example.org
+CUST_1169,ACC_5169,Mr. Larry Lane MD,NRI,United Kingdom,Bengaluru,08-09-2022,4076109.19,Verified,HIGH,8192186253,brandirocha@example.net
+CUST_1170,ACC_5170,Emily Rodriguez,Savings,United States,Pune,2025-09-20,943242.48,Pending,MEDIUM,(612)790-5379,coffeysandra@example.org
+CUST_1171,ACC_5171,Pamela Spencer,Savings,United Kingdom,Bengaluru,09-01-2020,4336611.08,Verified,HIGH,237.794.5017x697,wendycastro@example.org
+CUST_1172,ACC_5172,Christopher Massey,Current,Germany,Hyderabad,08-07-2023,2374084.71,Incomplete,LOW,001-793-256-7784,tdodson@example.org
+CUST_1173,ACC_5173,Nicole Murphy,Savings,Germany,Delhi,04-19-2020,4272075.63,Pending,HIGH,457-239-0005x60859,yvargas@example.com
+CUST_1174,ACC_5174,Matthew Roman,Corporate,India,,10-08-2024,1321020.22,Verified,HIGH,471.773.5278x9501,jacksonjames@example.org
+CUST_1175,ACC_5175,Chad Watkins,Current,Singapore,Mumbai,2020-01-05,4102984.87,Verified,MEDIUM,962.722.8483x41255,victoriaturner@example.net
+CUST_1176,ACC_5176,Clinton Ryan,Current,United Kingdom,Mumbai,04-08-2025,790422.34,Verified,MEDIUM,+1-653-609-6996x51386,fwade@example.net
+CUST_1177,ACC_5177,Javier Sandoval,Current,United States,Bengaluru,09-16-2023,452785.17,Verified,MEDIUM,(818)961-2543,kshort@example.net
+CUST_1178,ACC_5178,Tyler Pearson,Salary,Germany,Chennai,2020-09-25,3905498.78,Incomplete,HIGH,+1-273-759-7250x58887,bwhitehead@example.org
+CUST_1179,ACC_5179,William Payne,Savings,UAE,Pune,2021-09-08,972694.8,Pending,HIGH,001-382-261-9174x64611,geraldlopez@example.net
+CUST_1180,ACC_5180,Jesse Chan,Current,United States,Patna,12-02-2021,2372338.4,Incomplete,LOW,339.675.6472x258,jonathan07@example.org
+CUST_1181,ACC_5181,Kristen Rice,Savings,India,Bengaluru,06/11/2024,2237867.44,,HIGH,293-972-5747,smithtimothy@example.org
+CUST_1182,ACC_5182,Caitlin Sanchez,Savings,Singapore,Bengaluru,17/10/2020,1377529.26,Verified,MEDIUM,519-833-2149,bryanmadden@example.com
+CUST_1183,ACC_5183,Michelle Michael,Current,United Kingdom,Mumbai,2023-10-08,3020925.8,,HIGH,218.386.2735,johncobb@example.com
+CUST_1184,ACC_5184,James Arnold,NRI,UAE,Mumbai,03-28-2023,4930307.05,Verified,LOW,001-660-851-7648x895,ferrellapril@example.com
+CUST_1185,ACC_5185,Micheal Thompson,Salary,Germany,Hyderabad,01/05/2022,4011580.67,Pending,LOW,546-813-5049x3589,bryantjacob@example.com
+CUST_1186,ACC_5186,Mitchell Pope,Corporate,India,,2023-06-25,1042977.55,Incomplete,MEDIUM,(841)675-6217x391,travisbeck@example.com
+CUST_1187,ACC_5187,Brooke Brown,Current,India,Hyderabad,2023-03-16,545235.41,Pending,LOW,(619)756-5455,amberdaniels@example.net
+CUST_1188,ACC_5188,Miss Megan Morris,Current,Germany,Patna,2025-02-04,3046481.8,Pending,MEDIUM,001-482-499-3891x144,erin62@example.org
+CUST_1189,ACC_5189,Rebecca Gonzalez,Current,UAE,Delhi,03/11/2024,2162603.02,Incomplete,LOW,(856)248-9294x93811,williamscory@example.com
+CUST_1190,ACC_5190,Jacqueline Garcia,Salary,UAE,Bengaluru,05/10/2024,2232481.83,Verified,HIGH,719-977-0291,john71@example.net
+CUST_1191,ACC_5191,Adam Bailey,Savings,Singapore,Delhi,20/10/2020,28607.3,Pending,LOW,+1-563-864-9735,scottstephanie@example.net
+CUST_1192,ACC_5192,Michelle Sandoval,NRI,United States,Delhi,07-16-2020,3111003.62,Expired,HIGH,001-868-280-6924x2679,brenda82@example.com
+CUST_1193,ACC_5193,Pam Jones,Current,Germany,Mumbai,16/08/2020,2362075.1,Verified,MEDIUM,7055294255,garcialori@example.org
+CUST_1194,ACC_5194,Kimberly Barnes,NRI,UAE,Delhi,07-02-2023,4094842.21,Expired,MEDIUM,539-811-0489,jeremybell@example.com
+CUST_1195,ACC_5195,Joseph Forbes,Current,Germany,Chennai,2025-08-14,4682999.89,Incomplete,LOW,(963)568-2991,michael61@example.net
+CUST_1196,ACC_5196,Nicole Burke,NRI,United States,Chennai,12-09-2021,704168.13,Verified,LOW,673-431-0331x24417,cameronzimmerman@example.com
+CUST_1197,ACC_5197,Mary Singleton,Current,United Kingdom,Kolkata,02-28-2022,3969213.27,,HIGH,6575175547,granthector@example.com
+CUST_1198,ACC_5198,Jeremy Johnson,Savings,UAE,Delhi,2025-02-19,4793119.49,Incomplete,MEDIUM,001-612-580-7018,kbrock@example.com
+CUST_1199,ACC_5199,Timothy Pierce,NRI,United Kingdom,Delhi,19/09/2025,4646205.04,Pending,MEDIUM,001-218-363-1466x2880,perrychristina@example.com
+CUST_1200,ACC_5200,William Rice,Salary,Singapore,Patna,06/11/2019,1664466.51,Expired,MEDIUM,+1-835-558-4957x91755,ryanhaynes@example.com
+CUST_1201,ACC_5201,John Peters,Current,U.S.A,Chennai,07/02/2024,4077876.42,Incomplete,HIGH,917-650-9542x64232,matthewdawson@example.com
+CUST_1202,ACC_5202,Brad Wall,Salary,United States,Mumbai,08-26-2019,1015108.37,Expired,MEDIUM,001-865-883-3152,clayton61@example.net
+CUST_1203,ACC_5203,Matthew Arias,Salary,United Kingdom,Chennai,24/07/2019,3606084.91,Incomplete,HIGH,001-716-880-0161x44414,mark95@example.com
+CUST_1204,ACC_5204,Blake Young,Salary,United States,Delhi,08-05-2025,1768552.89,Verified,HIGH,7802269492,bsampson@example.com
+CUST_1205,ACC_5205,Angela Holt MD,Savings,Singapore,Kolkata,2024-11-09,3747040.97,Verified,MEDIUM,(944)437-8443,thomas93@example.com
+CUST_1206,ACC_5206,Jennifer Hess,Savings,Germany,Pune,28/10/2022,1129736.29,Pending,HIGH,+1-691-660-6789x9148,tracy90@example.net
+CUST_1207,ACC_5207,Christopher Johnson,Salary,UAE,Pune,12-18-2020,4276604.18,Verified,LOW,001-688-447-3324,michelle13@example.com
+CUST_1208,ACC_5208,Ronald Villarreal,Corporate,India,Patna,11-02-2023,2822626.28,Expired,MEDIUM,794.826.0872,rhondapowell@example.net
+CUST_1209,ACC_5209,Whitney Jones,Savings,Singapore,Pune,03/05/2025,2284718.76,Incomplete,HIGH,632.996.3401,fwalker@example.org
+CUST_1210,ACC_5210,Alex Cox,Salary,Singapore,Delhi,2023-07-03,2173473.5,Pending,HIGH,+1-405-234-1196x24980,curtisdawn@example.com
+CUST_1211,ACC_5211,Samantha Lawrence,Corporate,United Kingdom,Hyderabad,23/10/2021,4767354.64,Verified,MEDIUM,262.343.0964x08334,usutton@example.net
+CUST_1212,ACC_5212,Tina Garcia,NRI,India,Pune,28/09/2024,1979651.68,Pending,MEDIUM,001-963-494-7017x12096,sotomark@example.org
+CUST_1213,ACC_5213,Sarah Price,Savings,Germany,Delhi,2020-08-29,3352665.79,Incomplete,MEDIUM,+1-937-582-5601x25948,michael51@example.com
+CUST_1214,ACC_5214,Jonathan Thompson,Salary,UAE,Hyderabad,05-06-2021,2450275.65,Incomplete,MEDIUM,621-781-4100,matthewespinoza@example.net
+CUST_1215,ACC_5215,Ashley Wilkins,Current,Germany,Hyderabad,2022-02-26,932999.05,Verified,MEDIUM,+1-392-498-1139,kfernandez@example.net
+CUST_1216,ACC_5216,Sheila Torres,Corporate,India,Delhi,23/01/2022,171288.38,Verified,HIGH,924.750.6817x724,danielsanna@example.net
+CUST_1217,ACC_5217,Cheryl Kirk,Salary,Germany,,10/05/2025,1924861.71,Incomplete,MEDIUM,+1-608-351-6842,oleon@example.org
+CUST_1218,ACC_5218,Derrick Houston,Savings,Germany,Mumbai,03-13-2025,4722183.29,Verified,MEDIUM,6396098500,cindymcmahon@example.org
+CUST_1219,ACC_5219,Dr. Donna Ramirez,Current,Singapore,Bengaluru,06-20-2024,1570633.63,Pending,HIGH,8236799112,carrie61@example.org
+CUST_1220,ACC_5220,Monica Smith,Savings,United Kingdom,Chennai,02-25-2023,4257676.39,Incomplete,MEDIUM,537-276-8823,arthuradams@example.com
+CUST_1221,ACC_5221,Robert Hernandez,Savings,UAE,Bengaluru,02-17-2023,4686344.49,Verified,LOW,763.613.5278x6693,michelle18@example.org
+CUST_1222,ACC_5222,Kenneth Miller,Savings,Singapore,Delhi,23/06/2024,3532609.05,Expired,MEDIUM,791.333.1387,mark95@example.net
+CUST_1223,ACC_5223,Brett Hayden,Corporate,Germany,Pune,28/02/2025,3310805.19,Verified,HIGH,6225954483,ashley26@example.org
+CUST_1224,ACC_5224,Wendy Mcdonald,Salary,Germany,Mumbai,2024-05-01,4688301.71,Pending,MEDIUM,+1-338-245-2259x280,thomas71@example.net
+CUST_1225,ACC_5225,Mary Duncan,Savings,United States,Mumbai,08-23-2023,4102557.35,,MEDIUM,001-435-333-7542,guzmanlauren@example.org
+CUST_1226,ACC_5226,Kelly Holt,Savings,India,Delhi,02-24-2022,1347875.41,Verified,MEDIUM,001-972-341-8368x396,odiaz@example.com
+CUST_1227,ACC_5227,Amy Rivera,Corporate,United Kingdom,Patna,2020-11-25,1239029.69,Verified,HIGH,922.276.0084,haileylopez@example.org
+CUST_1228,ACC_5228,Allison Warren,NRI,United States,Hyderabad,2025-11-25,1878044.39,Expired,HIGH,7878230102,ryanbyrd@example.com
+CUST_1229,ACC_5229,Eric Torres,Current,UAE,Kolkata,26/12/2019,2769229.07,Incomplete,HIGH,(350)585-7953x55743,carolyn98@example.net
+CUST_1230,ACC_5230,Justin Jones,Salary,United States,Patna,2020-12-15,1102039.39,Verified,HIGH,819.584.4326x84892,coffeywilliam@example.org
+CUST_1231,ACC_5231,Amanda Maxwell,Corporate,Germany,Delhi,29/04/2021,4183249.47,Pending,LOW,+1-209-603-5766x9582,farmershirley@example.com
+CUST_1232,ACC_5232,Allen Bishop II,Corporate,India,Delhi,24/01/2025,105317.85,Expired,LOW,001-426-955-1045,robinsonbrenda@example.com
+CUST_1233,ACC_5233,Cindy Wilson,NRI,UAE,Bengaluru,19/04/2021,341170.3,Pending,MEDIUM,+1-330-978-2263x5532,simssusan@example.org
+CUST_1234,ACC_5234,Laura Travis,Salary,India,Bengaluru,21/12/2023,4851950.21,Incomplete,LOW,6216260257,williamskathy@example.net
+CUST_1235,ACC_5235,Natasha Mack,Salary,UAE,Chennai,28/07/2024,1040358.82,Pending,MEDIUM,+1-431-838-9582x111,fordcheryl@example.net
+CUST_1236,ACC_5236,Christine Kim,Current,U.S.A,Hyderabad,06/09/2025,535077.09,Verified,LOW,+1-496-857-7251x078,richard09@example.com
+CUST_1237,ACC_5237,Ashley Chambers,NRI,United Kingdom,Pune,2021-12-11,4743976.29,Verified,HIGH,(657)587-8271x30591,margaret29@example.org
+CUST_1238,ACC_5238,Melissa Glass,Current,Singapore,Bengaluru,07-27-2019,2940510.68,Verified,HIGH,930-827-7029x006,jacob17@example.com
+CUST_1239,ACC_5239,Dr. Clayton Fields,Salary,UAE,Kolkata,06-15-2023,194282.13,Pending,MEDIUM,531.643.4190x7296,lovestephen@example.org
+CUST_1240,ACC_5240,Megan Herrera,Current,India,Delhi,2021-03-07,4077463.14,Expired,MEDIUM,764.496.9919,markwelch@example.net
+CUST_1241,ACC_5241,Dr. Amber Jimenez,Corporate,India,Mumbai,02-11-2025,2525434.41,Expired,HIGH,001-838-446-7261x36008,jonathan70@example.com
+CUST_1242,ACC_5242,Lori Fletcher,Salary,Singapore,Kolkata,22/12/2023,4522496.64,Verified,HIGH,+1-881-915-0767x420,michael26@example.com
+CUST_1243,ACC_5243,Tonya Thomas,Savings,United States,Delhi,30/05/2023,622872.11,Pending,MEDIUM,440-846-6813x173,krystal60@example.org
+CUST_1244,ACC_5244,Thomas Bennett,Corporate,Germany,Mumbai,12-11-2021,3654454.87,Incomplete,HIGH,704-879-4339,huntpeter@example.com
+CUST_1245,ACC_5245,David Allen,Salary,Germany,,04-05-2021,559891.17,Expired,LOW,+1-361-881-8541x2827,mross@example.net
+CUST_1246,ACC_5246,Courtney James,Corporate,United Kingdom,Kolkata,01-10-2026,665071.32,Pending,MEDIUM,(286)395-0616x10196,chad45@example.org
+CUST_1247,ACC_5247,Seth Bright,Savings,United States,Pune,23/10/2021,4705603.88,Incomplete,HIGH,001-769-747-7440x800,barbara40@example.org
+CUST_1248,ACC_5248,Tiffany Obrien,Savings,United States,Mumbai,10-03-2021,2226013.97,Incomplete,HIGH,001-588-826-0659,cherman@example.net
+CUST_1249,ACC_5249,Amber Johnson,Savings,United Kingdom,Patna,02-13-2020,577496.2,Verified,LOW,001-559-249-4090x9183,baileybrianna@example.net
+CUST_1250,ACC_5250,Mitchell Allen,Current,Germany,Chennai,2025-09-30,509664.68,Pending,MEDIUM,+1-355-735-2101x7891,blairgarrett@example.net
+CUST_1251,ACC_5251,Jillian Owens DDS,Current,Singapore,Mumbai,01-21-2022,3920502.6,Verified,MEDIUM,001-443-243-5181,jenkinsgregory@example.com
+CUST_1252,ACC_5252,Madison Benson,Corporate,Germany,Delhi,16/08/2025,2858896.61,Pending,MEDIUM,(852)643-1366,clarklinda@example.net
+CUST_1253,ACC_5253,Larry Smith,Current,United States,Kolkata,11-21-2022,2129898.08,Incomplete,HIGH,956-530-5163x213,natalielee@example.com
+CUST_1254,ACC_5254,Benjamin Rodriguez,Corporate,United Kingdom,Bengaluru,30/03/2025,2132473.65,Verified,LOW,329-493-6716,johnsonwilliam@example.net
+CUST_1255,ACC_5255,Gregory Miles,Current,UAE,Bengaluru,2023-06-17,340492.73,Expired,LOW,(391)434-8951,seanconway@example.org
+CUST_1256,ACC_5256,Devin Austin,NRI,Germany,Pune,02-05-2025,33429.79,Incomplete,LOW,4293894603,plewis@example.com
+CUST_1257,ACC_5257,Betty Thornton,NRI,UAE,Chennai,05/01/2024,14214.43,Verified,MEDIUM,297-998-2987,edwardcharles@example.net
+CUST_1258,ACC_5258,Derek Brown,NRI,Singapore,Mumbai,18/05/2022,3976025.78,Expired,LOW,(308)935-9826,justin29@example.net
+CUST_1259,ACC_5259,Cynthia Oconnell,Corporate,United States,Hyderabad,2026-02-11,1836763.96,Incomplete,HIGH,001-800-784-7254x884,dstanley@example.com
+CUST_1260,ACC_5260,Tammy Ellis,Current,United States,Bengaluru,19/01/2024,4349937.55,Incomplete,LOW,+1-475-987-9480x187,urandall@example.com
+CUST_1261,ACC_5261,Daniel Chen,NRI,Germany,Hyderabad,2022-12-29,4875620.46,Pending,LOW,+1-937-446-1674x45919,xduffy@example.org
+CUST_1262,ACC_5262,Jose Wright,NRI,India,Patna,07-31-2025,2871108.37,Incomplete,LOW,(351)390-4827x440,tthompson@example.org
+CUST_1263,ACC_5263,William Becker,Current,Singapore,Pune,2022-09-08,2439680.77,Incomplete,LOW,344.957.7718x39395,jasmineadkins@example.net
+CUST_1264,ACC_5264,Kayla Cox,Current,United States,,2025-11-14,3898606.53,Verified,LOW,925-717-4863x5497,benjaminsherman@example.org
+CUST_1265,ACC_5265,Carl Burnett,Salary,United Kingdom,Bengaluru,10/08/2023,3570698.45,Expired,LOW,796-275-3536,hicksjessica@example.org
+CUST_1266,ACC_5266,Kelly Massey,Salary,United States,Hyderabad,08-28-2024,1955323.18,Verified,HIGH,(425)825-6552x93697,joshua23@example.net
+CUST_1267,ACC_5267,Christopher Bean,Salary,India,Chennai,2023-02-06,1912377.73,Pending,LOW,4456994342,alexis14@example.org
+CUST_1268,ACC_5268,Samantha Jordan,Salary,United States,Chennai,16/06/2024,702738.28,Verified,MEDIUM,421-396-2045x8543,martinrobert@example.com
+CUST_1269,ACC_5269,Luis Scott,NRI,India,Pune,11-03-2024,2748661.11,Expired,HIGH,+1-329-903-7113x2101,wilsonlori@example.net
+CUST_1270,ACC_5270,Steven Lee,Current,Germany,Mumbai,11/12/2019,2836590.35,Verified,HIGH,(217)229-6672x0420,ejones@example.net
+CUST_1271,ACC_5271,Colton Martin,Salary,United Kingdom,Kolkata,2019-08-04,4244760.64,Incomplete,MEDIUM,706.375.2108,prosario@example.org
+CUST_1272,ACC_5272,Mary Wright,NRI,United Kingdom,Chennai,02-24-2023,3838543.53,Expired,LOW,(591)533-5886x02774,wilsonjonathan@example.org
+CUST_1273,ACC_5273,Lisa Jones,Savings,United Kingdom,,03-30-2023,1302606.45,Expired,LOW,001-428-359-7430x459,imartin@example.net
+CUST_1274,ACC_5274,Pamela Mclaughlin,Savings,India,Patna,2025-02-13,3484738.93,Pending,LOW,876-574-2682x94098,jordanronald@example.org
+CUST_1275,ACC_5275,Kristin Haley,Salary,United Kingdom,Delhi,02/12/2023,2562930.35,Incomplete,LOW,408.230.7708x418,shannondaniels@example.net
+CUST_1276,ACC_5276,Phillip Hubbard,Savings,UAE,Hyderabad,22/12/2022,2541403.27,Incomplete,HIGH,683-552-6615,haneydenise@example.org
+CUST_1277,ACC_5277,Jason Cross,Salary,UAE,Chennai,15/10/2024,1471309.89,Pending,LOW,668.231.6312,nichole88@example.net
+CUST_1278,ACC_5278,Joseph Alexander,Corporate,India,Chennai,04-25-2026,424027.47,Verified,LOW,639.359.6922x57580,victoria54@example.net
+CUST_1279,ACC_5279,Kyle Chang,Savings,United States,Delhi,04-16-2020,1051143.85,Pending,LOW,681-723-8375x1271,shannon83@example.net
+CUST_1280,ACC_5280,Anthony Lowery,NRI,India,Mumbai,01-17-2020,1900037.61,Verified,LOW,2464384440,lewisjeffery@example.net
+CUST_1281,ACC_5281,Kevin Thompson,Current,Singapore,,2020-10-08,2079965.48,Incomplete,LOW,236.667.6560,jennifer21@example.org
+CUST_1282,ACC_5282,Brian Russell,Corporate,United Kingdom,Kolkata,05/10/2020,1095312.26,Expired,MEDIUM,702.764.5835x84152,crossoscar@example.com
+CUST_1283,ACC_5283,Scott Fleming,Savings,India,Chennai,28/10/2019,628894.13,Incomplete,LOW,982.915.3426x9787,peckrobert@example.net
+CUST_1284,ACC_5284,Stephanie Cherry,NRI,Germany,Mumbai,17/02/2020,1257643.48,Incomplete,HIGH,4819597716,alexisschroeder@example.net
+CUST_1285,ACC_5285,Joshua Vasquez,Corporate,United States,Pune,2021-02-05,1052822.19,Incomplete,MEDIUM,424-911-8814,jonathanhill@example.org
+CUST_1286,ACC_5286,Michael Brown,NRI,United States,Delhi,29/03/2023,1420301.67,Pending,HIGH,001-856-850-9857,walkerpatrick@example.net
+CUST_1287,ACC_5287,Jesus Williams,Salary,Germany,Bengaluru,06/10/2022,2091855.68,Incomplete,HIGH,(753)551-9472x908,crystalwolf@example.org
+CUST_1288,ACC_5288,Alan Snow,Salary,United Kingdom,Mumbai,15/01/2025,1190395.55,Verified,LOW,318.922.4097x056,sweeneyjessica@example.net
+CUST_1289,ACC_5289,Anthony Hayes,Current,Singapore,Chennai,03-02-2020,513138.16,Verified,HIGH,+1-870-899-7396,kristin96@example.com
+CUST_1290,ACC_5290,Lindsey Delgado,Salary,United Kingdom,,2021-08-18,1428724.5,Incomplete,HIGH,(862)846-4545,fkelly@example.net
+CUST_1291,ACC_5291,Tara Baxter,Corporate,Germany,Delhi,05-08-2022,565749.98,Incomplete,MEDIUM,(960)793-8810,alexandertommy@example.com
+CUST_1292,ACC_5292,Matthew Cook,Savings,India,Delhi,2024-07-13,3753307.38,Expired,LOW,240.937.2262x7988,gonzalezangela@example.org
+CUST_1293,ACC_5293,Sarah Baird,Current,UAE,Pune,01/10/2025,3379276.95,Pending,HIGH,001-917-983-4514,chelsea04@example.net
+CUST_1294,ACC_5294,Michael Allen,Savings,Singapore,Bengaluru,2020-01-06,4452082.74,Incomplete,HIGH,8373039452,bowmanclarence@example.com
+CUST_1295,ACC_5295,Elizabeth Harmon MD,Salary,UAE,Kolkata,2022-05-21,3698172.02,Pending,MEDIUM,5798932989,briggsapril@example.org
+CUST_1296,ACC_5296,Brandy White,Current,India,Delhi,03/08/2020,2157113.57,Expired,MEDIUM,+1-829-947-1666x827,dhale@example.org
+CUST_1297,ACC_5297,Dorothy Rodriguez,Corporate,India,Pune,12/11/2020,1633151.9,Expired,LOW,709.436.6213x975,hollandandrew@example.org
+CUST_1298,ACC_5298,Brianna Anderson,Current,UAE,Pune,04-08-2024,2117932.06,Incomplete,LOW,+1-367-334-8634x5211,amanda32@example.net
+CUST_1299,ACC_5299,Miguel Serrano,Current,United Kingdom,Hyderabad,2020-10-21,2297165.56,Verified,MEDIUM,001-804-316-4573x315,robert59@example.com
+CUST_1300,ACC_5300,Maria Anderson,NRI,United Kingdom,Pune,17/02/2024,3187215.07,Expired,LOW,3997556068,smartin@example.com
+CUST_1301,ACC_5301,Michael Clark,NRI,UAE,Pune,28/05/2022,1630880.57,Expired,LOW,(905)328-5888x3243,jason73@example.org
+CUST_1302,ACC_5302,Maureen Aguirre,NRI,United Kingdom,Pune,07-31-2023,1206648.35,Expired,MEDIUM,5882252407,christopherdodson@example.com
+CUST_1303,ACC_5303,Dean Hale,Savings,India,Kolkata,02-25-2024,1875295.06,Incomplete,LOW,860-489-9792x5612,nathanielsampson@example.net
+CUST_1304,ACC_5304,Jamie Henderson,NRI,Germany,Pune,2020-02-22,3708704.14,Verified,HIGH,(691)441-4695,christopher27@example.org
+CUST_1305,ACC_5305,Dillon Clark,NRI,U.S.A,Patna,2022-11-19,35104.95,Expired,LOW,4152016727,chelsea80@example.org
+CUST_1306,ACC_5306,Luke Kim,Salary,Singapore,Kolkata,10-02-2025,2017063.6,Expired,MEDIUM,(462)462-3980x497,brittany20@example.net
+CUST_1307,ACC_5307,Mary Murray,Savings,United Kingdom,Bengaluru,12-16-2023,3587014.01,Incomplete,LOW,+1-594-602-2875x7322,greenashley@example.org
+CUST_1308,ACC_5308,Julia Perry,NRI,United Kingdom,Pune,24/05/2025,2408823.16,Verified,LOW,001-325-595-5385x4055,tracy35@example.org
+CUST_1309,ACC_5309,Jessica Fuller,Corporate,United Kingdom,Chennai,2020-12-06,2982621.53,Incomplete,HIGH,(439)522-5724x281,angela52@example.com
+CUST_1310,ACC_5310,Ronald Mason,Current,India,Bengaluru,2022-06-16,297452.75,Verified,HIGH,+1-577-515-8763x48988,vsmith@example.net
+CUST_1311,ACC_5311,Ryan Shepherd,NRI,Germany,Chennai,2023-08-22,3395559.68,Expired,HIGH,316-826-0864,rparker@example.net
+CUST_1312,ACC_5312,Kelly Becker,Savings,UAE,Kolkata,21/02/2021,549464.09,Expired,MEDIUM,(532)623-5929x08751,akrueger@example.org
+CUST_1313,ACC_5313,Michael Carter,Current,Germany,Chennai,03-10-2023,3869787.54,Expired,HIGH,(539)819-5948x678,zbrown@example.net
+CUST_1314,ACC_5314,Duane Walters,Salary,Germany,Bengaluru,09-02-2020,4087243.64,Expired,LOW,001-522-958-3093x5878,nsullivan@example.com
+CUST_1315,ACC_5315,Thomas Howard,Savings,Germany,Patna,09-03-2020,2340158.21,,MEDIUM,704.511.9773x023,jamie51@example.net
+CUST_1316,ACC_5316,Nancy Berry,NRI,UAE,Chennai,04-28-2023,3443535.7,Verified,HIGH,556-852-7946x302,melissamorris@example.com
+CUST_1317,ACC_5317,Angela Mendoza,Current,United Kingdom,Bengaluru,19/07/2023,1033974.14,Expired,LOW,530-734-9483x88749,williamstracy@example.net
+CUST_1318,ACC_5318,Krystal Solomon,Salary,India,Hyderabad,08/06/2023,4258892.35,Expired,HIGH,478.978.9289,christina99@example.net
+CUST_1319,ACC_5319,Jesus Pruitt,Corporate,United States,Pune,12/06/2021,1918479.58,Verified,LOW,001-560-582-1488,thomasmclaughlin@example.org
+CUST_1320,ACC_5320,Mrs. Rebecca Lucas,NRI,United Kingdom,Bengaluru,07-22-2020,4746094.7,Verified,HIGH,001-477-615-8085x54248,jramos@example.org
+CUST_1321,ACC_5321,Daniel Salazar,Corporate,Singapore,Mumbai,11-21-2022,295419.39,Verified,LOW,742-488-5726,margaret61@example.org
+CUST_1322,ACC_5322,Brandi Howard,Current,UAE,Hyderabad,10/01/2021,2475769.9,Expired,HIGH,513-393-7213x91791,jasonmorris@example.org
+CUST_1323,ACC_5323,William Mccarthy,Savings,UAE,Chennai,07-27-2024,2887271.4,Expired,HIGH,9035793806,carterthomas@example.net
+CUST_1324,ACC_5324,Paige Hall,Savings,United Kingdom,Chennai,2020-02-26,3565128.45,Verified,MEDIUM,754-258-5329x58437,kristysingh@example.net
+CUST_1325,ACC_5325,Jorge Watkins,Current,India,Patna,19/09/2024,2810057.66,Pending,LOW,001-277-476-8313x98892,penny40@example.com
+CUST_1326,ACC_5326,Nicole Clark,Current,UAE,Hyderabad,2019-10-27,4764567.83,Incomplete,LOW,001-820-968-7382,peternicholson@example.net
+CUST_1327,ACC_5327,Kelly Nguyen,Salary,United States,Patna,04-05-2025,879562.75,Expired,LOW,001-539-824-7601,clayjill@example.org
+CUST_1328,ACC_5328,Destiny Carter,Corporate,UAE,Pune,26/02/2022,2222685.78,Expired,HIGH,(555)873-2125,alexis53@example.com
+CUST_1329,ACC_5329,Scott Perez,NRI,India,Bengaluru,08/02/2021,3676970.77,Verified,HIGH,604-811-0889,ashley31@example.com
+CUST_1330,ACC_5330,Allison Nelson,Current,United Kingdom,Pune,2020-01-14,2863943.44,Pending,MEDIUM,749.764.7855x6016,cherylfox@example.net
+CUST_1331,ACC_5331,Linda Blackwell,Salary,UAE,Pune,26/06/2020,4581707.04,Pending,LOW,945.817.8614,cynthiakirby@example.net
+CUST_1332,ACC_5332,Michelle Martin,Corporate,UAE,Patna,2023-10-21,4388789.19,Incomplete,LOW,248.856.5431x8432,laurenbrown@example.org
+CUST_1333,ACC_5333,Donna Gregory,NRI,Singapore,Bengaluru,06-25-2025,1380815.34,Expired,MEDIUM,3865469130,perezkevin@example.net
+CUST_1334,ACC_5334,Deborah Juarez,NRI,Germany,Bengaluru,03/07/2022,3060262.22,Pending,MEDIUM,+1-443-819-8698x5784,carrie62@example.net
+CUST_1335,ACC_5335,Kevin Woods,Savings,United Kingdom,Kolkata,20/09/2021,3514015.12,Incomplete,HIGH,+1-921-586-2397x139,fcurtis@example.com
+CUST_1336,ACC_5336,Melody Mckee,Corporate,India,Kolkata,15/04/2023,2389965.76,Incomplete,HIGH,001-419-677-9203x889,rodriguezchristopher@example.org
+CUST_1337,ACC_5337,Robert Johnson,Current,India,Delhi,08/03/2026,6698.89,Verified,LOW,(629)973-9046x81567,xavierroberts@example.net
+CUST_1338,ACC_5338,Danielle Anderson,NRI,United Kingdom,Bengaluru,11-30-2019,1696404.25,Expired,HIGH,(314)526-6141,everetttaylor@example.org
+CUST_1339,ACC_5339,James Rhodes,NRI,United States,Chennai,11/04/2023,527517.04,Pending,MEDIUM,+1-785-450-4811x19428,richard46@example.org
+CUST_1340,ACC_5340,Jacqueline Martinez,Salary,UAE,Delhi,22/09/2023,2867077.46,Expired,HIGH,001-251-721-8958,montgomerykevin@example.org
+CUST_1341,ACC_5341,Heather Hall,Savings,United States,Pune,2025-08-13,4919592.39,Expired,HIGH,(235)272-4456x86146,shawnaperry@example.net
+CUST_1342,ACC_5342,Tyler Russell,NRI,UAE,Bengaluru,2024-02-25,772350.84,Incomplete,MEDIUM,001-597-885-2002x534,smithwendy@example.org
+CUST_1343,ACC_5343,George Allen,Corporate,United States,Patna,05/10/2021,1472335.81,Expired,MEDIUM,(564)855-1075,aaronsmith@example.net
+CUST_1344,ACC_5344,Theresa Bradley,Current,India,,11-08-2024,779580.58,Incomplete,MEDIUM,(262)236-4949,bettypotts@example.net
+CUST_1345,ACC_5345,Sarah Parrish,Corporate,United States,Delhi,02-14-2020,3543133.66,Expired,HIGH,001-964-460-6532x7731,xponce@example.com
+CUST_1346,ACC_5346,Samantha Paul,Current,United States,Delhi,24/07/2021,2223726.35,Incomplete,LOW,001-502-732-9645x194,margaret90@example.net
+CUST_1347,ACC_5347,Laura Johnson,Savings,U.S.A,Mumbai,02-07-2024,3821473.74,Expired,HIGH,769-771-8877x53696,knappjackie@example.org
+CUST_1348,ACC_5348,Tyler Graham,Corporate,U.S.A,Mumbai,2024-10-29,379775.04,Expired,MEDIUM,846-711-0432,kirkrobert@example.com
+CUST_1349,ACC_5349,Melissa Green,Savings,Germany,Hyderabad,20/08/2020,4401178.43,Incomplete,LOW,626.478.0423,molinajames@example.org
+CUST_1350,ACC_5350,Melissa Lewis,Corporate,United States,Delhi,14/04/2021,465560.51,Pending,LOW,001-536-590-8055x8376,welchsteven@example.org
+CUST_1351,ACC_5351,Theresa Thompson,Corporate,UAE,Pune,07-23-2020,2593192.51,Pending,MEDIUM,001-901-292-7986,shannon40@example.net
+CUST_1352,ACC_5352,David Prince,Savings,Germany,Hyderabad,2021-01-27,1636611.86,Expired,HIGH,001-732-369-7499x465,eric29@example.org
+CUST_1353,ACC_5353,Brandy Miller,Savings,UAE,Kolkata,2022-12-22,1591428.18,Pending,HIGH,239.752.1572,castillokrista@example.org
+CUST_1354,ACC_5354,Catherine Lee,Salary,India,Bengaluru,2022-04-11,1259922.28,Verified,HIGH,942.573.6524x3278,howardmartinez@example.org
+CUST_1355,ACC_5355,Thomas Kline,Current,India,Hyderabad,2025-12-25,906802.49,Verified,LOW,665-378-3163,montgomeryeric@example.org
+CUST_1356,ACC_5356,Richard Reed,Current,United States,Bengaluru,2021-09-18,4504812.19,Verified,HIGH,(808)914-4989x22391,anthonymurray@example.org
+CUST_1357,ACC_5357,Donna Yates,Savings,United States,Hyderabad,2026-03-16,3907791.34,Verified,MEDIUM,786.754.3100x3190,jacksonmark@example.org
+CUST_1358,ACC_5358,Cheryl Meadows,Corporate,India,Hyderabad,11-03-2019,4642235.22,Incomplete,LOW,5155102585,bbernard@example.com
+CUST_1359,ACC_5359,Cheryl Roberts,Savings,United States,Delhi,2025-06-24,1189500.51,Incomplete,LOW,556.944.0426,druiz@example.org
+CUST_1360,ACC_5360,Dr. Shane Pierce,Corporate,Singapore,Mumbai,2020-08-23,3336258.34,Pending,HIGH,001-701-508-3465x9025,david95@example.net
+CUST_1361,ACC_5361,Barbara Price,Salary,Germany,Bengaluru,16/01/2020,1900431.73,Incomplete,HIGH,(262)449-9215x664,brittany03@example.com
+CUST_1362,ACC_5362,Mrs. Paula Bennett,Salary,Germany,Mumbai,2026-04-02,4611515.9,Pending,LOW,001-954-228-5857x182,susanjackson@example.org
+CUST_1363,ACC_5363,Matthew Pineda,NRI,Germany,Kolkata,2025-05-10,3377642.36,Expired,LOW,247-282-5074,amandagallagher@example.com
+CUST_1364,ACC_5364,Megan Bryant,Corporate,India,Pune,16/04/2021,3011368.54,Expired,HIGH,+1-366-367-8483x5016,reidjames@example.net
+CUST_1365,ACC_5365,Katherine Mckay,NRI,Germany,Pune,2024-09-08,4428403.29,Expired,MEDIUM,360-622-4617x02623,imorgan@example.net
+CUST_1366,ACC_5366,Dana Harrington,Salary,UAE,Hyderabad,01-08-2021,3097540.81,Incomplete,MEDIUM,(967)839-0969x7364,robertedwards@example.org
+CUST_1367,ACC_5367,Angel Macdonald,Current,UAE,Mumbai,02/05/2021,3683615.77,Incomplete,HIGH,515.390.0182,phyllisguerra@example.org
+CUST_1368,ACC_5368,William Thomas,Corporate,United States,Kolkata,11-07-2024,3146585.81,Verified,MEDIUM,001-679-859-6632x0643,gordonjulia@example.org
+CUST_1369,ACC_5369,James Smith,Corporate,UAE,Delhi,2020-05-31,1447799.56,Pending,HIGH,539-924-8734x41149,abenjamin@example.org
+CUST_1370,ACC_5370,Stephanie Harvey,Corporate,United Kingdom,Pune,2020-04-02,942080.02,Verified,MEDIUM,001-507-673-4023,rebeccabooth@example.org
+CUST_1371,ACC_5371,Emily Allen,Savings,United Kingdom,Kolkata,17/02/2024,3084447.15,Verified,MEDIUM,885.837.4565x1715,jonesmichele@example.org
+CUST_1372,ACC_5372,Laura Bass,Salary,Singapore,Hyderabad,2019-08-31,2410842.99,Incomplete,HIGH,347.346.5636x721,kanejames@example.com
+CUST_1373,ACC_5373,Amber Roberts,Salary,UAE,Bengaluru,07-10-2023,1220025.27,Expired,MEDIUM,+1-397-556-2509x2646,warrenjoseph@example.org
+CUST_1374,ACC_5374,Brooke Ryan,Salary,United States,Delhi,12/08/2019,1066165.41,Incomplete,LOW,(672)228-8057x924,kenneth98@example.net
+CUST_1375,ACC_5375,John Mcknight,Current,India,Bengaluru,19/09/2021,146567.18,,MEDIUM,430.441.3490,rickymyers@example.com
+CUST_1376,ACC_5376,Jeremy Schmidt,Savings,Germany,Chennai,12-25-2024,2684298.14,Verified,HIGH,8482673695,jadefinley@example.org
+CUST_1377,ACC_5377,Suzanne Butler,Salary,United Kingdom,Kolkata,12-24-2020,3925657.79,Verified,MEDIUM,001-700-841-1279,tuckerzachary@example.com
+CUST_1378,ACC_5378,Ashley Frederick,Current,Germany,Delhi,2024-07-15,4948614.45,Pending,HIGH,(505)269-4912,apage@example.net
+CUST_1379,ACC_5379,John Brown,Salary,U.S.A,Chennai,01-04-2023,4126538.67,Pending,HIGH,513.625.6586x28453,sheristewart@example.com
+CUST_1380,ACC_5380,Melissa Gray,NRI,United States,Kolkata,11-05-2022,3615697.26,Expired,LOW,001-515-818-4581x97036,mark21@example.com
+CUST_1381,ACC_5381,Holly Reese MD,NRI,Germany,Pune,03-17-2020,73585.31,Expired,LOW,6849396463,gregory63@example.net
+CUST_1382,ACC_5382,Kathy Clark,Salary,Singapore,Chennai,2022-06-07,2051288.31,Incomplete,HIGH,001-572-829-8387x24245,hectorpaul@example.com
+CUST_1383,ACC_5383,Lee Garner,NRI,Germany,Delhi,2021-05-26,2610122.16,Verified,LOW,789-551-0196,igilmore@example.org
+CUST_1384,ACC_5384,Steven Jensen,NRI,Singapore,Delhi,2023-01-31,617847.88,Expired,HIGH,3858503076,lindseyluke@example.net
+CUST_1385,ACC_5385,Kenneth Li,Savings,Singapore,Pune,05-30-2021,348117.41,,MEDIUM,573-953-7340x750,mcbridecalvin@example.org
+CUST_1386,ACC_5386,Jonathon Lewis,Corporate,UAE,Bengaluru,2021-11-21,3581505.53,Incomplete,LOW,+1-656-566-0896x5126,michael91@example.com
+CUST_1387,ACC_5387,Kayla Morales,Corporate,UAE,Patna,2025-09-19,4852205.67,Expired,MEDIUM,999.686.7551,thomas13@example.net
+CUST_1388,ACC_5388,Chad Clark,NRI,United Kingdom,Patna,2025-10-06,4494829.62,Incomplete,HIGH,676.422.3541x72646,sharon58@example.net
+CUST_1389,ACC_5389,Cassandra Dalton,Salary,United Kingdom,Kolkata,2022-05-16,3711491.1,Pending,LOW,+1-873-518-1660,kathyholland@example.com
+CUST_1390,ACC_5390,Donald Lutz,Current,Singapore,,10/05/2025,4132681.16,Pending,MEDIUM,489-516-8509x270,jeffreydavis@example.org
+CUST_1391,ACC_5391,Rachel Brown,Corporate,United Kingdom,Bengaluru,08-06-2024,3162824.91,Incomplete,LOW,554-253-9506,xreese@example.org
+CUST_1392,ACC_5392,Felicia Taylor,Salary,Singapore,Chennai,10-16-2021,972272.17,Verified,HIGH,(908)329-7559,pharmon@example.com
+CUST_1393,ACC_5393,Andrew Hines,NRI,India,Patna,2020-10-14,2859491.95,Expired,HIGH,(728)345-5650x781,emma59@example.com
+CUST_1394,ACC_5394,John Stewart,NRI,Germany,Kolkata,26/11/2021,4059428.48,Incomplete,MEDIUM,001-230-888-1311x3204,hannah45@example.net
+CUST_1395,ACC_5395,Mr. Tyler Cook,Salary,India,Chennai,01-19-2025,1938635.08,Verified,LOW,797.840.5958,sheri99@example.net
+CUST_1396,ACC_5396,Taylor Adams,Savings,Germany,Patna,2023-10-24,1250500.61,Pending,LOW,656-799-7104x53140,christina37@example.org
+CUST_1397,ACC_5397,Mark Smith,Salary,India,Chennai,03-10-2025,247290.73,Incomplete,HIGH,494-853-8001,robert29@example.org
+CUST_1398,ACC_5398,Jaime Davis,Current,United Kingdom,Patna,05/07/2022,3187817.16,Incomplete,MEDIUM,+1-783-961-1130x06047,victoria01@example.net
+CUST_1399,ACC_5399,Justin Stephens,Current,Germany,Mumbai,04-21-2026,314221.17,Verified,LOW,(615)421-7180x9855,wandabrown@example.com
+CUST_1400,ACC_5400,Megan Smith,Savings,India,Pune,2021-03-14,4355103.86,Incomplete,MEDIUM,415.921.7335x7634,anthony73@example.org
+CUST_1401,ACC_5401,Tina Gutierrez,Current,United Kingdom,Kolkata,2025-11-25,179172.31,Expired,HIGH,4896738822,randy00@example.net
+CUST_1402,ACC_5402,Joshua Reyes,Salary,United Kingdom,Kolkata,21/03/2020,4116075.86,Pending,HIGH,396-561-9587x867,patricia61@example.com
+CUST_1403,ACC_5403,Mark Hoffman,Corporate,United States,Kolkata,18/02/2026,4760896.08,Incomplete,HIGH,796.353.4272x68116,zlara@example.com
+CUST_1404,ACC_5404,Elizabeth Hanna,Savings,Germany,Patna,26/02/2025,1874664.74,Expired,LOW,+1-811-844-5092x8411,steelerobin@example.com
+CUST_1405,ACC_5405,Patricia Porter,Corporate,United States,Hyderabad,10/02/2024,679038.41,Verified,MEDIUM,(484)808-8556x1235,andersonbrooke@example.org
+CUST_1406,ACC_5406,Anthony Sloan,Current,United States,Delhi,01-26-2025,3558817.94,Verified,LOW,(866)568-4223,cfriedman@example.net
+CUST_1407,ACC_5407,Kathy Johnson,Current,India,Delhi,07-08-2020,1897158.64,Incomplete,LOW,(242)426-5467x531,christianschmidt@example.com
+CUST_1408,ACC_5408,Joseph Walker,Salary,UAE,Pune,03-30-2025,1628112.93,Incomplete,LOW,001-632-971-5575x77426,davidsanchez@example.com
+CUST_1409,ACC_5409,Andre Ross,Salary,United Kingdom,Delhi,02-26-2021,2931429.9,Verified,HIGH,(232)829-1448x61598,richardwells@example.net
+CUST_1410,ACC_5410,Nancy Garcia,Current,Singapore,Bengaluru,11-04-2022,494721.8,Pending,MEDIUM,514-912-6970x74159,simmonstammy@example.org
+CUST_1411,ACC_5411,Gregory Butler,Corporate,United States,Kolkata,18/09/2021,130944.59,Incomplete,HIGH,895.671.5644,shannon71@example.net
+CUST_1412,ACC_5412,Emily Bradley,NRI,Singapore,Mumbai,2024-07-03,4212335.51,Expired,LOW,001-446-360-1842,denise85@example.net
+CUST_1413,ACC_5413,Emily Morgan,NRI,UAE,Chennai,2023-01-09,533215.55,Verified,HIGH,(481)405-4195,batesbrittney@example.com
+CUST_1414,ACC_5414,Sandra Cabrera,Current,India,Chennai,2019-08-19,4042682.0,Pending,LOW,(734)638-8824,cruzwilliam@example.net
+CUST_1415,ACC_5415,William Mullen,Corporate,United Kingdom,Kolkata,26/08/2019,900937.03,Expired,MEDIUM,6383687730,munoztravis@example.net
+CUST_1416,ACC_5416,Ryan Meadows,Current,UAE,Delhi,2019-11-28,867823.47,Expired,LOW,001-256-335-2487,cortezdanielle@example.com
+CUST_1417,ACC_5417,Sarah Green,Current,United Kingdom,Hyderabad,2022-03-23,2594129.34,Verified,HIGH,4988489718,hillvincent@example.org
+CUST_1418,ACC_5418,Clinton Gibson,Savings,UAE,Chennai,2022-03-17,1931552.51,Verified,LOW,8213542364,bmontgomery@example.net
+CUST_1419,ACC_5419,Alicia Smith,Salary,United States,Kolkata,2024-01-28,1491066.85,Verified,HIGH,624-934-7207x79152,michaelcook@example.net
+CUST_1420,ACC_5420,Jeffrey Martin,Corporate,Germany,,11/10/2022,4041091.42,Expired,MEDIUM,(741)739-7720x20483,stevengonzales@example.org
+CUST_1421,ACC_5421,Mrs. Wanda Warren,Current,Germany,Delhi,23/11/2021,2371915.62,Expired,HIGH,329.221.7317x896,kent64@example.org
+CUST_1422,ACC_5422,Joshua Simpson,Corporate,India,Delhi,29/01/2025,2751039.85,Expired,MEDIUM,300.856.7341,hruiz@example.com
+CUST_1423,ACC_5423,Debbie Simon,Corporate,United States,Patna,18/09/2025,2547628.58,Expired,HIGH,001-696-350-0119,stephanieandersen@example.net
+CUST_1424,ACC_5424,Colton Smith,Current,Germany,Hyderabad,2021-06-21,4302666.14,Verified,MEDIUM,682.330.0704x27784,moralesshannon@example.com
+CUST_1425,ACC_5425,Nathan Parker,NRI,Germany,Kolkata,06-08-2022,4757245.23,Expired,HIGH,752.860.6602x288,nancy38@example.net
+CUST_1426,ACC_5426,William Singleton,Savings,Germany,Hyderabad,01-29-2020,418539.07,Verified,MEDIUM,(571)450-1783,ualvarez@example.com
+CUST_1427,ACC_5427,Cody Bell,Salary,Singapore,Patna,2020-11-12,203797.41,Pending,HIGH,(787)328-6625,huberaaron@example.net
+CUST_1428,ACC_5428,Matthew Anderson,NRI,UAE,Patna,01-21-2021,4081016.56,Expired,MEDIUM,663.825.8559,zchristian@example.com
+CUST_1429,ACC_5429,Tiffany Martinez,Current,India,Delhi,2022-09-01,1293540.6,Incomplete,LOW,626.941.0098x06536,brownpaul@example.org
+CUST_1430,ACC_5430,Annette Walker,Savings,UAE,Chennai,01-31-2025,999814.54,Pending,LOW,396-412-2394x6524,irodriguez@example.com
+CUST_1431,ACC_5431,Holly Stephenson,Current,United Kingdom,Bengaluru,24/07/2023,1495148.61,,HIGH,284-585-4666x2242,susanmarshall@example.org
+CUST_1432,ACC_5432,Jesse Stokes,Savings,United States,Bengaluru,2019-08-19,3415433.02,Incomplete,LOW,670-450-9452x767,emilybrooks@example.org
+CUST_1433,ACC_5433,Tina Barry,Current,India,Mumbai,2023-10-16,294786.22,Verified,LOW,735-958-4004,thomas29@example.org
+CUST_1434,ACC_5434,Angelica Rodriguez,Savings,U.S.A,Bengaluru,13/07/2022,3269772.04,Expired,LOW,893-748-8229x40347,kennethholmes@example.com
+CUST_1435,ACC_5435,Angela Pacheco,Savings,United Kingdom,Delhi,2022-05-07,274390.24,Verified,HIGH,+1-335-728-2540,frankjohnson@example.org
+CUST_1436,ACC_5436,Erica Jennings,Savings,Germany,Mumbai,12-05-2025,2130060.72,Incomplete,LOW,339-565-8849x694,blawrence@example.com
+CUST_1437,ACC_5437,Anna Parker,NRI,India,Hyderabad,02-21-2021,298018.08,Verified,LOW,001-932-462-5141,xmullins@example.org
+CUST_1438,ACC_5438,Mr. Mason Pacheco III,Savings,United States,Pune,05-23-2021,4731858.75,Pending,HIGH,(781)574-2002,baileylinda@example.org
+CUST_1439,ACC_5439,Dustin Kim,Savings,India,Patna,2024-12-15,3406772.52,Pending,MEDIUM,953.574.6664,ashley79@example.org
+CUST_1440,ACC_5440,Emma Johnson,Salary,United Kingdom,Bengaluru,2023-07-22,1126412.5,Expired,MEDIUM,+1-741-458-7334,jean11@example.org
+CUST_1441,ACC_5441,Craig Carney,Current,Germany,Patna,10-03-2021,2670701.98,,LOW,(511)698-5222x86921,william09@example.org
+CUST_1442,ACC_5442,Louis Wright,NRI,United Kingdom,Kolkata,2021-08-17,4570588.73,Incomplete,LOW,463-371-8009x722,jessebaker@example.com
+CUST_1443,ACC_5443,Sabrina Dawson,Current,UAE,Hyderabad,12/12/2025,2726124.29,Pending,MEDIUM,669.965.0828,myersmadison@example.com
+CUST_1444,ACC_5444,Louis Tucker,Salary,United States,Pune,05/07/2023,4506585.87,Pending,HIGH,897.430.3685,kdaugherty@example.org
+CUST_1445,ACC_5445,Courtney Rivera,Salary,India,Bengaluru,2021-05-12,123903.62,Expired,HIGH,3108488141,zperry@example.org
+CUST_1446,ACC_5446,Matthew Compton,Salary,UAE,Pune,28/03/2023,933831.83,Verified,MEDIUM,+1-888-649-8266x3957,baldwinvincent@example.com
+CUST_1447,ACC_5447,Jacqueline Smith,Corporate,India,Hyderabad,22/09/2025,1155122.95,,LOW,874-407-9468,emarsh@example.net
+CUST_1448,ACC_5448,Gary Hamilton,Savings,India,Mumbai,30/04/2021,1888757.76,Pending,MEDIUM,975.879.4093,rogersdana@example.net
+CUST_1449,ACC_5449,Ms. Jennifer Krueger,Current,United States,Kolkata,01/05/2024,2896909.84,Pending,MEDIUM,001-693-653-1847x38604,nelsonmaria@example.net
+CUST_1450,ACC_5450,Clifford Rose,Current,United States,Patna,08-23-2020,3800043.7,Expired,MEDIUM,607.900.5400,michaelmoreno@example.com
+CUST_1451,ACC_5451,Samuel Romero,Salary,United Kingdom,Bengaluru,2020-09-12,2947753.28,Incomplete,HIGH,+1-579-462-4577x64400,evanmartin@example.org
+CUST_1452,ACC_5452,Sherry Noble,Corporate,Germany,Patna,07/01/2021,324334.95,Expired,MEDIUM,001-750-535-7748x56915,collinmontoya@example.net
+CUST_1453,ACC_5453,Aaron Morris,Savings,United Kingdom,Mumbai,30/07/2025,4259595.93,Pending,MEDIUM,(545)463-3269x7321,kylehill@example.net
+CUST_1454,ACC_5454,Matthew Jones,Current,Germany,Mumbai,05/03/2023,1667976.81,Incomplete,LOW,001-252-443-5756x81569,lori99@example.net
+CUST_1455,ACC_5455,Joshua Carr,Current,India,Chennai,09-08-2024,681786.79,Expired,MEDIUM,(789)769-4452x76144,brooke31@example.net
+CUST_1456,ACC_5456,Elizabeth Mason,NRI,Germany,Chennai,2021-10-27,3512803.61,Expired,MEDIUM,001-371-566-1308x1808,michaelhahn@example.com
+CUST_1457,ACC_5457,Carolyn Barnes,Current,India,Patna,29/03/2025,3067934.47,Verified,LOW,3525345329,wmiller@example.com
+CUST_1458,ACC_5458,John Deleon,Salary,India,Mumbai,09-26-2025,337864.74,Incomplete,LOW,619.651.9121x56455,kristin24@example.com
+CUST_1459,ACC_5459,Guy Kerr,Salary,India,Kolkata,22/08/2019,1087544.49,Verified,LOW,+1-444-335-5039x561,rushallison@example.com
+CUST_1460,ACC_5460,Bradley Richard,Salary,Singapore,Mumbai,2021-12-02,4498848.54,Verified,HIGH,337-523-4346x530,ksweeney@example.org
+CUST_1461,ACC_5461,Jose Pacheco,Corporate,United States,Kolkata,23/03/2026,956910.22,Expired,HIGH,001-258-694-0054x7129,greenkristy@example.net
+CUST_1462,ACC_5462,Amanda Riddle,Savings,India,Pune,04-04-2021,3453563.93,Incomplete,HIGH,717-440-1721x185,dross@example.net
+CUST_1463,ACC_5463,Jacob Roberts,Current,Singapore,Chennai,19/11/2025,4562937.53,Pending,HIGH,400-607-7182,lindsay93@example.net
+CUST_1464,ACC_5464,Taylor Reed,Salary,United Kingdom,Delhi,2020-09-29,4015091.51,Verified,LOW,(206)389-2851x01317,khughes@example.net
+CUST_1465,ACC_5465,Mallory Miller,Savings,United States,Mumbai,07/03/2021,2151998.44,Pending,HIGH,001-931-550-7326x8689,lopezroy@example.org
+CUST_1466,ACC_5466,Michelle Carter,Salary,Germany,Mumbai,13/08/2020,857082.6,Incomplete,LOW,4837721475,nguyenabigail@example.net
+CUST_1467,ACC_5467,Taylor Velazquez,Corporate,India,Hyderabad,06-14-2020,4087008.4,Verified,HIGH,001-483-438-4861x801,rwilliams@example.org
+CUST_1468,ACC_5468,Timothy Crosby,Corporate,Singapore,Kolkata,22/08/2023,3604595.94,Verified,LOW,772.385.1557,juliejones@example.org
+CUST_1469,ACC_5469,Kimberly Randall,Current,India,Mumbai,02-11-2022,1188676.31,Incomplete,HIGH,6854027755,mirandagreer@example.com
+CUST_1470,ACC_5470,James Elliott,NRI,Singapore,Bengaluru,11-16-2023,2263284.78,Verified,LOW,693.817.2896x24023,steven08@example.com
+CUST_1471,ACC_5471,Lisa Wells,Salary,Singapore,Pune,10-03-2022,2666833.25,Pending,HIGH,+1-587-947-5034x543,johntaylor@example.com
+CUST_1472,ACC_5472,Joy Cunningham,Salary,United States,Kolkata,2020-01-27,449373.32,Expired,HIGH,(647)465-7967,rebekahwilliams@example.org
+CUST_1473,ACC_5473,Brian Davenport,Salary,UAE,Bengaluru,17/11/2022,2195258.53,Pending,LOW,001-824-663-9244x02257,austin16@example.net
+CUST_1474,ACC_5474,Jack Johnson,NRI,Germany,Pune,01/11/2020,4933648.23,Pending,LOW,834-244-9467,gardnerwilliam@example.net
+CUST_1475,ACC_5475,Kara Patrick,Savings,India,Hyderabad,08-20-2021,2524840.46,Expired,LOW,655-826-6089x707,donaldbooker@example.org
+CUST_1476,ACC_5476,Jeffery Price,Corporate,Singapore,Bengaluru,20/03/2025,4323935.15,Expired,HIGH,001-369-980-3278x180,bbarnes@example.net
+CUST_1477,ACC_5477,Maria Arellano,Savings,United Kingdom,Patna,07-08-2023,2913072.2,Verified,LOW,550-889-0062x843,sandrasmith@example.net
+CUST_1478,ACC_5478,Sheri Brown,Salary,United Kingdom,Delhi,12-01-2019,3281734.51,Verified,HIGH,(965)303-5475x9021,norrisrebecca@example.com
+CUST_1479,ACC_5479,Teresa Jones,Corporate,Germany,Delhi,2020-10-29,4346016.48,Expired,MEDIUM,001-487-984-8388,stephen40@example.com
+CUST_1480,ACC_5480,Daniel Stone,Salary,United Kingdom,Patna,15/03/2020,4728712.25,Incomplete,LOW,694-265-2641x3848,james23@example.org
+CUST_1481,ACC_5481,Ronald Rowe,Savings,UAE,Kolkata,17/04/2023,2412464.59,Expired,MEDIUM,(222)978-9649x6121,ibrown@example.net
+CUST_1482,ACC_5482,Ashley Edwards,Corporate,UAE,Bengaluru,2022-01-26,3019444.3,Incomplete,MEDIUM,755.485.6672x567,lindsay71@example.com
+CUST_1483,ACC_5483,Ian Patterson,Corporate,United States,Pune,05/03/2022,3398337.2,Pending,HIGH,846.763.6434x42001,moniquejones@example.net
+CUST_1484,ACC_5484,Jennifer Richmond,Corporate,India,Pune,02-27-2022,2329914.79,Incomplete,LOW,001-235-997-6562x14349,michael01@example.org
+CUST_1485,ACC_5485,Stephanie Kim,Current,UAE,Mumbai,08-10-2022,3566021.63,Pending,LOW,799.321.7730x630,lbauer@example.org
+CUST_1486,ACC_5486,Jonathan Richardson,NRI,Singapore,Hyderabad,2023-07-17,3140179.91,Verified,MEDIUM,3526080053,caseypatricia@example.org
+CUST_1487,ACC_5487,Brandon Harvey,NRI,United Kingdom,Kolkata,2023-05-17,1121102.81,Verified,LOW,+1-639-295-4558x48990,cschwartz@example.com
+CUST_1488,ACC_5488,Alexis Mccall,Savings,UAE,,28/10/2023,1512937.75,Verified,MEDIUM,+1-770-729-6122x84677,kimberly22@example.com
+CUST_1489,ACC_5489,Jacob Pope,Savings,United Kingdom,Bengaluru,11-19-2022,3193403.14,Pending,MEDIUM,480.510.5294x5870,blairjose@example.org
+CUST_1490,ACC_5490,Mitchell Figueroa,Salary,United States,Bengaluru,2020-05-17,795132.25,Expired,HIGH,475.941.8893x212,stacyroberts@example.com
+CUST_1491,ACC_5491,Bianca Fitzgerald,Savings,United Kingdom,Patna,09-24-2023,1465120.36,Incomplete,LOW,693-477-8386x865,cgarcia@example.net
+CUST_1492,ACC_5492,Ryan Thomas,Current,UAE,Hyderabad,2022-05-27,3058872.74,Expired,HIGH,001-870-775-8171x603,wstewart@example.com
+CUST_1493,ACC_5493,Brenda Briggs,NRI,UAE,,21/10/2019,2907392.89,Expired,HIGH,489-988-2934,karen99@example.net
+CUST_1494,ACC_5494,Kristine Robinson,Savings,India,Patna,01-15-2026,1791514.41,Verified,HIGH,846-236-5583x91950,cabreravalerie@example.com
+CUST_1495,ACC_5495,Jose Wheeler,NRI,India,Bengaluru,08-03-2021,813924.69,Incomplete,LOW,310.888.0791x62282,rsandoval@example.net
+CUST_1496,ACC_5496,David Jones,NRI,UAE,Mumbai,03-16-2025,4139704.18,Expired,MEDIUM,(575)364-3180x2729,kprince@example.org
+CUST_1497,ACC_5497,Nicolas Webster,Current,Germany,Hyderabad,11/06/2022,2774288.91,Incomplete,LOW,937.453.1477x58974,jimmy38@example.net
+CUST_1498,ACC_5498,Christopher Schultz,Savings,Germany,Pune,2023-10-13,2126363.71,Verified,MEDIUM,(638)531-8904,dawn60@example.com
+CUST_1499,ACC_5499,George Carter,Corporate,Germany,Kolkata,15/03/2022,763305.47,Incomplete,HIGH,952.374.4707x28472,rhondahughes@example.org
+CUST_1500,ACC_5500,Crystal Davis,Corporate,Singapore,Delhi,17/10/2021,3783888.89,Incomplete,HIGH,(717)304-2774x990,michele06@example.com
