@@ -57,3 +57,12 @@ export async function getEntityResolutionReport() {
   const response = await api.get("/data-quality/entity-resolution");
   return response.data;
 }
+export async function getSimulationEvents() {
+  const response = await api.get("/simulation/events");
+  return response.data;
+}
+
+export async function clearSimulationEvents() {
+  const response = await api.delete("/simulation/events");
+  return response.data;
+}

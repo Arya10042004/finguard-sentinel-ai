@@ -7,6 +7,7 @@ from app.routes.risk_routes import router as risk_router
 from app.routes.compliance_routes import router as compliance_router
 from app.routes.audit_routes import router as audit_router
 from app.routes.data_quality_routes import router as data_quality_router
+from app.routes.simulation_routes import router as simulation_router
 
 app = FastAPI(
     title="FINGUARD Sentinel AI",
@@ -28,6 +29,7 @@ app.include_router(risk_router)
 app.include_router(compliance_router)
 app.include_router(audit_router)
 app.include_router(data_quality_router)
+app.include_router(simulation_router)
 
 
 

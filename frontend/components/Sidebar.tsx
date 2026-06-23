@@ -9,6 +9,7 @@ import {
   FileClock,
   Database,
   Activity,
+  Radio,
 } from "lucide-react";
 
 export default function Sidebar() {
@@ -40,6 +41,11 @@ export default function Sidebar() {
       href: "/data-quality",
       icon: Database,
     },
+    {
+      name: "Live Simulation",
+      href: "/live-simulation",
+      icon: Radio,
+    },
   ];
 
   return (
@@ -51,12 +57,8 @@ export default function Sidebar() {
           </div>
 
           <div>
-            <h1 className="text-lg font-bold tracking-tight">
-              FINGUARD
-            </h1>
-            <p className="text-xs text-gray-500">
-              Sentinel AI
-            </p>
+            <h1 className="text-lg font-bold tracking-tight">FINGUARD</h1>
+            <p className="text-xs text-gray-500">Sentinel AI</p>
           </div>
         </div>
       </div>
@@ -87,8 +89,8 @@ export default function Sidebar() {
 
       <div className="mt-10 border-t border-zinc-800 pt-6">
         <p className="text-xs text-gray-500 leading-relaxed">
-          Enterprise financial risk, compliance intelligence, and data quality
-          monitoring platform.
+          Enterprise financial risk, compliance intelligence, data quality, and
+          live transaction monitoring platform.
         </p>
       </div>
     </aside>
